@@ -9,8 +9,9 @@ cors=CORS(app)
 model=pickle.load(open('LinearRegressionModel.pkl','rb'))
 car=pd.read_csv("New_df.csv")
 
-@app.route('/')
 @app.route('/',methods=['GET','POST'])
+def index():
+    
     city=sorted(car['City'].unique())
     year=sorted(car['Year'].unique(), reverse=True)
     brand=sorted(car['Brand'].unique())
