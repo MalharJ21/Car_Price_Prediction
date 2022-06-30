@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="static/css/style.css">
+    <title>Car Price Prediction</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  </head>
+  <body style= "background-color: lightblue">
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* style the container */
+.container {
+  position: relative;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px 0 30px 0;
+}
+
+/* style inputs and link buttons */
+input,
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+}
+
+input:hover,
+.btn:hover {
+  opacity: 1;
+}
+
+/* add appropriate colors to fb, twitter and google buttons */
+.fb {
+  background-color: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background-color: #55ACEE;
+  color: white;
+}
+
+.google {
+  background-color: #dd4b39;
+  color: white;
+}
+
+/* style the submit button */
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Two-column layout */
+.col {
+  float: left;
+  width: 50%;
+  margin: auto;
+  padding: 0 50px;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* vertical line */
+.vl {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  border: 2px solid #ddd;
+  height: 175px;
+}
+
+/* text inside the vertical line */
+.vl-innertext {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  padding: 8px 10px;
+}
+
+/* hide some text on medium and large screens */
+.hide-md-lg {
+  display: none;
+}
+
+/* bottom container */
+.bottom-container {
+  text-align: center;
+  background-color: #666;
+  border-radius: 0px 0px 4px 4px;
+}
+
+/* Responsive layout - when the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 650px) {
+  .col {
+    width: 100%;
+    margin-top: 0;
+  }
+  /* hide the vertical line */
+  .vl {
+    display: none;
+  }
+  /* show the hidden text on small screens */
+  .hide-md-lg {
+    display: block;
+    text-align: center;
+  }
+}
+</style>
+</head>
+<body>
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+  body {margin:0;}
+
+  .icon-bar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+
+  .icon-bar a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 12px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+  }
+
+  .icon-bar a:hover {
+    background-color: #000;
+  }
+
+  .active {
+    background-color: #04AA6D;
+  }
+  </style>
+
+  <div class="container">
+    <div class="row">
+      <div class="card mt-50" style="width: 100%; height: 100%">
+
+
+        <div class="icon-bar">
+    <a class="active" href="#"><i class="fa fa-home"></i></a>
+    <a href="#"><i class="fa fa-search"></i></a>
+    <a href="#"><i class="fa fa-envelope"></i></a>
+    <a href="#"><i class="fa fa-globe"></i></a>
+    <a href="#"><i class="fa fa-trash"></i></a>
+        </div>
+
+
+        <div class="card-header" style="background-color: grey">
+          <div class="col-12" style="text-align: center">
+            <h1>Car Price Prediction</h1>
+          </div>
+        </div>
+        <div class="card-body">
+           <div class="col-12" style="text-align: center">
+                    <h5>Here You Can Predict The Best Price For Your Car</h5>
+           </div>
+            <br>
+          <form method="post" accept-charset="UTF-8" name="Modelform">
+            <br><br>
+            <div class="col-10" form-group">
+            <label><b> Select Your City: </b></label>
+            <select class="selectpicker form-control" id="city" name="city" required="1">
+
+              {% for city in city%}
+
+                <option value="{{ city }}">{{ city }}</option>
+              {% endfor %}
+            </select>
+            </div>
+            <br><br>
+            <div class="col-10" form-group">
+            <label><b> Select Year of Purchase: </b></label>
+            <select class="selectpicker form-control" id="year" name="year" required="1">
+              {% for year in years %}
+
+                <option value="{{ year }}">{{ year }}</option>
+              {% endfor %}
+            </select>
+            </div>
+            <br><br>
+            <div class="col-md-10 form-group" style=>
+              <label><b>Select the company:</b> </label><br>
+              <select class="selectpicker form-control" id="company" name="company" required="1"
+                      onchange="load_car_models(this.id,'car_models')">
+                {% for company in companies %}
+                <option value="{{ company }}">{{ company }}</option>
+                {% endfor %}
+              </select>
+            </div>
+            <br><br>
+            <div class="col-md-10 form-group" >
+              <label><b>Select the model:</b> </label><br>
+              <select class="selectpicker form-control" id="car_models" name="car_models" required="1">
+              </select>
+            </div>
+            <br><br>
+            <div class="col-10" form-group">
+            <label><b> Select Your Car Transmission: </b></label>
+            <select class="selectpicker form-control" id="car_tran" name="car_tran" required="1">
+              {% for car_tran in car_trans %}
+
+                <option value="{{ car_tran }}">{{ car_tran }}</option>
+              {% endfor %}
+            </select>
+            <br><br>
+            </div>
+            <div class="col-10" form-group">
+            <label><b> Select Your Ownership: </b></label>
+            <select class="selectpicker form-control" id="owner" name="owner" required="1">
+              {% for owner in owner %}
+
+                <option value="{{ owner }}">{{ owner }}</option>
+              {% endfor %}
+            </select>
+            </div>
+            <br><br>
+            <div class="col-10" form-group">
+            <label><b> Select Your Car Type: </b></label>
+            <select class="selectpicker form-control" id="car_type" name="car_type" required="1">
+              {% for car_type in car_type %}
+
+                <option value="{{ car_type }}">{{ car_type }}</option>
+              {% endfor %}
+            </select>
+            </div>
+            <br><br>
+            <div class="col-10" form-group">
+            <label><b> Number Of Kilometers Your Car Has Travelled</b></label>
+            <input class="form-control" type="text" id="kilo_driven" name="kilo_driven" placeholder="Enter No of KM Your Car Has Travelled">
+            </div>
+            <br><br>
+            <div class="col-10" form-group">
+            <button class="btn btn-success form-control" onclick="send_data()">Predict The Price</button>
+            </div>
+          </form>
+          <br>
+
+          <div class="row">
+            <div class="col-12" style="text-align: center">
+              <h3><span id="prediction"></span></h3>
+            </div>
+          </div>
+
+
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+<script>
+
+    function load_car_models(company_id,car_model_id)
+    {
+        var company=document.getElementById(company_id);
+        var car_model= document.getElementById(car_model_id);
+        console.log(company.value);
+        car_model.value="";
+        car_model.innerHTML="";
+        {% for company in companies %}
+            if( company.value == "{{ company }}")
+            {
+                {% for model in car_models %}
+                    {% if company in model %}
+
+                        var newOption= document.createElement("option");
+                        newOption.value="{{ model }}";
+                        newOption.innerHTML="{{ model }}";
+                        car_model.options.add(newOption);
+                    {% endif %}
+                {% endfor %}
+            }
+        {% endfor %}
+    }
+
+    function form_handler(event) {
+        event.preventDefault(); // Don't submit the form normally
+    }
+    function send_data()
+    {
+        document.querySelector('form').addEventListener("submit",form_handler);
+
+        var fd=new FormData(document.querySelector('form'));
+
+        var xhr= new XMLHttpRequest({mozSystem: true});
+
+        xhr.open('POST','/predict',true);
+        document.getElementById('prediction').innerHTML="Please Wait...!, While we predict best price for your car ";
+        xhr.onreadystatechange = function(){
+            if(xhr.readyState == XMLHttpRequest.DONE){
+                document.getElementById('prediction').innerHTML="Prediction: ₹"+xhr.responseText;
+
+            }
+        };
+
+        xhr.onload= function(){};
+
+        xhr.send(fd);
+    }
+</script>
+</script>
+
+    </a>
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
