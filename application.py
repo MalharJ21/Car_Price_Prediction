@@ -1,15 +1,16 @@
-from flask import Flask,render_template,request
+from flask import Flask,render_template,request,redirect
+from flask_cors import CORS,cross_origin
 import pickle
 import pandas as pd
 import numpy as np
 
 app=Flask(__name__)
-
+cors=CORS(app)
 model=pickle.load(open('LinearRegressionModel.pkl','rb'))
 car=pd.read_csv("New_df.csv")
 
 @app.route('/')
-def index():
+@app.route('/',methods=['GET','POST'])
     city=sorted(car['City'].unique())
     year=sorted(car['Year'].unique(), reverse=True)
     brand=sorted(car['Brand'].unique())
@@ -25,8 +26,8 @@ def index():
 
     return render_template('index.html', city=city, years=year, brand=brand, car_name=car_name, car_model=car_model, owner=owner, car_type=car_type)
 
-
-@app.route('/predict', methods=['POST'])
+@app.route('/predict',methods=['POST'])
+@cross_origin()
 def predict():
 
     City=request.form.get('city')
