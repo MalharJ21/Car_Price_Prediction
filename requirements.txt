@@ -11,9 +11,9 @@ pandas
 pickle-mixin
 python-dateutil
 pytz
-scikit-learn==0.22.2
+scikit-learn==1.0.2
 scipy
 six
-sklearn==0.0
+sklearn
 threadpoolctl
 Werkzeug
