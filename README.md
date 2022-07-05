@@ -8,5 +8,10 @@ This project is based on cars data from [Cars24](https://www.cars24.com/) which 
 
 As the title suggests this is an end-to-end project, let me explain how and which are those stages ?
 
-![image](https://user-images.githubusercontent.com/99324199/177256384-144b3b79-6652-45a2-8d7b-abcdcb88bc89.png)
+![image](https://user-images.githubusercontent.com/99324199/177263229-4b66b842-3d7f-4f63-a525-99123f934373.png)
 
+### Lifecycle Of Project:-
+
+#### 1:- Collecting Data:-
+
+  
