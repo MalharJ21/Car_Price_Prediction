@@ -18,10 +18,8 @@ This involves the process of collecting data from different sources such as any 
 
 ### 2:- EDA & Modeling:-
 
-
+This phase involves data cleaning, performing analysis on this dataset and plotting different visualizations. In data cleaning, What I've done is dropped the null values, extracted valuable information from car's data, converting values from different units to same unit & put all these cleaned data into a separate csv file for serving as a source for next stage i.e Modeling [Cars24 Cleaned-CSV](https://github.com/MalharJ21/Car_Price_Prediction/blob/main/Cars24_Cleaned.csv). And I have also performed EDA on analysis on this dataset and plotted different visualizations, For example, If you have a question how many cars are on Manual Transmission and Automatic Transmission we can get pie chart with number of percentage for respective transmission present. After comes building ML models which trains on this dataset and helps us predict prices of properties which it has not seen before.
   
-
-
 
 
 
