@@ -207,7 +207,7 @@ input[type=submit]:hover {
 
 
   <div class="topnav">
-  <a class="active" href="http://127.0.0.1:5000/">Home</a>
+  <a class="active" href="https://ml-carpriceprediction-api.herokuapp.com/">Home</a>
   <a href="https://github.com/MalharJ21/Car_Price_Prediction">Source</a>
   <a href="https://www.linkedin.com/in/malhar-jadhav-b2a421213/">Contact</a>
   </div>
@@ -368,7 +368,7 @@ input[type=submit]:hover {
         var xhr= new XMLHttpRequest({mozSystem: true});
 
         xhr.open('POST','/predict',true);
-        document.getElementById('prediction').innerHTML="Please Wait...!, While we predict best price for your car ";
+        document.getElementById('prediction').innerHTML="Please Wait...! While we predict best price for your car ";
         xhr.onreadystatechange = function(){
             if(xhr.readyState == XMLHttpRequest.DONE){
                 document.getElementById('prediction').innerHTML="Prediction: ₹"+xhr.responseText;
