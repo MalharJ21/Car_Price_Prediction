@@ -23,4 +23,6 @@ This involves the process of collecting data from different sources such as any 
 
 
 
-Feel free to connect with me on LinkedIn(https://www.linkedin.com/in/malhar-jadhav-b2a421213/) for any feedback you have.
+
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/malhar-jadhav-b2a421213/) for any feedback you have.
