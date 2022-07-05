@@ -1,0 +1,393 @@
+City,Year,Brand,Car Name,Car model,Car Price,KM,Owner,Car Type,Car link
+Ahmedabad,2020,Maruti,Ertiga  ,Manual,"₹10,39,099","21,596 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2020-cars-ahmedabad-1143314365/
+Ahmedabad,2020,Maruti,New Wagon-R ,Manual,"₹5,80,599","3,586 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2020-cars-vadodara-1363266367/
+Ahmedabad,2020,Maruti,Swift  ,Manual,"₹5,89,699","36,866 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2020-cars-ahmedabad-11482096770/
+Ahmedabad,2014,Maruti,Wagon R 1.0,Manual,"₹3,24,199","17,625 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-ahmedabad-1354551100/
+Ahmedabad,2020,KIA,SELTOS  ,Manual,"₹11,96,799","20,061 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-surat-13560895779/
+Ahmedabad,2019,Mahindra,XUV500  ,Manual,"₹11,30,799","57,552 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2019-cars-ahmedabad-1140795567/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,36,699","6,531 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-vadodara-13634396777/
+Ahmedabad,2020,Volkswagen,Polo  ,Manual,"₹7,22,799","8,269 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2020-cars-surat-13535093775/
+Ahmedabad,2018,Mahindra,XUV500  ,Manual,"₹10,86,499","47,483 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2018-cars-surat-13553898792/
+Ahmedabad,2014,Honda,City  ,Automatic,"₹7,22,199","4,414 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2014-cars-surat-13596993773/
+Ahmedabad,2020,Volkswagen,Polo  ,Automatic,"₹9,77,499","8,476 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2020-cars-rajkot-15024797771/
+Ahmedabad,2019,Maruti,Swift  ,Manual,"₹5,63,799","46,384 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2019-cars-ahmedabad-1147440064/
+Ahmedabad,2021,KIA,SONET  ,,"₹9,97,299","10,170 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-sonet-2021-cars-rajkot-15092397718/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,36,699","6,118 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1148083862/
+Ahmedabad,2021,Renault,Kiger  ,,"₹8,67,499","4,126 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kiger-2021-cars-gandhinagar-14226592772/
+Ahmedabad,2018,Renault,Kwid  ,Manual,"₹3,60,699","31,436 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-surat-1357170669/
+Ahmedabad,2018,Volkswagen,Polo  ,Manual,"₹5,73,499","26,980 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2018-cars-ahmedabad-1142194465/
+Ahmedabad,2019,Maruti,Celerio  ,Manual,"₹4,57,599","58,517 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-ahmedabad-1147660265/
+Ahmedabad,2021,Skoda,KUSHAQ  ,,"₹17,18,799","14,232 km",1st Owner,Petrol,https://www.cars24.com/buy-used-skoda-kushaq-2021-cars-ahmedabad-11483096770/
+Ahmedabad,2018,Renault,Kwid  ,Manual,"₹3,81,799","16,721 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-surat-1357700567/
+Ahmedabad,2016,Volkswagen,Polo  ,Manual,"₹5,55,599","40,074 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2016-cars-ahmedabad-1145712467/
+Ahmedabad,2020,Hyundai,GRAND I10 NIOS,Manual,"₹6,86,399","19,817 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2020-cars-ahmedabad-11463694779/
+Ahmedabad,2021,Renault,Kwid  ,Manual,"₹4,87,699","13,258 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2021-cars-ahmedabad-11423193719/
+Ahmedabad,2021,Maruti,Baleno  ,Automatic,"₹10,14,799","3,195 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2021-cars-vadodara-13625890770/
+Ahmedabad,2017,Toyota,Etios Liva ,Manual,"₹4,78,999","58,134 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-etios-liva-2017-cars-ahmedabad-2998193100/
+Ahmedabad,2018,Mahindra,XUV500  ,Manual,"₹10,70,099","1,15,157 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2018-cars-ahmedabad-1141295905/
+Ahmedabad,2018,Maruti,Celerio  ,Manual,"₹4,36,499","71,188 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-surat-1351153469/
+Ahmedabad,2020,Hyundai,NEW I20 ,Automatic,"₹10,25,899","12,542 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-i20-2020-cars-ahmedabad-11480399776/
+Ahmedabad,2017,Hyundai,Grand i10 ,Manual,"₹5,23,099","7,807 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-ahmedabad-1146048505/
+Ahmedabad,2021,Mahindra,Thar  ,Automatic,"₹16,14,899","3,624 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mahindra-thar-2021-cars-rajkot-15073793710/
+Ahmedabad,2020,Renault,Kwid  ,Manual,"₹4,57,999","24,963 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2020-cars-ahmedabad-1140820163/
+Ahmedabad,2016,Maruti,Baleno  ,Manual,"₹5,14,199","26,962 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-surat-1354020968/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,83,699","2,966 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1351140061/
+Ahmedabad,2021,Mahindra,Thar  ,Automatic,"₹16,14,899",950 km,1st Owner,Petrol,https://www.cars24.com/buy-used-mahindra-thar-2021-cars-surat-13545992790/
+Ahmedabad,2015,Maruti,Swift  ,Manual,"₹5,16,399","39,435 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2015-cars-surat-13506198794/
+Ahmedabad,2017,Maruti,Eeco  ,Manual,"₹4,41,899","39,550 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2017-cars-surat-1352962360/
+Ahmedabad,2020,Maruti,Dzire  ,Manual,"₹7,18,099","19,851 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2020-cars-ahmedabad-11492693792/
+Ahmedabad,2020,Maruti,S PRESSO ,Manual,"₹4,84,299","8,452 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-rajkot-1508936669/
+Ahmedabad,2020,Hyundai,VENUE  ,Manual,"₹9,76,999","9,057 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-ahmedabad-1355777101/
+Ahmedabad,2020,KIA,SELTOS  ,Manual,"₹13,39,699","52,970 km",1st Owner,Diesel,https://www.cars24.com/buy-used-kia-seltos-2020-cars-ahmedabad-1148576366/
+Ahmedabad,2018,Hyundai,Grand i10 ,Manual,"₹5,66,099","9,785 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-ahmedabad-11425290710/
+Ahmedabad,2021,Maruti,Swift  ,Manual,"₹6,56,599","8,543 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2021-cars-ahmedabad-1147114862/
+Ahmedabad,2021,MG,HECTOR  ,Manual,"₹21,29,599","8,244 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2021-cars-ahmedabad-15074597793/
+Ahmedabad,2018,Renault,Kwid  ,Manual,"₹3,81,799","20,046 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-surat-13596799793/
+Ahmedabad,2014,Maruti,Swift  ,Manual,"₹4,61,499","80,441 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2014-cars-surat-1352754061/
+Ahmedabad,2017,Maruti,Alto 800 ,Manual,"₹3,03,399","15,740 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-surat-1357750165/
+Ahmedabad,2016,Maruti,Ciaz  ,Manual,"₹6,38,499","48,280 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2016-cars-ahmedabad-1140240266/
+Ahmedabad,2016,Renault,Kwid  ,Manual,"₹3,34,799","23,702 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-ahmedabad-11427398797/
+Ahmedabad,2018,Maruti,Swift  ,Manual,"₹5,37,899","55,655 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-surat-13552798777/
+Ahmedabad,2017,Hyundai,Grand i10 ,Manual,"₹5,03,199","9,239 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-ahmedabad-1140190904/
+Ahmedabad,2018,Maruti,Celerio  ,Manual,"₹4,68,499","38,507 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-surat-1351196460/
+Ahmedabad,2019,Maruti,Celerio  ,Manual,"₹4,78,199","32,030 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-ahmedabad-1145214668/
+Ahmedabad,2018,Hyundai,Grand i10 ,Manual,"₹4,90,699","41,708 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-surat-13526694790/
+Ahmedabad,2016,Hyundai,Grand i10 ,Manual,"₹4,99,099","40,128 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-ahmedabad-11402896779/
+Ahmedabad,2019,Hyundai,NEW SANTRO ,Automatic,"₹5,89,799","3,271 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-ahmedabad-15021598774/
+Ahmedabad,2019,Jeep,Compass  ,Manual,"₹13,98,099","10,488 km",1st Owner,Petrol,https://www.cars24.com/buy-used-jeep-compass-2019-cars-ahmedabad-11444994796/
+Ahmedabad,2018,Maruti,Swift  ,Automatic,"₹6,25,299","59,803 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-surat-1357538461/
+Ahmedabad,2019,Hyundai,NEW SANTRO ,Manual,"₹4,40,699","51,364 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-ahmedabad-1143390466/
+Ahmedabad,2019,Maruti,New Wagon-R ,Manual,"₹5,56,599","20,605 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-ahmedabad-1142574361/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹4,01,239","2,537 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-ahmedabad-1149603968/
+Ahmedabad,2016,Maruti,Wagon R 1.0,Manual,"₹4,28,599","14,642 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-ahmedabad-11445197798/
+Ahmedabad,2018,Audi,A3  ,Automatic,"₹19,68,199","40,422 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-audi-a3-2018-cars-ahmedabad-1143438048/
+Ahmedabad,2017,Hyundai,Grand i10 ,Manual,"₹4,75,999","23,584 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-ahmedabad-1148970064/
+Ahmedabad,2018,Maruti,Celerio  ,Manual,"₹4,69,699","31,321 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-surat-1356936461/
+Ahmedabad,2014,Honda,City  ,Manual,"₹6,00,599","87,194 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2014-cars-ahmedabad-1084313206/
+Ahmedabad,2016,Hyundai,Xcent  ,Manual,"₹5,25,499","41,986 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2016-cars-ahmedabad-11452898772/
+Ahmedabad,2020,Toyota,Glanza  ,Manual,"₹7,20,299","11,527 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-glanza-2020-cars-ahmedabad-11461594710/
+Ahmedabad,2019,Mahindra,XUV500  ,Automatic,"₹13,76,399","84,312 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2019-cars-ahmedabad-1149848369/
+Ahmedabad,2019,Ford,Ecosport  ,Manual,"₹9,48,599","24,186 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-surat-1356895361/
+Ahmedabad,2016,Honda,Amaze  ,Manual,"₹5,46,099","40,054 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2016-cars-ahmedabad-1145174763/
+Ahmedabad,2015,Hyundai,Eon  ,Manual,"₹2,95,399","36,850 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2015-cars-ahmedabad-11447791772/
+Ahmedabad,2015,Maruti,Baleno  ,Manual,"₹5,40,787","58,839 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2015-cars-ahmedabad-11414598799/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,74,599","24,968 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1149218966/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,65,299","11,634 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-11461095791/
+Ahmedabad,2019,Honda,Amaze  ,Manual,"₹6,33,499","37,768 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2019-cars-ahmedabad-11420792792/
+Ahmedabad,2015,Honda,Brio  ,Manual,"₹3,96,899","38,732 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2015-cars-surat-13557395795/
+Ahmedabad,2015,Hyundai,Eon  ,Manual,"₹3,09,699","28,670 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2015-cars-ahmedabad-11497693713/
+Ahmedabad,2020,Maruti,S PRESSO ,Manual,"₹4,56,899","18,681 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-ahmedabad-11468791796/
+Ahmedabad,2016,Hyundai,Xcent  ,Manual,"₹5,31,299","51,703 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2016-cars-ahmedabad-11414391777/
+Ahmedabad,2018,Maruti,Baleno  ,Manual,"₹6,50,299","21,445 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-vadodara-13677196770/
+Ahmedabad,2018,Jeep,Compass  ,Manual,"₹13,13,499","37,237 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2018-cars-ahmedabad-1148471868/
+Ahmedabad,2018,Renault,Kwid  ,Manual,"₹3,81,799","17,082 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-surat-13552993778/
+Ahmedabad,2021,Maruti,Eeco  ,Manual,"₹5,31,399","11,155 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2021-cars-ahmedabad-11442695771/
+Ahmedabad,2016,Honda,Jazz  ,Manual,"₹4,99,099","50,085 km",2nd Owner,Petrol + CNG,https://www.cars24.com/buy-used-honda-jazz-2016-cars-rajkot-15065698773/
+Ahmedabad,2017,Maruti,Celerio  ,Manual,"₹4,15,199","75,006 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-ahmedabad-11406192790/
+Ahmedabad,2021,Hyundai,VENUE  ,Manual,"₹8,36,199","7,573 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2021-cars-vadodara-13652196778/
+Ahmedabad,2019,Hyundai,Verna  ,Manual,"₹9,93,199","5,788 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2019-cars-ahmedabad-20470896797/
+Ahmedabad,2017,Honda,Brio  ,Automatic,"₹5,70,199","18,829 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2017-cars-surat-1351844663/
+Ahmedabad,2019,Renault,Kwid  ,Manual,"₹4,08,799","21,268 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-vadodara-13671896712/
+Ahmedabad,2018,Hyundai,Grand i10 ,Manual,"₹5,84,099","14,793 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-vadodara-13609090712/
+Ahmedabad,2014,Hyundai,Elite i20 ,Manual,"₹5,63,299","50,419 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-ahmedabad-1141463267/
+Ahmedabad,2018,Hyundai,Grand i10 ,Manual,"₹4,89,299","54,545 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-surat-13546494790/
+Ahmedabad,2019,Honda,Amaze  ,Automatic,"₹8,31,899","25,302 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-amaze-2019-cars-rajkot-1503640360/
+Ahmedabad,2017,Maruti,Alto 800 ,Manual,"₹3,13,899","31,386 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-ahmedabad-11465295799/
+Ahmedabad,2018,Honda,Jazz  ,Manual,"₹6,81,199","56,825 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2018-cars-ahmedabad-1141416360/
+Ahmedabad,2017,Maruti,Swift  ,Manual,"₹5,30,899","50,714 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-ahmedabad-1140991466/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,18,899","62,052 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-ahmedabad-1140210104/
+Ahmedabad,2016,Maruti,Vitara Brezza ,Manual,"₹6,97,299","1,50,355 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-ahmedabad-1357099805/
+Ahmedabad,2018,Maruti,Vitara Brezza ,Automatic,"₹8,37,599","33,373 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-ahmedabad-1350508907/
+Ahmedabad,2018,Maruti,Celerio X ,Manual,"₹4,49,599","79,113 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-x-2018-cars-ahmedabad-1149894963/
+Ahmedabad,2016,Maruti,Baleno  ,Manual,"₹5,18,799","90,855 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-ahmedabad-1148914062/
+Ahmedabad,2020,Hyundai,VENUE  ,Manual,"₹8,83,099","45,502 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-ahmedabad-11427496770/
+Ahmedabad,2016,Maruti,Vitara Brezza ,Manual,"₹7,95,299","77,481 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-vadodara-13699692713/
+Ahmedabad,2017,Skoda,Rapid  ,Manual,"₹6,02,899","83,867 km",1st Owner,Petrol,https://www.cars24.com/buy-used-skoda-rapid-2017-cars-vadodara-13680391777/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,55,699","1,15,329 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-ahmedabad-1466627408/
+Ahmedabad,2018,Maruti,Vitara Brezza ,Manual,"₹8,06,899","39,033 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-ahmedabad-1148994029/
+Ahmedabad,2021,Maruti,Baleno  ,Manual,"₹7,54,399","2,385 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2021-cars-ahmedabad-11425695778/
+Ahmedabad,2018,Hyundai,Elite i20 ,Manual,"₹7,31,499","40,636 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-surat-13578890774/
+Ahmedabad,2019,Hyundai,NEW SANTRO ,Manual,"₹5,16,899","15,026 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-surat-13500697790/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹6,85,899","3,627 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-ahmedabad-1145156601/
+Ahmedabad,2020,Maruti,IGNIS  ,Manual,"₹5,28,999","4,933 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2020-cars-ahmedabad-1359084805/
+Ahmedabad,2016,Hyundai,Grand i10 ,Manual,"₹4,41,699","73,191 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-ahmedabad-1143794867/
+Ahmedabad,2016,Hyundai,Elite i20 ,Manual,"₹5,88,699","59,671 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-ahmedabad-1146349468/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹7,22,599","3,111 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-ahmedabad-1140912862/
+Ahmedabad,2020,Renault,Kwid  ,Manual,"₹4,87,199","19,935 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2020-cars-ahmedabad-11467499770/
+Ahmedabad,2020,Honda,Civic  ,Manual,"₹17,10,199","29,552 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-civic-2020-cars-ahmedabad-15024195796/
+Ahmedabad,2019,Ford,Ecosport  ,Manual,"₹8,75,499","29,821 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-surat-1351213863/
+Ahmedabad,2018,Maruti,Baleno  ,Manual,"₹5,77,999","33,217 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-ahmedabad-1355977265/
+Ahmedabad,2021,Maruti,S PRESSO ,Automatic,"₹4,94,199","3,151 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-rajkot-1501750363/
+Ahmedabad,2019,Hyundai,Creta  ,Automatic,"₹13,69,899","9,553 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2019-cars-vadodara-13628395772/
+Ahmedabad,2016,Honda,City  ,Manual,"₹6,72,599","87,049 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2016-cars-ahmedabad-1144608969/
+Ahmedabad,2015,Volkswagen,Vento  ,Manual,"₹5,50,199","59,933 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2015-cars-ahmedabad-1145455863/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹7,80,505","14,551 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-ahmedabad-11477993717/
+Ahmedabad,2021,Maruti,Baleno  ,Manual,"₹7,54,399","7,138 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2021-cars-ahmedabad-11444599770/
+Ahmedabad,2016,Hyundai,Grand i10 ,Manual,"₹4,85,299","30,916 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-ahmedabad-1147662269/
+Ahmedabad,2015,Honda,Brio  ,Manual,"₹3,52,399","75,970 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2015-cars-ahmedabad-1143352402/
+Ahmedabad,2020,Hyundai,NEW SANTRO ,Manual,"₹5,25,599","6,234 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2020-cars-ahmedabad-1143689565/
+Ahmedabad,2016,Hyundai,Grand i10 ,Manual,"₹4,41,699","70,427 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-ahmedabad-11422699795/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹5,53,099","19,549 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-maruti-alto-2021-cars-ahmedabad-11495891775/
+Ahmedabad,2017,Hyundai,Xcent  ,Manual,"₹5,51,299","43,319 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2017-cars-ahmedabad-11468997794/
+Ahmedabad,2018,Hyundai,Creta  ,Manual,"₹12,26,599","72,123 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-gandhinagar-14259194791/
+Ahmedabad,2016,Maruti,Wagon R 1.0,Manual,"₹4,18,099","22,698 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-ahmedabad-11414292790/
+Ahmedabad,2014,Hyundai,i10  ,Manual,"₹3,50,699","37,680 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2014-cars-ahmedabad-15030192791/
+Ahmedabad,2019,Jeep,Compass  ,Manual,"₹14,25,399","60,946 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2019-cars-ahmedabad-1147364122/
+Ahmedabad,2021,Maruti,S PRESSO ,Manual,"₹4,41,299","6,027 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-ahmedabad-1147440761/
+Ahmedabad,2019,Maruti,New Wagon-R ,Manual,"₹5,61,099","41,419 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-ahmedabad-1146570161/
+Ahmedabad,2019,Hyundai,Grand i10 ,Manual,"₹5,41,699","28,022 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-ahmedabad-1140608001/
+Ahmedabad,2018,Hyundai,Grand i10 ,Manual,"₹5,84,099","19,521 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-surat-13530694794/
+Ahmedabad,2020,Volkswagen,Polo  ,Automatic,"₹8,79,699","40,145 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2020-cars-surat-1351324962/
+Ahmedabad,2020,MG,HECTOR  ,Automatic,"₹17,76,099","10,501 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2020-cars-rajkot-1509170466/
+Ahmedabad,2020,Hyundai,VENUE  ,Manual,"₹10,48,999","14,064 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-ahmedabad-11422097711/
+Ahmedabad,2019,Hyundai,Creta  ,Automatic,"₹12,78,099","31,889 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2019-cars-ahmedabad-1140173864/
+Ahmedabad,2014,Hyundai,i20  ,Manual,"₹4,14,299","48,665 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2014-cars-ahmedabad-1145235967/
+Ahmedabad,2017,Hyundai,Grand i10 ,Manual,"₹4,75,999","49,314 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-surat-1350804763/
+Ahmedabad,2020,Hyundai,Creta  ,Manual,"₹14,59,129","14,847 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-ahmedabad-11425795776/
+Ahmedabad,2018,Maruti,Vitara Brezza ,Manual,"₹7,21,699","52,735 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-ahmedabad-1143926841/
+Ahmedabad,2020,Maruti,S PRESSO ,Manual,"₹4,33,099","39,768 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-rajkot-15090094778/
+Ahmedabad,2021,MG,HECTOR  ,,"₹17,37,999","14,982 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2021-cars-ahmedabad-11499099778/
+Ahmedabad,2017,Datsun,Redi Go ,Manual,"₹2,97,799","14,257 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2017-cars-ahmedabad-1142142765/
+Ahmedabad,2017,Hyundai,Eon  ,Manual,"₹3,43,999","15,300 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-ahmedabad-1141923766/
+Ahmedabad,2020,Maruti,Dzire  ,Manual,"₹7,15,299","13,099 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2020-cars-ahmedabad-1149486468/
+Ahmedabad,2020,Hyundai,Creta  ,Manual,"₹14,83,599","65,365 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-vadodara-13615191719/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹7,62,899","9,204 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-vadodara-1362940268/
+Ahmedabad,2019,Maruti,Dzire  ,Manual,"₹6,48,999","45,720 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-ahmedabad-1140658660/
+Ahmedabad,2016,Maruti,Alto 800 ,Manual,"₹2,93,199","38,157 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-ahmedabad-11466790791/
+Ahmedabad,2016,Maruti,Wagon R 1.0,Manual,"₹4,00,399","31,312 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-ahmedabad-1145826765/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹4,20,299","9,783 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-ahmedabad-11459692770/
+Ahmedabad,2016,Maruti,Baleno  ,Manual,"₹5,57,999","56,814 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-ahmedabad-1358753961/
+Ahmedabad,2019,Maruti,Dzire  ,Manual,"₹6,60,899","39,361 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-ahmedabad-1143950267/
+Ahmedabad,2019,Maruti,Dzire  ,Manual,"₹6,68,099","15,248 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-ahmedabad-1141397761/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,87,099","56,796 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-surat-1354906066/
+Ahmedabad,2017,Maruti,Wagon R 1.0,Manual,"₹4,10,699","72,477 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-surat-1357180967/
+Ahmedabad,2017,Hyundai,Grand i10 ,Manual,"₹4,75,999","25,708 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-ahmedabad-1149748468/
+Ahmedabad,2016,Maruti,Baleno  ,Manual,"₹5,47,599","65,499 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-vadodara-13611299791/
+Ahmedabad,2015,Honda,City  ,Automatic,"₹6,69,699","61,219 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2015-cars-ahmedabad-1147975662/
+Ahmedabad,2020,MG,HECTOR  ,Automatic,"₹16,76,199","8,717 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2020-cars-ahmedabad-1039767242/
+Ahmedabad,2021,Hyundai,VENUE  ,Manual,"₹8,36,199","29,669 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2021-cars-surat-13514099794/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹6,27,299","9,193 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-ahmedabad-1149914767/
+Ahmedabad,2016,Hyundai,Grand i10 ,Manual,"₹4,79,199","43,952 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-ahmedabad-1146639863/
+Ahmedabad,2019,Hyundai,Grand i10 ,Manual,"₹5,12,299","34,725 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-ahmedabad-11498193779/
+Ahmedabad,2019,Hyundai,Verna  ,Automatic,"₹10,88,199","40,336 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2019-cars-ahmedabad-1149421560/
+Ahmedabad,2019,Maruti,Dzire  ,Manual,"₹6,83,499","18,618 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-ahmedabad-1142438665/
+Ahmedabad,2018,Hyundai,Eon  ,Manual,"₹3,61,999","16,809 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2018-cars-ahmedabad-11499694791/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,72,299","48,585 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-surat-1350975662/
+Ahmedabad,2019,KIA,SELTOS  ,Automatic,"₹13,52,399","58,603 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2019-cars-surat-1359796862/
+Ahmedabad,2020,Maruti,Dzire  ,Manual,"₹6,80,999","32,623 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2020-cars-ahmedabad-1148951066/
+Ahmedabad,2019,Maruti,Dzire  ,Manual,"₹7,09,799","20,761 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-vadodara-13673594790/
+Ahmedabad,2021,Maruti,Baleno  ,Manual,"₹6,89,699","22,651 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2021-cars-ahmedabad-1148680763/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹2,98,899","64,171 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1145819060/
+Ahmedabad,2016,Maruti,Baleno  ,Manual,"₹5,51,999","46,019 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-ahmedabad-1148063960/
+Ahmedabad,2017,Maruti,Wagon R 1.0,Manual,"₹4,66,299","16,248 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-vadodara-13667392718/
+Ahmedabad,2019,Maruti,S PRESSO ,Manual,"₹4,19,599","5,848 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-ahmedabad-1145590842/
+Ahmedabad,2019,Maruti,Baleno  ,Manual,"₹6,12,799","66,749 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-ahmedabad-1140299960/
+Ahmedabad,2020,Maruti,S PRESSO ,Manual,"₹4,52,599","10,024 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-surat-13558897794/
+Ahmedabad,2019,Maruti,Dzire  ,Manual,"₹6,50,799","58,978 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-ahmedabad-1144744461/
+Ahmedabad,2019,KIA,SELTOS  ,Manual,"₹11,07,499","36,999 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2019-cars-surat-13529698771/
+Ahmedabad,2016,Hyundai,Elite i20 ,Manual,"₹5,73,299","61,714 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-ahmedabad-1140646060/
+Ahmedabad,2019,Maruti,Dzire  ,Manual,"₹7,11,499","20,691 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-ahmedabad-11451992714/
+Ahmedabad,2018,Maruti,Wagon R 1.0,Manual,"₹4,18,899","80,865 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-ahmedabad-1146912560/
+Ahmedabad,2019,Maruti,Celerio X ,Manual,"₹5,13,799","14,071 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-x-2019-cars-ahmedabad-1141960968/
+Ahmedabad,2018,Honda,City  ,Manual,"₹8,24,899","76,040 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-ahmedabad-11409494710/
+Ahmedabad,2020,Hyundai,GRAND I10 NIOS,Manual,"₹6,27,975","19,124 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2020-cars-ahmedabad-1146214363/
+Ahmedabad,2019,Ford,Ecosport  ,Manual,"₹8,29,799","77,774 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-surat-1355282667/
+Ahmedabad,2017,Maruti,Alto 800 ,Manual,"₹2,98,299","46,398 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-ahmedabad-1144398068/
+Ahmedabad,2017,Maruti,Wagon R 1.0,Manual,"₹4,18,299","27,932 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-surat-1352353864/
+Ahmedabad,2016,Hyundai,i20 Active ,Manual,"₹5,69,499","54,562 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2016-cars-vadodara-13612090794/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,56,499","76,932 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-ahmedabad-1149564364/
+Ahmedabad,2019,Hyundai,Verna  ,Manual,"₹8,74,199","34,014 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2019-cars-surat-1359538068/
+Ahmedabad,2020,Maruti,S PRESSO ,Manual,"₹3,81,599","23,128 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-ahmedabad-1148956704/
+Ahmedabad,2019,Hyundai,VENUE  ,Manual,"₹10,02,299","14,833 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-ahmedabad-1140335064/
+Ahmedabad,2019,Hyundai,NEW SANTRO ,Automatic,"₹5,06,699","26,810 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-ahmedabad-1140560602/
+Ahmedabad,2018,Maruti,IGNIS  ,Manual,"₹4,81,599","48,213 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-surat-1356118269/
+Ahmedabad,2016,Maruti,Wagon R 1.0,Manual,"₹3,92,899","54,537 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-surat-1359954264/
+Ahmedabad,2019,MG,HECTOR  ,Manual,"₹16,29,899","55,484 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-ahmedabad-11460991793/
+Ahmedabad,2018,Honda,City  ,Automatic,"₹8,68,099","95,439 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-ahmedabad-1140973605/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,00,299","43,426 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1145336706/
+Ahmedabad,2017,Ford,Ecosport  ,Manual,"₹7,30,799","59,878 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-ahmedabad-1142720967/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹7,25,799","64,886 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-ahmedabad-11461492793/
+Ahmedabad,2017,Maruti,Wagon R 1.0,Manual,"₹4,27,299","38,391 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-ahmedabad-11457995791/
+Ahmedabad,2018,Maruti,Wagon R 1.0,Manual,"₹4,64,999","8,413 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-ahmedabad-1142840969/
+Ahmedabad,2020,MG,HECTOR  ,Automatic,"₹17,39,399","23,140 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2020-cars-ahmedabad-1505762360/
+Ahmedabad,2016,Maruti,S Cross ,Manual,"₹5,63,099","82,230 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2016-cars-ahmedabad-1144759163/
+Ahmedabad,2019,KIA,SELTOS  ,Manual,"₹11,07,499","19,762 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2019-cars-surat-1351283068/
+Ahmedabad,2019,KIA,SELTOS  ,Automatic,"₹14,04,899","60,974 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2019-cars-surat-1358894569/
+Ahmedabad,2019,Maruti,Dzire  ,Manual,"₹7,01,551","8,696 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-ahmedabad-1145475864/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹6,27,299","29,746 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-ahmedabad-11402096774/
+Ahmedabad,2018,Maruti,Baleno  ,Manual,"₹5,30,699","98,876 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-ahmedabad-1145157848/
+Ahmedabad,2019,Honda,City  ,Manual,"₹9,49,799","58,758 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2019-cars-ahmedabad-1141675762/
+Ahmedabad,2013,Maruti,Wagon R 1.0,Manual,"₹3,12,099","83,401 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2013-cars-ahmedabad-1148380960/
+Ahmedabad,2018,Hyundai,Eon  ,Manual,"₹3,62,255","20,440 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2018-cars-ahmedabad-11405193711/
+Ahmedabad,2018,Maruti,Ciaz  ,Manual,"₹6,49,099","83,622 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2018-cars-ahmedabad-1140102105/
+Ahmedabad,2019,Honda,Amaze  ,Manual,"₹7,57,499","8,559 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2019-cars-surat-13523295795/
+Ahmedabad,2021,Maruti,S Cross ,,"₹11,41,422","10,285 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-cross-2021-cars-ahmedabad-1141382466/
+Ahmedabad,2018,Honda,Jazz  ,Manual,"₹6,84,599","43,882 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2018-cars-surat-1358946465/
+Ahmedabad,2018,Hyundai,Verna  ,Automatic,"₹10,11,499","17,142 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-ahmedabad-1140168266/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,92,299","34,151 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-ahmedabad-1146524865/
+Ahmedabad,2021,Maruti,Baleno  ,Manual,"₹7,15,635","21,363 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2021-cars-ahmedabad-11461298770/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,22,299","47,663 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1355482160/
+Ahmedabad,2021,Maruti,S PRESSO ,Manual,"₹4,36,199","19,278 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-ahmedabad-14203395776/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,66,299","84,107 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-ahmedabad-1140843165/
+Ahmedabad,2022,Maruti,S Cross ,Manual,"₹11,19,599","14,122 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-cross-2022-cars-ahmedabad-11465595770/
+Ahmedabad,2020,Maruti,S PRESSO ,Manual,"₹4,52,699","19,702 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-ahmedabad-1148650469/
+Ahmedabad,2017,Ford,Ecosport  ,Manual,"₹6,68,399","82,050 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-ahmedabad-1144445160/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹4,32,999","8,550 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-gandhinagar-14252596790/
+Ahmedabad,2019,Maruti,Alto K10 ,Manual,"₹3,70,199","44,701 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-ahmedabad-1144966968/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,01,899","50,638 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1142344607/
+Ahmedabad,2018,Hyundai,Creta  ,Automatic,"₹11,92,499","58,756 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-ahmedabad-1140410069/
+Ahmedabad,2017,Jeep,Compass  ,Automatic,"₹11,87,799","63,038 km",1st Owner,Petrol,https://www.cars24.com/buy-used-jeep-compass-2017-cars-ahmedabad-2065423806/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹2,99,099","56,232 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1143151100/
+Ahmedabad,2016,Hyundai,Grand i10 ,Manual,"₹4,95,799","29,085 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-ahmedabad-1146043865/
+Ahmedabad,2019,Maruti,Alto 800 ,Manual,"₹3,52,899","18,519 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2019-cars-vadodara-13654799792/
+Ahmedabad,2021,Honda,City  ,Manual,"₹14,72,899","20,306 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2021-cars-ahmedabad-11412699711/
+Ahmedabad,2021,Maruti,IGNIS  ,Manual,"₹5,65,099","9,045 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2021-cars-gandhinagar-14250896790/
+Ahmedabad,2017,Maruti,IGNIS  ,Manual,"₹4,43,399","41,831 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-ahmedabad-1147894262/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹3,89,699","7,339 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-surat-1358834563/
+Ahmedabad,2019,Maruti,S PRESSO ,Manual,"₹4,64,299","32,473 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-ahmedabad-11422097778/
+Ahmedabad,2017,Hyundai,Grand i10 ,Manual,"₹5,15,140","64,064 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-ahmedabad-1144121863/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,96,899","16,858 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-ahmedabad-1145555064/
+Ahmedabad,2020,Honda,City  ,Manual,"₹14,27,499","7,779 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-surat-1357860064/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,94,599","6,590 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1145880703/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,10,299","42,126 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1355891664/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,36,699","25,154 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-vadodara-13639995718/
+Ahmedabad,2018,Hyundai,Grand i10 ,Manual,"₹5,50,999","41,284 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-ahmedabad-1146678363/
+Ahmedabad,2018,Hyundai,Creta  ,Automatic,"₹12,20,699","83,685 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-ahmedabad-1144655260/
+Ahmedabad,2017,Maruti,Wagon R 1.0,Manual,"₹4,22,799","35,407 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-ahmedabad-1144904067/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹3,82,299","7,228 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-ahmedabad-1143475663/
+Ahmedabad,2019,Maruti,S PRESSO ,Manual,"₹4,41,099","13,271 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-ahmedabad-1144507661/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,86,599","48,541 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-surat-1358414263/
+Ahmedabad,2021,Volkswagen,Vento  ,Manual,"₹9,56,499","22,649 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2021-cars-ahmedabad-11446599796/
+Ahmedabad,2019,Maruti,Baleno  ,Manual,"₹6,23,499","86,885 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-ahmedabad-1149214967/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹7,22,599","7,600 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-ahmedabad-1141170860/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹3,86,999","10,250 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-ahmedabad-1142404260/
+Ahmedabad,2018,Maruti,Wagon R 1.0,Manual,"₹4,48,355","48,691 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-ahmedabad-1147130967/
+Ahmedabad,2017,Maruti,Dzire  ,Manual,"₹6,09,499","38,454 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-surat-1353116964/
+Ahmedabad,2018,Honda,City  ,Automatic,"₹11,67,799","57,370 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-honda-city-2018-cars-ahmedabad-1140240260/
+Ahmedabad,2017,Maruti,Alto 800 ,Manual,"₹3,20,399","19,724 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-ahmedabad-1142402360/
+Ahmedabad,2018,Maruti,Wagon R 1.0,Automatic,"₹5,26,699","21,037 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-ahmedabad-1357516261/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹6,94,999","45,942 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-gandhinagar-1425180861/
+Ahmedabad,2019,Maruti,S PRESSO ,Manual,"₹4,02,699","10,038 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-ahmedabad-1354169305/
+Ahmedabad,2019,Hyundai,Grand i10 ,Manual,"₹6,05,099","16,167 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-gandhinagar-14295392776/
+Ahmedabad,2019,Maruti,XL6  ,Manual,"₹9,97,899","70,215 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-xl6-2019-cars-surat-13504099796/
+Ahmedabad,2018,Hyundai,Xcent  ,Manual,"₹5,66,199","59,008 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2018-cars-ahmedabad-1146506267/
+Ahmedabad,2018,Hyundai,Elite i20 ,Manual,"₹7,56,099","20,748 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-surat-1350776867/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹4,08,799","20,563 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-ahmedabad-11491192791/
+Ahmedabad,2019,Maruti,Baleno  ,Manual,"₹6,54,799","9,711 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-ahmedabad-1148550060/
+Ahmedabad,2017,Datsun,Redi Go ,Manual,"₹2,92,699","27,558 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2017-cars-ahmedabad-1143373566/
+Ahmedabad,2020,Honda,City  ,Automatic,"₹13,64,799","13,069 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-ahmedabad-11443291777/
+Ahmedabad,2019,Maruti,Baleno  ,Manual,"₹6,68,499","21,948 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-surat-1357273467/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹4,33,229","10,873 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-11479896710/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹6,90,099","16,493 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-ahmedabad-1147472666/
+Ahmedabad,2019,Maruti,Baleno  ,Manual,"₹6,77,799","46,597 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-ahmedabad-11470491795/
+Ahmedabad,2019,Maruti,Baleno  ,Manual,"₹6,90,899","12,248 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-ahmedabad-1149283668/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹4,25,299","5,479 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1142432266/
+Ahmedabad,2020,Maruti,S PRESSO ,Manual,"₹4,60,599","23,113 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-ahmedabad-11452990778/
+Ahmedabad,2019,Hyundai,Grand i10 ,Manual,"₹6,20,199","12,536 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-ahmedabad-1140324267/
+Ahmedabad,2018,Maruti,Baleno  ,Manual,"₹6,46,299","19,607 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-gandhinagar-1428013769/
+Ahmedabad,2017,Jeep,Compass  ,Manual,"₹10,30,399","1,49,068 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-ahmedabad-1358479802/
+Ahmedabad,2019,Maruti,S PRESSO ,Manual,"₹4,36,599","23,781 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-ahmedabad-1143893361/
+Ahmedabad,2017,Maruti,Alto 800 ,Manual,"₹3,12,299","49,925 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-ahmedabad-1146020465/
+Ahmedabad,2020,Honda,City  ,,"₹13,02,311","23,319 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-ahmedabad-1427471460/
+Ahmedabad,2018,Maruti,Baleno  ,Manual,"₹6,18,099","16,295 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-ahmedabad-1142938862/
+Ahmedabad,2019,Honda,WR-V  ,Manual,"₹8,07,123","65,130 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2019-cars-ahmedabad-1143672468/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,99,299","72,430 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-gandhinagar-1421642563/
+Ahmedabad,2018,Maruti,Baleno  ,Manual,"₹6,48,299","32,404 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-ahmedabad-11478095791/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹4,01,899","13,829 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1149473462/
+Ahmedabad,2019,Maruti,Baleno  ,Manual,"₹6,70,799","9,092 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-ahmedabad-1147528565/
+Ahmedabad,2018,Maruti,Baleno  ,Manual,"₹6,10,299","67,349 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-surat-1356324463/
+Ahmedabad,2018,Honda,City  ,Automatic,"₹10,17,699","18,365 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-ahmedabad-1146430407/
+Ahmedabad,2017,Hyundai,New Elantra ,Automatic,"₹13,06,499","74,829 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-new-elantra-2017-cars-ahmedabad-1147454162/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹6,94,799","9,727 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-ahmedabad-1145332769/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,36,699","34,626 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1148226468/
+Ahmedabad,2019,Maruti,Alto 800 ,Manual,"₹3,23,599","22,118 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2019-cars-ahmedabad-1141611368/
+Ahmedabad,2017,Hyundai,Grand i10 ,Manual,"₹5,30,899","43,667 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-ahmedabad-1146386268/
+Ahmedabad,2020,Honda,City  ,Automatic,"₹13,01,299","29,880 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-ahmedabad-1140792766/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,84,099","13,230 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-surat-1359193569/
+Ahmedabad,2019,Maruti,Alto 800 ,Manual,"₹3,52,899","11,987 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2019-cars-ahmedabad-11453090774/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,36,699","35,950 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1141651266/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹7,22,599","46,150 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-ahmedabad-11463392799/
+Ahmedabad,2020,Hyundai,NEW SANTRO ,Manual,"₹5,72,699","61,631 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-hyundai-new-santro-2020-cars-ahmedabad-1141934465/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,02,299","85,654 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1141490005/
+Ahmedabad,2018,Volkswagen,Vento  ,Automatic,"₹10,40,399","77,796 km",1st Owner,Diesel,https://www.cars24.com/buy-used-volkswagen-vento-2018-cars-ahmedabad-11414899798/
+Ahmedabad,2017,Hyundai,Grand i10 ,Manual,"₹5,40,699","30,579 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-ahmedabad-1149520369/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,67,099","10,874 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1147014108/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,04,799","66,113 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1148589465/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹6,12,699","46,727 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-ahmedabad-11429899774/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹3,94,099","11,080 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-ahmedabad-15077494779/
+Ahmedabad,2018,Hyundai,Creta  ,Automatic,"₹11,89,799","63,556 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-ahmedabad-1148134860/
+Ahmedabad,2017,Maruti,IGNIS  ,Manual,"₹4,20,499","71,695 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-ahmedabad-1145244169/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹4,09,499","17,986 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1148602464/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,85,553","12,173 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1146441066/
+Ahmedabad,2019,Maruti,Baleno  ,Manual,"₹7,07,199","39,999 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-ahmedabad-11474994798/
+Ahmedabad,2018,Datsun,Redi Go ,,"₹3,15,499","25,113 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2018-cars-ahmedabad-1142290269/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,23,199","60,531 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1146663868/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,92,799","32,856 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1147098166/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹7,36,099","27,391 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-ahmedabad-11435395777/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,16,999","60,555 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1144202467/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹4,21,699","5,601 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-ahmedabad-11431199796/
+Ahmedabad,2017,Hyundai,Grand i10 ,Automatic,"₹6,03,899","21,353 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-ahmedabad-1140974864/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹3,72,299","21,900 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-ahmedabad-1145477269/
+Ahmedabad,2018,Maruti,Baleno  ,Manual,"₹6,81,699","23,995 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-surat-1356426369/
+Ahmedabad,2017,Hyundai,Elite i20 ,Manual,"₹7,03,399","45,065 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-ahmedabad-1148883669/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,36,699","24,528 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-11436994775/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,36,699","24,707 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1146336965/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,79,699","20,100 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1146063461/
+Ahmedabad,2020,Maruti,Baleno  ,Manual,"₹7,37,899","60,326 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-ahmedabad-11464797792/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,74,199","32,152 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1141835169/
+Ahmedabad,2019,Ford,FREESTYLE  ,Manual,"₹5,66,799","53,680 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-freestyle-2019-cars-ahmedabad-1143844166/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,14,599","28,716 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1148615062/
+Ahmedabad,2019,Maruti,Alto 800 ,Manual,"₹3,45,799","37,762 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2019-cars-ahmedabad-1148243665/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,36,699","19,538 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-11449796799/
+Ahmedabad,2017,Hyundai,Verna  ,Manual,"₹7,94,499","49,169 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2017-cars-ahmedabad-1350762205/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,52,299","43,043 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1140696705/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,36,699","21,449 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1148824064/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,31,499","27,379 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-1147062864/
+Ahmedabad,2019,Maruti,Alto  ,Manual,"₹3,35,199","32,224 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-gandhinagar-1420824163/
+Ahmedabad,2018,Maruti,Alto 800 ,Manual,"₹3,30,599","26,624 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-ahmedabad-11445299791/
+Ahmedabad,2019,Maruti,Alto 800 ,Manual,"₹3,37,999","16,045 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2019-cars-ahmedabad-1149591506/
+Ahmedabad,2019,Maruti,Alto  ,Manual,"₹3,16,899","15,024 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-ahmedabad-1148531900/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,62,399","21,712 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1427151569/
+Ahmedabad,2019,Maruti,Alto  ,Manual,"₹3,44,999","30,051 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-gandhinagar-1429685562/
+Ahmedabad,2019,Maruti,Alto  ,Manual,"₹3,36,099","12,815 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-ahmedabad-1145166603/
+Ahmedabad,2019,Maruti,Alto  ,Manual,"₹3,44,999","20,088 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-ahmedabad-1147723563/
+Ahmedabad,2019,Maruti,Alto  ,Manual,"₹3,44,999","31,787 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-ahmedabad-1145697369/
+Ahmedabad,2020,Maruti,Alto  ,Manual,"₹3,55,299","23,687 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-ahmedabad-1149459860/
+Ahmedabad,2019,Maruti,Alto  ,Manual,"₹3,27,699","16,523 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-ahmedabad-1146525362/
+Ahmedabad,2021,Maruti,Alto  ,Manual,"₹3,91,299","27,391 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-ahmedabad-1142423666/
+Ahmedabad,2019,Maruti,Alto 800 ,Manual,"₹3,29,599","59,384 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2019-cars-ahmedabad-1144111465/
+Ahmedabad,2019,Maruti,Alto  ,Manual,"₹3,35,699","18,274 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-ahmedabad-1148536208/
+Ahmedabad,2019,Maruti,Alto  ,Manual,"₹3,44,999","17,735 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-ahmedabad-1144253964/
+Ahmedabad,2016,Maruti,Alto K10 ,Manual,"₹3,37,599","8,339 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-surat-13533892795/
+Ahmedabad,2020,Maruti,Ertiga  ,Manual,"₹10,39,099","29,438 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2020-cars-ahmedabad-11463696794/
+Ahmedabad,2018,Maruti,Swift  ,Manual,"₹5,37,899","25,343 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-surat-13584493793/
+Ahmedabad,2019,Maruti,Swift  ,Manual,"₹5,63,799","37,711 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2019-cars-ahmedabad-1356761364/
+Ahmedabad,2017,Renault,Kwid  ,Manual,"₹3,23,499","18,111 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-surat-1355346661/
+Ahmedabad,2017,Maruti,Alto 800 ,Manual,"₹3,12,099","10,006 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-ahmedabad-1350211861/
+Ahmedabad,2019,Tata,Tiago  ,Manual,"₹4,89,099","16,001 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2019-cars-ahmedabad-1143370066/
+Ahmedabad,2020,Maruti,Eeco  ,Manual,"₹4,94,899","11,247 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2020-cars-ahmedabad-1149516361/
+Ahmedabad,2018,Renault,Kwid  ,Manual,"₹3,46,699","30,814 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-ahmedabad-1350976901/
+Ahmedabad,2021,Hyundai,Creta  ,Manual,"₹16,73,799","3,378 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2021-cars-ahmedabad-1145883263/
+Ahmedabad,2017,Volkswagen,Polo  ,Manual,"₹5,84,199","68,394 km",1st Owner,Diesel,https://www.cars24.com/buy-used-volkswagen-polo-2017-cars-ahmedabad-1146825665/
+Ahmedabad,2021,Maruti,Eeco  ,Manual,"₹5,31,399","2,340 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2021-cars-ahmedabad-11439198773/
+Ahmedabad,2013,Toyota,Innova  ,Manual,"₹7,00,099","2,81,380 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2013-cars-ahmedabad-1359550721/
+Ahmedabad,2017,Maruti,Baleno  ,Manual,"₹5,16,499","83,464 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-ahmedabad-1141745944/
+Ahmedabad,2017,Maruti,Eeco  ,Manual,"₹4,36,799","15,568 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2017-cars-ahmedabad-1361862920/
+Ahmedabad,2015,Hyundai,i10  ,Manual,"₹3,67,599","38,635 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2015-cars-ahmedabad-1146104404/
+Ahmedabad,2013,Honda,City  ,Manual,"₹4,77,499","71,349 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2013-cars-ahmedabad-1147041364/
+Ahmedabad,2021,Maruti,Eeco  ,Manual,"₹5,31,399","5,035 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2021-cars-ahmedabad-11489591711/
+Ahmedabad,2019,Maruti,Dzire  ,Manual,"₹7,06,199","29,770 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-ahmedabad-1284658965/
+Ahmedabad,2017,Hyundai,Grand i10 ,Manual,"₹4,80,099","16,757 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-ahmedabad-1149980164/
+Ahmedabad,2019,Maruti,Dzire  ,Manual,"₹7,11,499","6,227 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-ahmedabad-1140625460/
+Ahmedabad,2015,Maruti,Celerio  ,Automatic,"₹3,95,799","47,869 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2015-cars-ahmedabad-11498691790/
+Ahmedabad,2018,Maruti,Baleno  ,Manual,"₹5,57,399","1,32,544 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-ahmedabad-1143932608/
+Ahmedabad,2015,Hyundai,Creta  ,Manual,"₹7,95,499","1,50,727 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-ahmedabad-1352638348/
+Ahmedabad,2016,Hyundai,Elite i20 ,Manual,"₹6,17,688","58,187 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-ahmedabad-1144415162/
+Ahmedabad,2019,Renault,TRIBER  ,Manual,"₹5,88,799","26,493 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-ahmedabad-1146411467/
+Ahmedabad,2017,Maruti,Alto 800 ,Manual,"₹2,96,099","66,687 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-ahmedabad-1140398068/
+Ahmedabad,2018,Maruti,Alto K10 ,Manual,"₹3,50,399","18,895 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-ahmedabad-1148711666/
+Ahmedabad,2019,Maruti,XL6  ,Manual,"₹9,36,999","25,242 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-xl6-2019-cars-ahmedabad-1149632963/
+Ahmedabad,2021,Hyundai,NEW I20 ,,"₹6,73,199","11,284 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-i20-2021-cars-surat-1356362460/
+Ahmedabad,2018,Maruti,S Cross ,Manual,"₹8,88,099","20,043 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-ahmedabad-1140195407/
+Ahmedabad,2018,Datsun,Redi Go ,Manual,"₹2,84,599","23,875 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2018-cars-ahmedabad-1140744306/
+Ahmedabad,2019,Maruti,Alto 800 ,Manual,"₹3,52,899","78,986 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-maruti-alto-800-2019-cars-ahmedabad-1141960961/

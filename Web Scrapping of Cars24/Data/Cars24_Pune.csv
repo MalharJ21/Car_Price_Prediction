@@ -1,0 +1,488 @@
+City,Year,Brand,Car Name,Car model,Car Price,KM,Owner,Car Type,Car link
+Pune,2021,Nissan,MAGNITE  ,,"₹9,63,799","16,049 km",1st Owner,Petrol,https://www.cars24.com/buy-used-nissan-magnite-2021-cars-mumbai-10351699795/
+Pune,2014,Volkswagen,Vento  ,Manual,"₹5,13,399","41,569 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2014-cars-mumbai-10371992797/
+Pune,2020,Tata,Tiago  ,Manual,"₹6,80,399","8,118 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2020-cars-pune-1037521668/
+Pune,2015,Renault,Duster  ,Manual,"₹6,76,799","63,143 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2015-cars-mumbai-1034180265/
+Pune,2020,Maruti,Alto  ,Manual,"₹3,95,099","2,530 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-pune-1240687206/
+Pune,2021,Toyota,URBAN CRUISER ,,"₹11,79,699","1,961 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-urban-cruiser-2021-cars-pune-1068956060/
+Pune,2019,Jeep,Compass  ,Manual,"₹13,70,199","27,193 km",1st Owner,Petrol,https://www.cars24.com/buy-used-jeep-compass-2019-cars-pune-1039376660/
+Pune,2021,Renault,Kiger  ,,"₹10,96,499","2,590 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kiger-2021-cars-pune-10604499776/
+Pune,2021,Hyundai,Creta  ,Manual,"₹17,94,799","2,334 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2021-cars-pune-10699593774/
+Pune,2017,Hyundai,Xcent  ,Manual,"₹6,18,599","13,639 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2017-cars-mumbai-1030896565/
+Pune,2015,Ford,Ecosport  ,Manual,"₹6,62,099","51,922 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2015-cars-mumbai-1032934960/
+Pune,2015,Toyota,Corolla Altis ,Automatic,"₹10,45,899","24,242 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2015-cars-pune-10613296771/
+Pune,2018,Maruti,Celerio  ,Manual,"₹5,05,999","29,583 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-pune-1066077568/
+Pune,2014,Volkswagen,Polo  ,Manual,"₹5,16,499","46,574 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2014-cars-pune-10685493775/
+Pune,2015,Maruti,Celerio  ,Manual,"₹4,54,499","50,235 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2015-cars-pune-10682299773/
+Pune,2021,Maruti,S Cross ,Manual,"₹10,76,399","6,396 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-cross-2021-cars-pune-10671694777/
+Pune,2014,Toyota,Etios  ,Manual,"₹4,75,799","80,847 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-toyota-etios-2014-cars-pune-1068160260/
+Pune,2020,Hyundai,Elite i20 ,Manual,"₹7,74,999","3,806 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2020-cars-pune-1067098804/
+Pune,2016,Hyundai,Grand i10 ,Manual,"₹4,86,499","17,478 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-pune-1063935463/
+Pune,2012,Hyundai,i20  ,Manual,"₹3,71,099","56,711 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2012-cars-pune-1060792601/
+Pune,2020,KIA,SELTOS  ,Manual,"₹13,84,999","18,781 km",1st Owner,Diesel,https://www.cars24.com/buy-used-kia-seltos-2020-cars-pune-10683797713/
+Pune,2017,Maruti,Ciaz  ,Manual,"₹6,43,099","60,797 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-pune-1036250163/
+Pune,2018,Tata,Tiago  ,Manual,"₹5,52,199","25,710 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-pune-10665797779/
+Pune,2015,Volkswagen,Polo  ,Automatic,"₹6,86,199","41,708 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2015-cars-pune-10674595773/
+Pune,2019,Volkswagen,Polo  ,Manual,"₹7,04,799","27,487 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2019-cars-pune-10607697715/
+Pune,2019,Maruti,Vitara Brezza ,Automatic,"₹9,67,099","33,415 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-pune-10659894777/
+Pune,2018,Honda,City  ,Automatic,"₹12,00,699","16,118 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-pune-10677594776/
+Pune,2017,Maruti,Ciaz  ,Manual,"₹7,94,299","21,004 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-pune-10681199793/
+Pune,2016,Honda,Amaze  ,Manual,"₹5,17,099","35,472 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2016-cars-mumbai-1033722364/
+Pune,2018,Maruti,S Cross ,Manual,"₹11,32,999","24,233 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-pune-10686197773/
+Pune,2017,Datsun,Redi Go ,Manual,"₹2,84,899","18,101 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2017-cars-mumbai-10337098798/
+Pune,2017,Jeep,Compass  ,Manual,"₹13,59,799","53,928 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-pune-1069533865/
+Pune,2018,Renault,Kwid  ,Automatic,"₹4,40,299","34,507 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-pune-1064915864/
+Pune,2021,Renault,Kwid  ,Manual,"₹5,50,699","5,326 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2021-cars-pune-10668595776/
+Pune,2020,Tata,NEXON  ,Manual,"₹11,05,799","20,053 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-nexon-2020-cars-mumbai-1035646967/
+Pune,2021,Volkswagen,Polo  ,Automatic,"₹10,56,599","6,871 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2021-cars-pune-10677697772/
+Pune,2017,Volkswagen,Polo  ,Automatic,"₹7,24,499","18,978 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2017-cars-pune-10625595714/
+Pune,2016,Ford,Ecosport  ,Manual,"₹6,72,599","41,966 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-pune-1033542466/
+Pune,2018,Maruti,Alto 800 ,Manual,"₹3,50,599","8,254 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-pune-10602698771/
+Pune,2021,MG,HECTOR  ,Automatic,"₹19,71,999","6,249 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2021-cars-pune-1061525461/
+Pune,2019,Hyundai,NEW SANTRO ,Manual,"₹5,32,099","2,839 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-pune-1060656601/
+Pune,2016,Mahindra,Scorpio  ,Manual,"₹8,34,199","1,43,495 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2016-cars-pune-1067007700/
+Pune,2019,Maruti,Vitara Brezza ,Manual,"₹7,92,199","42,955 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-pune-1068383308/
+Pune,2016,Toyota,Innova Crysta ,Automatic,"₹15,24,299","1,63,438 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-crysta-2016-cars-pune-1039376448/
+Pune,2017,Honda,Jazz  ,Manual,"₹6,13,999","15,182 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2017-cars-pune-1030077002/
+Pune,2017,Maruti,Celerio  ,Automatic,"₹4,87,299","53,139 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-mumbai-1032266461/
+Pune,2019,Renault,Kwid  ,Manual,"₹4,49,299","17,525 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-pune-10631994777/
+Pune,2018,Volkswagen,Ameo  ,Automatic,"₹6,81,499","82,015 km",1st Owner,Diesel,https://www.cars24.com/buy-used-volkswagen-ameo-2018-cars-mumbai-1034226168/
+Pune,2019,Renault,TRIBER  ,Manual,"₹6,73,599","9,981 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-pune-1064305863/
+Pune,2017,Hyundai,Eon  ,Manual,"₹3,81,299","30,266 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-pune-10684798774/
+Pune,2016,Maruti,Baleno  ,Manual,"₹5,71,847","28,225 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1038766165/
+Pune,2017,Hyundai,Creta  ,Manual,"₹11,19,199","63,687 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-mumbai-1035880760/
+Pune,2016,Hyundai,Grand i10 ,Manual,"₹4,59,999","81,006 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-pune-1068104363/
+Pune,2019,Maruti,Vitara Brezza ,Manual,"₹8,38,699","56,902 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-pune-1067047706/
+Pune,2017,Maruti,Alto 800 ,Manual,"₹3,15,999","21,451 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-pune-1062105861/
+Pune,2017,Jeep,Compass  ,Manual,"₹13,39,099","62,013 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-pune-1060136566/
+Pune,2020,Ford,Ecosport  ,Manual,"₹10,30,799","22,326 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2020-cars-pune-10657195710/
+Pune,2019,Hyundai,VENUE  ,Manual,"₹11,11,299","30,456 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-pune-1060972666/
+Pune,2016,Hyundai,Grand i10 ,Manual,"₹5,08,099","6,397 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1036946369/
+Pune,2018,Maruti,Alto 800 ,Manual,"₹3,50,599","11,617 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-pune-10637798792/
+Pune,2020,Hyundai,GRAND I10 NIOS,Manual,"₹6,75,499","7,162 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2020-cars-mumbai-1038120269/
+Pune,2012,Renault,Duster  ,Manual,"₹4,96,799","1,26,134 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2012-cars-pune-1063044625/
+Pune,2016,Hyundai,Grand i10 ,Manual,"₹4,49,199","15,817 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-pune-1039212029/
+Pune,2014,Ford,Ecosport  ,Manual,"₹5,35,599","55,123 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-pune-1038983740/
+Pune,2017,Maruti,Celerio  ,Automatic,"₹4,92,199","25,716 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-pune-10698992776/
+Pune,2020,Hyundai,VENUE  ,Manual,"₹8,42,099",787 km,1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-pune-1036129869/
+Pune,2018,Maruti,Baleno  ,Manual,"₹6,42,499","24,337 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1037116262/
+Pune,2016,Maruti,Alto 800 ,Manual,"₹2,85,099","27,534 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-pune-1064335366/
+Pune,2020,Hyundai,VENUE  ,Manual,"₹10,46,399","7,736 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-pune-10683597799/
+Pune,2013,Hyundai,i20  ,Manual,"₹3,74,899","71,022 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-pune-1036026547/
+Pune,2017,Hyundai,New Elantra ,Automatic,"₹13,03,899","65,743 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-new-elantra-2017-cars-pune-10662795773/
+Pune,2018,Maruti,Vitara Brezza ,Manual,"₹9,67,599","29,025 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-pune-1062288664/
+Pune,2015,Hyundai,Elite i20 ,Manual,"₹5,55,599","49,363 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-pune-1064938960/
+Pune,2019,KIA,SELTOS  ,Automatic,"₹14,59,399","47,272 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2019-cars-pune-1062279169/
+Pune,2014,Hyundai,Elite i20 ,Manual,"₹5,10,899","57,938 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-pune-1036710060/
+Pune,2021,Hyundai,VENUE  ,Automatic,"₹13,33,899","2,051 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2021-cars-pune-1067919979/
+Pune,2015,Maruti,Wagon R 1.0,Automatic,"₹4,73,299","33,816 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-pune-1065638369/
+Pune,2016,Hyundai,Grand i10 ,Manual,"₹4,96,899","33,972 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-pune-10687793796/
+Pune,2014,Hyundai,Elite i20 ,Manual,"₹5,60,899","62,865 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-pune-10687691710/
+Pune,2016,Hyundai,Elite i20 ,Manual,"₹5,48,699","54,840 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-pune-10676590799/
+Pune,2017,Maruti,Alto 800 ,Manual,"₹3,33,699","12,135 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-pune-1066897466/
+Pune,2016,Hyundai,Creta  ,Automatic,"₹10,66,899","67,861 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2016-cars-pune-10678293710/
+Pune,2017,Skoda,Superb  ,Automatic,"₹16,70,599","22,682 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-skoda-superb-2017-cars-pune-1039703049/
+Pune,2019,Mahindra,Thar  ,Manual,"₹9,25,699","17,213 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-thar-2019-cars-pune-1031770567/
+Pune,2019,Maruti,Baleno  ,Manual,"₹6,87,599","10,525 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-pune-1034462403/
+Pune,2018,Maruti,Vitara Brezza ,Automatic,"₹9,27,499","18,432 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-pune-10652493777/
+Pune,2017,Honda,Jazz  ,Manual,"₹6,07,599","16,650 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2017-cars-pune-1038746300/
+Pune,2019,Hyundai,Elite i20 ,Manual,"₹7,40,899","19,883 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-pune-10621291774/
+Pune,2018,Hyundai,Verna  ,Manual,"₹8,72,199","44,900 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-pune-1032802900/
+Pune,2018,Honda,Amaze  ,Manual,"₹6,26,999","13,109 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2018-cars-pune-10606990712/
+Pune,2018,Maruti,Baleno  ,Manual,"₹6,71,099","8,180 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1039940167/
+Pune,2018,Hyundai,Grand i10 ,Manual,"₹5,60,399","27,338 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-mumbai-1037270960/
+Pune,2017,Maruti,Vitara Brezza ,Manual,"₹8,46,399","28,791 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-pune-1034966168/
+Pune,2016,Toyota,Corolla Altis ,Automatic,"₹10,84,899","41,657 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2016-cars-pune-1032757145/
+Pune,2015,Maruti,Alto K10 ,Automatic,"₹3,38,899","58,906 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-pune-1063835168/
+Pune,2021,Toyota,YARIS  ,Automatic,"₹11,05,399","3,412 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2021-cars-pune-1068954968/
+Pune,2013,Hyundai,Grand i10 ,Manual,"₹3,89,299","48,937 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2013-cars-pune-1037583248/
+Pune,2018,Hyundai,Verna  ,Manual,"₹9,42,199","24,680 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-pune-10676596778/
+Pune,2016,Maruti,Baleno  ,Manual,"₹5,84,878","48,861 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-pune-1061472961/
+Pune,2019,Hyundai,Verna  ,Manual,"₹11,20,499","16,006 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2019-cars-mumbai-1035466669/
+Pune,2019,Hyundai,VENUE  ,Automatic,"₹11,33,699","3,297 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-pune-1039646003/
+Pune,2018,Hyundai,Creta  ,Automatic,"₹13,73,699","31,399 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-pune-1069044467/
+Pune,2017,Hyundai,Elite i20 ,Manual,"₹5,64,499","63,395 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-pune-1031557908/
+Pune,2020,Hyundai,Creta  ,Automatic,"₹18,04,399","14,623 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-mumbai-1035672663/
+Pune,2017,Maruti,Baleno  ,Manual,"₹6,25,699","13,461 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-pune-1033776360/
+Pune,2015,Maruti,Baleno  ,Manual,"₹5,61,299","48,034 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2015-cars-pune-1037546422/
+Pune,2018,Maruti,Alto 800 ,Manual,"₹3,50,599","76,230 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-pune-1064318169/
+Pune,2017,Mahindra,TUV300  ,Manual,"₹7,40,399","39,297 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-tuv300-2017-cars-pune-1036337403/
+Pune,2019,Maruti,Baleno  ,Manual,"₹6,47,499","49,941 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-pune-1068781460/
+Pune,2017,Hyundai,Creta  ,Automatic,"₹12,14,599","67,537 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-pune-10678992771/
+Pune,2017,Hyundai,Grand i10 ,Manual,"₹5,55,999","12,357 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-pune-1069623460/
+Pune,2017,Maruti,Baleno  ,Manual,"₹6,20,099","30,381 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-pune-1033312263/
+Pune,2018,Maruti,IGNIS  ,Manual,"₹4,46,799","13,022 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-pune-1036263908/
+Pune,2017,Maruti,Baleno  ,Manual,"₹6,38,499","15,024 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-pune-10610895775/
+Pune,2018,Maruti,S Cross ,Manual,"₹8,61,799","50,195 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-pune-1066782765/
+Pune,2015,Toyota,Innova  ,Manual,"₹9,70,699","1,48,149 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2015-cars-pune-1035409602/
+Pune,2017,Maruti,IGNIS  ,Manual,"₹4,68,699","41,406 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-pune-1066813200/
+Pune,2017,Maruti,Baleno  ,Manual,"₹6,34,099","35,019 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-pune-1064773160/
+Pune,2018,Ford,Figo Aspire ,Manual,"₹5,69,699","6,136 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-figo-aspire-2018-cars-pune-1037993401/
+Pune,2015,Maruti,Wagon R 1.0,Manual,"₹4,09,099","32,327 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-pune-1064965467/
+Pune,2020,Tata,ALTROZ  ,Manual,"₹8,26,499","22,160 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-pune-1066904168/
+Pune,2018,Hyundai,Verna  ,Automatic,"₹11,13,380","12,049 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-pune-10666696796/
+Pune,2017,Hyundai,Creta  ,Automatic,"₹11,23,299","48,139 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-pune-1069092261/
+Pune,2016,Maruti,Baleno  ,Automatic,"₹5,88,699","66,971 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-pune-1035938640/
+Pune,2019,Maruti,S Cross ,Manual,"₹9,23,699","22,000 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2019-cars-pune-1030073941/
+Pune,2015,Hyundai,i20 Active ,Manual,"₹5,53,699","43,562 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2015-cars-pune-1065299468/
+Pune,2018,Ford,Ecosport  ,Manual,"₹7,57,877","33,655 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-pune-1066784364/
+Pune,2018,Maruti,Vitara Brezza ,Manual,"₹8,55,899","37,510 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-pune-1032289743/
+Pune,2017,Maruti,Alto K10 ,Automatic,"₹4,00,099","18,855 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-pune-1063655160/
+Pune,2017,Hyundai,Elite i20 ,Manual,"₹6,89,099","44,460 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-pune-10607693797/
+Pune,2017,Maruti,Wagon R 1.0,Manual,"₹4,51,399","24,837 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-pune-1030656267/
+Pune,2015,Maruti,Baleno  ,Manual,"₹5,58,499","44,174 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2015-cars-mumbai-1031650668/
+Pune,2019,Maruti,Baleno  ,Manual,"₹7,07,899","42,127 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-pune-10674696797/
+Pune,2017,Hyundai,Grand i10 ,Manual,"₹4,99,199","43,601 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-mumbai-1034674860/
+Pune,2018,Honda,City  ,Automatic,"₹10,58,899","54,522 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-mumbai-1034870267/
+Pune,2018,Ford,Ecosport  ,Manual,"₹10,38,999","43,371 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-pune-10608098779/
+Pune,2015,Hyundai,Creta  ,Manual,"₹8,64,199","81,590 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-pune-1030946828/
+Pune,2018,Maruti,Alto 800 ,Manual,"₹3,41,899","29,917 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-pune-1068890761/
+Pune,2018,Maruti,IGNIS  ,Manual,"₹5,34,899","8,280 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-mumbai-1033970166/
+Pune,2020,Skoda,Rapid  ,Automatic,"₹12,44,299","9,272 km",1st Owner,Petrol,https://www.cars24.com/buy-used-skoda-rapid-2020-cars-pune-10624891772/
+Pune,2017,Honda,BR-V  ,Automatic,"₹8,19,599","68,442 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-br-v-2017-cars-pune-1033900366/
+Pune,2019,Ford,Ecosport  ,Automatic,"₹9,90,699","34,762 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-pune-1062175565/
+Pune,2020,KIA,SELTOS  ,Automatic,"₹19,11,499","8,305 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-pune-10642894791/
+Pune,2018,Ford,Ecosport  ,Manual,"₹7,99,899","19,706 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-pune-10681995713/
+Pune,2018,Maruti,Baleno  ,Manual,"₹6,10,199","69,055 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-pune-1069543760/
+Pune,2021,Maruti,S Cross ,Manual,"₹10,60,333","8,228 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-cross-2021-cars-pune-1065366966/
+Pune,2017,Hyundai,Elite i20 ,Manual,"₹6,97,299","43,067 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-pune-10623797710/
+Pune,2017,Hyundai,Grand i10 ,Manual,"₹5,32,299","24,409 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-pune-1068150868/
+Pune,2020,MG,HECTOR  ,Automatic,"₹17,52,099","25,063 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2020-cars-pune-1062763362/
+Pune,2021,MG,HECTOR  ,Automatic,"₹19,15,499","12,272 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2021-cars-pune-1068754663/
+Pune,2019,Maruti,Baleno  ,Manual,"₹7,31,199","19,642 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-pune-1067711066/
+Pune,2017,Maruti,Vitara Brezza ,Manual,"₹7,81,199","44,742 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-pune-1033575306/
+Pune,2018,Maruti,Ciaz  ,Manual,"₹8,24,899","28,523 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2018-cars-pune-1033861104/
+Pune,2017,Hyundai,Creta  ,Automatic,"₹10,73,384","97,358 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-pune-1066042003/
+Pune,2018,Maruti,Baleno  ,Manual,"₹6,94,699","10,344 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-pune-1060565369/
+Pune,2019,Maruti,Baleno  ,Manual,"₹7,36,629","33,608 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-pune-10693996774/
+Pune,2017,Maruti,Baleno  ,Manual,"₹6,53,499","32,981 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-pune-10676994773/
+Pune,2020,MG,HECTOR  ,Automatic,"₹18,88,499","5,388 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2020-cars-pune-1065550665/
+Pune,2017,Honda,City  ,Automatic,"₹9,40,999","24,655 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-pune-1035177603/
+Pune,2017,Maruti,Vitara Brezza ,Manual,"₹7,38,199","48,518 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-pune-1038380622/
+Pune,2017,Maruti,Baleno  ,Manual,"₹6,53,499","24,991 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-pune-10643399778/
+Pune,2017,Tata,Hexa  ,Automatic,"₹11,14,799","1,04,347 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2017-cars-pune-1069661240/
+Pune,2018,Maruti,Alto 800 ,Manual,"₹3,39,099","28,017 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-pune-1066459969/
+Pune,2020,Tata,NEXON  ,Manual,"₹9,36,099","43,163 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2020-cars-pune-1064756965/
+Pune,2017,Maruti,S Cross ,Manual,"₹9,58,799","58,871 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-pune-1064963860/
+Pune,2017,Maruti,IGNIS  ,Automatic,"₹5,83,899","26,328 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-pune-1034842266/
+Pune,2018,Ford,Ecosport  ,Automatic,"₹9,04,599","44,981 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-pune-1064453661/
+Pune,2017,Tata,Hexa  ,Automatic,"₹10,21,199","1,19,618 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2017-cars-pune-1031301800/
+Pune,2018,Toyota,YARIS  ,Manual,"₹8,56,999","28,478 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-pune-10641592714/
+Pune,2018,Tata,NEXON  ,Automatic,"₹8,87,609","79,737 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-nexon-2018-cars-pune-1061938865/
+Pune,2018,Hyundai,Verna  ,Automatic,"₹11,02,199","21,774 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-pune-1032186947/
+Pune,2018,Honda,WR-V  ,Manual,"₹8,15,299","15,939 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2018-cars-pune-1037383540/
+Pune,2018,Maruti,S Cross ,Manual,"₹10,22,099","64,963 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-pune-1060005062/
+Pune,2018,Maruti,S Cross ,Manual,"₹9,26,099","63,073 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-pune-1061335044/
+Pune,2017,Honda,WR-V  ,Manual,"₹6,24,299","1,00,475 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2017-cars-pune-1035115844/
+Pune,2017,Maruti,S Cross ,Manual,"₹8,55,799","77,395 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-pune-1064203605/
+Pune,2018,Hyundai,Tucson New ,Automatic,"₹19,41,299","50,976 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-tucson-new-2018-cars-pune-10611099718/
+Pune,2014,Hyundai,Eon  ,Manual,"₹3,39,099","11,779 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2014-cars-pune-1069066567/
+Pune,2015,Maruti,Alto 800 ,Manual,"₹2,93,299","11,125 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2015-cars-pune-1031562164/
+Pune,2016,Maruti,Swift  ,Manual,"₹5,04,399","14,724 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2016-cars-pune-1063848669/
+Pune,2019,Maruti,Ertiga  ,Automatic,"₹11,30,999","16,389 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2019-cars-pune-10669591774/
+Pune,2019,Maruti,Ertiga  ,Automatic,"₹11,30,999","39,506 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2019-cars-pune-1068336668/
+Pune,2016,Maruti,Celerio  ,Manual,"₹4,39,999","53,508 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-pune-1061981960/
+Pune,2019,Maruti,Ertiga  ,Manual,"₹11,26,199","23,796 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ertiga-2019-cars-pune-1037849243/
+Pune,2011,Mercedes,Benz C Class,Automatic,"₹8,45,699","43,482 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mercedes-benz-c-class-2011-cars-pune-1033613125/
+Pune,2020,Maruti,Dzire  ,Manual,"₹7,63,799","7,766 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2020-cars-pune-10693291776/
+Pune,2015,Maruti,Swift Dzire ,Manual,"₹4,74,299","91,842 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2015-cars-pune-1038445043/
+Pune,2014,Maruti,Swift Dzire ,Manual,"₹4,47,599","54,417 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-pune-1031472163/
+Pune,2013,Maruti,Swift  ,Manual,"₹4,03,799","54,935 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2013-cars-mumbai-1031450262/
+Pune,2017,Maruti,Swift  ,Manual,"₹6,29,599","53,444 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2017-cars-pune-1066715962/
+Pune,2016,Renault,Kwid  ,Manual,"₹3,38,299","46,799 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-pune-10695898779/
+Pune,2017,Maruti,Celerio  ,Automatic,"₹4,67,999","35,598 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-pune-1062864466/
+Pune,2015,Volkswagen,Vento  ,Automatic,"₹5,84,699","63,954 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-volkswagen-vento-2015-cars-pune-1032022266/
+Pune,2017,Hyundai,Elite i20 ,Manual,"₹5,21,999","33,595 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-pune-1031244360/
+Pune,2013,Hyundai,i10  ,Automatic,"₹3,82,299","39,557 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2013-cars-pune-1036802447/
+Pune,2018,Maruti,Swift  ,Automatic,"₹6,87,799","22,989 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-pune-1063616767/
+Pune,2018,Toyota,Innova Crysta ,Manual,"₹18,14,599","37,082 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-crysta-2018-cars-pune-1031672168/
+Pune,2013,Hyundai,i20  ,Manual,"₹3,40,499","1,15,474 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-pune-1038554021/
+Pune,2015,Maruti,Alto K10 ,Automatic,"₹3,77,799","16,285 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-pune-1064445661/
+Pune,2014,Hyundai,Grand i10 ,Manual,"₹4,03,399","61,565 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-pune-1067127268/
+Pune,2018,Toyota,Innova Crysta ,Manual,"₹17,37,899","44,195 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-crysta-2018-cars-pune-1030636146/
+Pune,2019,Maruti,Vitara Brezza ,Manual,"₹8,75,199","48,396 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-pune-1062865609/
+Pune,2016,Maruti,Alto 800 ,Manual,"₹3,10,599","32,054 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-pune-1064091268/
+Pune,2015,Maruti,Alto K10 ,Manual,"₹3,05,899","64,814 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-pune-1068468409/
+Pune,2015,Mahindra,XUV500  ,Manual,"₹8,83,799","42,820 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2015-cars-pune-1039886533/
+Pune,2016,Maruti,Baleno  ,Manual,"₹5,33,699","44,778 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-pune-1065736260/
+Pune,2015,Hyundai,Creta  ,Manual,"₹8,50,999","59,326 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-mumbai-1030332569/
+Pune,2017,Maruti,Vitara Brezza ,Manual,"₹7,11,299","33,285 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-pune-1030079345/
+Pune,2013,Mahindra,XUV500  ,Manual,"₹7,77,199","89,456 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2013-cars-pune-1063021660/
+Pune,2016,Renault,Duster  ,Manual,"₹6,33,899","1,17,368 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2016-cars-pune-1062248049/
+Pune,2018,Maruti,Wagon R 1.0,Automatic,"₹4,15,199","67,320 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-pune-1030033324/
+Pune,2018,Maruti,Baleno  ,Manual,"₹5,94,099","41,816 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-pune-1062841467/
+Pune,2016,Hyundai,Creta  ,Automatic,"₹9,29,799","1,13,700 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2016-cars-pune-1062528649/
+Pune,2017,Maruti,Ciaz  ,Manual,"₹7,00,199","69,038 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-pune-1065514704/
+Pune,2017,Renault,Kwid  ,Automatic,"₹4,31,699","30,100 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-pune-1069582964/
+Pune,2018,Maruti,Vitara Brezza ,Manual,"₹8,12,899","45,635 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-pune-1064825268/
+Pune,2016,Volkswagen,Ameo  ,Manual,"₹5,01,799","30,902 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-ameo-2016-cars-pune-1031743243/
+Pune,2018,Maruti,S Cross ,Manual,"₹8,89,399","35,691 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-mumbai-1030186364/
+Pune,2017,Honda,City  ,Manual,"₹8,74,699","50,334 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-honda-city-2017-cars-pune-1061586260/
+Pune,2020,Volkswagen,Polo  ,Manual,"₹8,68,699","39,385 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2020-cars-pune-10667995711/
+Pune,2015,Honda,Amaze  ,Manual,"₹5,09,799","35,785 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2015-cars-pune-10688898719/
+Pune,2016,Honda,City  ,Manual,"₹6,71,299","69,887 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2016-cars-pune-10623291716/
+Pune,2018,Volkswagen,Polo  ,Manual,"₹6,09,999","21,612 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2018-cars-pune-10650594717/
+Pune,2014,Honda,Amaze  ,Manual,"₹4,72,499","36,235 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2014-cars-pune-1068692665/
+Pune,2016,Hyundai,Grand i10 ,Manual,"₹4,69,099","27,898 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-pune-1061835809/
+Pune,2017,Honda,Brio  ,Automatic,"₹6,32,999","18,396 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2017-cars-pune-10684393710/
+Pune,2019,Maruti,New Wagon-R ,Manual,"₹5,88,799","9,908 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-pune-1066326262/
+Pune,2016,Hyundai,Elite i20 ,Manual,"₹6,65,799","31,157 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-pune-1067616560/
+Pune,2020,Maruti,New Wagon-R ,Manual,"₹5,93,603","76,343 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2020-cars-pune-10608095799/
+Pune,2019,Hyundai,Elite i20 ,Manual,"₹7,15,999","13,566 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-pune-1063123407/
+Pune,2019,Maruti,Vitara Brezza ,Manual,"₹10,21,299","57,806 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-mumbai-1039536465/
+Pune,2015,Hyundai,Grand i10 ,Manual,"₹4,90,999","12,627 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-pune-1061862902/
+Pune,2017,Maruti,Celerio  ,Automatic,"₹4,83,799","52,807 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-pune-10616198794/
+Pune,2019,Renault,TRIBER  ,Manual,"₹6,78,599","8,712 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-pune-10602591710/
+Pune,2019,Hyundai,Elite i20 ,Manual,"₹7,11,649","32,859 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-pune-1066114800/
+Pune,2014,Ford,Ecosport  ,Manual,"₹5,16,599","57,520 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-pune-1036039865/
+Pune,2020,KIA,SELTOS  ,Automatic,"₹18,90,099","7,855 km",1st Owner,Diesel,https://www.cars24.com/buy-used-kia-seltos-2020-cars-pune-10607694773/
+Pune,2020,Hyundai,VENUE  ,Manual,"₹9,99,699","25,005 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-mumbai-1035466263/
+Pune,2015,Hyundai,Elite i20 ,Manual,"₹5,31,299","75,263 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-pune-1031351600/
+Pune,2018,Maruti,Vitara Brezza ,Automatic,"₹10,09,199","32,665 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-pune-1068885965/
+Pune,2018,Maruti,Wagon R 1.0,Manual,"₹4,77,199","16,432 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-pune-10641395797/
+Pune,2019,Hyundai,Elite i20 ,Manual,"₹6,99,699","16,160 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-pune-1069242862/
+Pune,2016,Skoda,Superb  ,Automatic,"₹17,74,499","23,893 km",1st Owner,Petrol,https://www.cars24.com/buy-used-skoda-superb-2016-cars-pune-1034043622/
+Pune,2017,Maruti,Vitara Brezza ,Manual,"₹7,53,399","33,515 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-pune-1037789801/
+Pune,2017,Maruti,IGNIS  ,Manual,"₹5,66,049","20,478 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-pune-10626394799/
+Pune,2019,Maruti,Vitara Brezza ,Automatic,"₹9,06,899","70,241 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-pune-1067805541/
+Pune,2017,Maruti,Ciaz  ,Manual,"₹6,86,299","20,254 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-pune-1031517964/
+Pune,2017,Maruti,Baleno  ,Manual,"₹6,24,599","50,905 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-pune-10302494771/
+Pune,2018,Maruti,Dzire  ,Manual,"₹7,04,199","30,817 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1033120665/
+Pune,2017,Maruti,Baleno  ,Manual,"₹6,09,099","35,584 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-pune-1065144369/
+Pune,2020,Maruti,Vitara Brezza ,Manual,"₹8,87,999","24,130 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2020-cars-pune-1039244606/
+Pune,2020,Honda,City  ,Automatic,"₹14,68,599","9,911 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-pune-1068634467/
+Pune,2017,Hyundai,Grand i10 ,Manual,"₹5,76,999","17,484 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-pune-10695998710/
+Pune,2018,Hyundai,NEW SANTRO ,Manual,"₹4,94,199","29,668 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-pune-1061388860/
+Pune,2017,Volkswagen,Polo  ,Automatic,"₹8,07,199","26,912 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2017-cars-pune-1038247645/
+Pune,2017,Hyundai,Creta  ,Manual,"₹8,01,399","69,721 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-pune-1030592808/
+Pune,2020,Maruti,S PRESSO ,Automatic,"₹5,35,799","3,301 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-pune-1030949979/
+Pune,2016,Maruti,Baleno  ,Manual,"₹6,20,099","54,486 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1035062467/
+Pune,2019,MG,HECTOR  ,Automatic,"₹17,34,799","31,713 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-pune-1063276860/
+Pune,2019,Maruti,Alto K10 ,Manual,"₹4,25,499","15,962 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-pune-10648692773/
+Pune,2015,Maruti,Alto K10 ,Manual,"₹3,25,899","42,521 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-mumbai-1032690963/
+Pune,2019,Tata,NEXON  ,Automatic,"₹10,60,399","7,864 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2019-cars-pune-10648799776/
+Pune,2015,Hyundai,Grand i10 ,Manual,"₹4,63,399","54,856 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-mumbai-1039834364/
+Pune,2017,Maruti,Alto K10 ,Automatic,"₹4,06,899","16,366 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-pune-1061615864/
+Pune,2018,Maruti,Wagon R 1.0,Manual,"₹4,80,599","19,756 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-pune-10690197793/
+Pune,2017,Maruti,Wagon R 1.0,Manual,"₹4,78,199","37,606 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-pune-1067556260/
+Pune,2018,Maruti,S Cross ,Manual,"₹8,92,799","60,983 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-pune-10600191793/
+Pune,2019,Maruti,Alto K10 ,Automatic,"₹4,47,699","21,306 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-pune-1033860960/
+Pune,2019,Maruti,Baleno  ,Manual,"₹7,19,599","25,678 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-pune-10612391714/
+Pune,2017,Hyundai,Grand i10 ,Manual,"₹5,39,599","27,054 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-pune-1037564365/
+Pune,2018,Hyundai,Creta  ,Automatic,"₹11,06,599","40,089 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-pune-1032101849/
+Pune,2017,Toyota,Camry  ,Automatic,"₹19,25,799","69,898 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-camry-2017-cars-pune-1035814903/
+Pune,2017,Ford,Ecosport  ,Automatic,"₹7,63,199","23,749 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-pune-1061773164/
+Pune,2017,Maruti,IGNIS  ,Manual,"₹4,84,499","33,192 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-pune-1035734167/
+Pune,2018,Toyota,YARIS  ,Automatic,"₹10,19,599","59,985 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-pune-10681596774/
+Pune,2015,Maruti,S Cross ,Manual,"₹5,87,499","76,022 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2015-cars-pune-1039059442/
+Pune,2018,Jeep,Compass  ,Automatic,"₹16,57,299","18,567 km",1st Owner,Petrol,https://www.cars24.com/buy-used-jeep-compass-2018-cars-pune-1032575444/
+Pune,2015,BMW,3 Series ,Automatic,"₹15,02,499","96,071 km",1st Owner,Diesel,https://www.cars24.com/buy-used-bmw-3-series-2015-cars-pune-1036099740/
+Pune,2016,Maruti,Swift Dzire ,Manual,"₹4,75,999","1,85,289 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2016-cars-pune-1060872009/
+Pune,2017,Maruti,Swift  ,Manual,"₹5,77,399","23,787 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2017-cars-pune-1036255701/
+Pune,2016,Maruti,Swift  ,Manual,"₹5,63,699","62,326 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2016-cars-pune-1065096665/
+Pune,2017,Maruti,Celerio  ,Automatic,"₹4,69,099","47,667 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-pune-1064462400/
+Pune,2016,Maruti,Swift  ,Manual,"₹5,27,799","40,106 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2016-cars-pune-1036287208/
+Pune,2015,Hyundai,Elite i20 ,Manual,"₹5,87,399","42,587 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-pune-1039650603/
+Pune,2018,Honda,Amaze  ,Automatic,"₹7,15,499","4,964 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2018-cars-pune-1061611366/
+Pune,2018,Ford,Ecosport  ,Manual,"₹9,81,299","18,530 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-pune-1061054968/
+Pune,2016,Maruti,Baleno  ,Manual,"₹6,00,299","36,930 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-pune-1066777230/
+Pune,2016,Maruti,Vitara Brezza ,Manual,"₹7,67,599","59,735 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-pune-1030544145/
+Pune,2018,Maruti,Wagon R 1.0,Manual,"₹5,09,299","55,622 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-pune-1039486261/
+Pune,2018,Maruti,Dzire  ,Manual,"₹6,92,299","53,343 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-pune-1034501024/
+Pune,2017,Hyundai,Creta  ,Automatic,"₹11,35,099","68,980 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-pune-10654198710/
+Pune,2019,Renault,Kwid  ,Manual,"₹4,22,099","14,240 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-pune-10694099713/
+Pune,2020,KIA,SELTOS  ,Manual,"₹12,78,599","19,355 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-pune-1069630863/
+Pune,2018,Maruti,Celerio  ,Manual,"₹4,54,599","12,017 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-pune-1060516060/
+Pune,2014,Maruti,Swift Dzire ,Manual,"₹4,47,599","29,495 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-mumbai-1039612060/
+Pune,2014,Toyota,Innova  ,Manual,"₹8,57,699","95,466 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2014-cars-mumbai-1030754264/
+Pune,2020,Tata,Tiago  ,Manual,"₹6,02,199","21,652 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2020-cars-mumbai-10349794791/
+Pune,2014,Honda,Amaze  ,Manual,"₹4,52,499","30,988 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2014-cars-pune-1064614460/
+Pune,2020,Hyundai,Creta  ,Automatic,"₹22,32,599","14,277 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-pune-10612797711/
+Pune,2018,Volkswagen,Polo  ,Manual,"₹6,27,199","17,098 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2018-cars-pune-10618891795/
+Pune,2021,Renault,TRIBER  ,Manual,"₹7,56,499","10,685 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2021-cars-pune-1068596662/
+Pune,2019,Hyundai,Elite i20 ,Manual,"₹8,53,599","65,700 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-pune-10616793777/
+Pune,2016,Maruti,Ciaz  ,Manual,"₹6,71,999","63,747 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2016-cars-mumbai-1030346661/
+Pune,2020,KIA,SELTOS  ,Automatic,"₹18,89,699","18,978 km",1st Owner,Diesel,https://www.cars24.com/buy-used-kia-seltos-2020-cars-pune-10671490713/
+Pune,2014,Maruti,Alto 800 ,Manual,"₹2,79,299","34,076 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2014-cars-pune-1061501964/
+Pune,2015,Honda,Brio  ,Manual,"₹3,64,699","30,911 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2015-cars-pune-1068741767/
+Pune,2017,Hyundai,Elite i20 ,Manual,"₹6,00,299","14,875 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-pune-1033937940/
+Pune,2013,Hyundai,i20  ,Manual,"₹4,19,199","33,309 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-pune-1064538369/
+Pune,2019,Mahindra,XUV500  ,Automatic,"₹15,50,699","26,586 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2019-cars-pune-10683491716/
+Pune,2017,Honda,BR-V  ,Manual,"₹6,62,699","40,480 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-br-v-2017-cars-mumbai-1035136260/
+Pune,2017,Mercedes,Benz GLC CLASS,Automatic,"₹33,53,899","52,903 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mercedes-benz-glc-class-2017-cars-pune-1036623444/
+Pune,2021,Maruti,Swift  ,Automatic,"₹8,82,799","5,591 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2021-cars-pune-10687394771/
+Pune,2018,Renault,Kwid  ,Automatic,"₹4,59,799","59,885 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-pune-10632799776/
+Pune,2017,Maruti,Celerio  ,Automatic,"₹4,67,999","49,720 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-pune-10651991797/
+Pune,2015,Mercedes,Benz B Class,Automatic,"₹10,52,599","81,609 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-mercedes-benz-b-class-2015-cars-pune-1067758644/
+Pune,2015,Maruti,Alto 800 ,Manual,"₹2,82,799","49,390 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2015-cars-mumbai-1030520166/
+Pune,2019,Maruti,New Wagon-R ,Manual,"₹5,98,299","32,242 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-pune-1065588663/
+Pune,2019,Renault,Kwid  ,Manual,"₹4,03,899","27,469 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-pune-1060410961/
+Pune,2021,Datsun,Redi Go ,Manual,"₹5,08,499",514 km,1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2021-cars-pune-10658392770/
+Pune,2016,Hyundai,Verna  ,Manual,"₹6,42,699","44,574 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2016-cars-pune-1061062062/
+Pune,2018,Tata,NEXON  ,Automatic,"₹10,51,199","36,416 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-nexon-2018-cars-pune-1069360961/
+Pune,2018,Maruti,S Cross ,Manual,"₹10,74,872","24,701 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-pune-1061316666/
+Pune,2014,Honda,Amaze  ,Manual,"₹4,22,099","43,294 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2014-cars-pune-10643091776/
+Pune,2016,Maruti,Celerio  ,Automatic,"₹4,31,899","27,167 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-pune-10655790779/
+Pune,2018,Tata,Hexa  ,Automatic,"₹15,82,799","26,155 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2018-cars-pune-10643599771/
+Pune,2016,Maruti,Alto K10 ,Automatic,"₹3,92,599","13,309 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-pune-10696697797/
+Pune,2018,Maruti,Vitara Brezza ,Automatic,"₹8,92,199","38,629 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-pune-1062715441/
+Pune,2020,Maruti,Swift  ,Automatic,"₹8,54,749","8,989 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2020-cars-pune-10608997773/
+Pune,2020,Hyundai,Creta  ,Manual,"₹14,60,099","17,898 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-pune-1037710969/
+Pune,2016,Maruti,Celerio  ,Automatic,"₹4,57,099","71,088 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-pune-10657692718/
+Pune,2015,Hyundai,Grand i10 ,Manual,"₹4,17,399","63,203 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-pune-1065375804/
+Pune,2018,Renault,Kwid  ,Automatic,"₹4,42,199","48,617 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-pune-10632693797/
+Pune,2014,Renault,Duster  ,Manual,"₹6,37,799","96,336 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-duster-2014-cars-mumbai-1032764760/
+Pune,2017,Maruti,Dzire  ,Manual,"₹6,26,999","42,515 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-10325595792/
+Pune,2015,Hyundai,i10  ,Manual,"₹3,49,299","48,928 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2015-cars-pune-10623797777/
+Pune,2015,Honda,Brio  ,Manual,"₹3,70,454","68,981 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2015-cars-pune-1062515669/
+Pune,2018,Tata,Tiago  ,Manual,"₹5,09,299","47,274 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-pune-1061584264/
+Pune,2015,Maruti,Alto K10 ,Manual,"₹3,41,199","18,182 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-pune-1066331363/
+Pune,2019,Tata,NEXON  ,Automatic,"₹9,51,599","4,391 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2019-cars-pune-1063505860/
+Pune,2015,Hyundai,Elite i20 ,Manual,"₹5,91,199","18,596 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-mumbai-1039426261/
+Pune,2015,Hyundai,Grand i10 ,Manual,"₹4,53,399","47,041 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-pune-1033172121/
+Pune,2016,Honda,Jazz  ,Automatic,"₹5,42,699","41,721 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-mumbai-1037580668/
+Pune,2016,Honda,Jazz  ,Manual,"₹4,90,499","9,125 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-pune-1035785404/
+Pune,2016,Hyundai,Grand i10 ,Manual,"₹4,58,399","41,171 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-pune-1067055465/
+Pune,2016,Hyundai,Elite i20 ,Manual,"₹6,11,299","43,436 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-pune-1065230760/
+Pune,2015,Honda,Jazz  ,Manual,"₹4,40,899","75,835 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2015-cars-pune-1031347343/
+Pune,2020,Renault,TRIBER  ,Manual,"₹7,09,799","10,256 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2020-cars-pune-10684692715/
+Pune,2019,Hyundai,VENUE  ,Manual,"₹10,56,299","17,944 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-pune-10655790717/
+Pune,2016,Maruti,Alto 800 ,Manual,"₹3,16,799","17,995 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-mumbai-10313794793/
+Pune,2019,Ford,Ecosport  ,Automatic,"₹9,80,399","10,343 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-pune-1067246226/
+Pune,2013,Honda,CRV  ,Automatic,"₹8,74,799","63,578 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-crv-2013-cars-pune-1030078903/
+Pune,2018,Nissan,Micra  ,Automatic,"₹5,97,099","14,624 km",1st Owner,Petrol,https://www.cars24.com/buy-used-nissan-micra-2018-cars-pune-1062051501/
+Pune,2016,Maruti,Wagon R 1.0,Automatic,"₹4,53,499","32,851 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-pune-1069318468/
+Pune,2016,Hyundai,Elite i20 ,Manual,"₹5,53,499","51,838 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-pune-10678799798/
+Pune,2016,Maruti,Baleno  ,Manual,"₹5,33,699","43,851 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-pune-1061196466/
+Pune,2018,Maruti,Vitara Brezza ,Manual,"₹8,96,999","32,546 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-pune-1064978164/
+Pune,2019,Ford,New Figo ,Manual,"₹5,63,599","14,587 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-new-figo-2019-cars-pune-10684492716/
+Pune,2018,Maruti,Baleno  ,Manual,"₹5,71,899","29,807 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-pune-1036640101/
+Pune,2015,Volkswagen,Vento  ,Manual,"₹5,50,099","85,796 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2015-cars-pune-1065365560/
+Pune,2014,Ford,Ecosport  ,Manual,"₹5,70,099","75,692 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-pune-1069003801/
+Pune,2019,Maruti,Baleno  ,Manual,"₹6,86,899","18,364 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-pune-1039660904/
+Pune,2018,Maruti,Alto K10 ,Automatic,"₹3,93,799","15,182 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-pune-1061150707/
+Pune,2018,Maruti,Vitara Brezza ,Manual,"₹9,69,715","22,440 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-pune-10601297713/
+Pune,2017,Hyundai,Verna  ,Manual,"₹8,23,499","64,994 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2017-cars-pune-10693995792/
+Pune,2016,Maruti,Baleno  ,Manual,"₹6,09,599","25,054 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-pune-1067394267/
+Pune,2019,Hyundai,GRAND I10 NIOS,Automatic,"₹8,47,999","25,374 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2019-cars-pune-10662797773/
+Pune,2016,Hyundai,Creta  ,Automatic,"₹9,90,799","54,527 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2016-cars-pune-1060770329/
+Pune,2021,KIA,SELTOS  ,Automatic,"₹16,84,199","3,918 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2021-cars-pune-10683493778/
+Pune,2014,Maruti,Celerio  ,Automatic,"₹3,96,899","30,020 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2014-cars-mumbai-1031466263/
+Pune,2017,Ford,Ecosport  ,Automatic,"₹7,34,199","43,848 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-pune-1066678648/
+Pune,2016,Maruti,Vitara Brezza ,Manual,"₹7,49,299","52,045 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-pune-1037647648/
+Pune,2016,Hyundai,Grand i10 ,Manual,"₹5,31,699","21,379 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-pune-1064516260/
+Pune,2019,Maruti,XL6  ,Manual,"₹11,13,299","13,924 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-xl6-2019-cars-pune-1064515660/
+Pune,2020,Maruti,Vitara Brezza ,Manual,"₹9,63,199","27,621 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2020-cars-pune-10639993710/
+Pune,2019,MG,HECTOR  ,Automatic,"₹16,80,199","6,661 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-pune-1060207361/
+Pune,2015,Nissan,Micra  ,Automatic,"₹5,56,699","51,146 km",1st Owner,Petrol,https://www.cars24.com/buy-used-nissan-micra-2015-cars-pune-10664591790/
+Pune,2016,Maruti,Baleno  ,Manual,"₹5,82,799","28,518 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-pune-1062425860/
+Pune,2017,Volkswagen,Polo  ,Automatic,"₹7,48,499","42,523 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2017-cars-mumbai-1032176068/
+Pune,2015,Honda,City  ,Manual,"₹7,04,899","56,153 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2015-cars-pune-1060625562/
+Pune,2018,Maruti,Baleno  ,Manual,"₹6,42,499","70,209 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1037690965/
+Pune,2016,Hyundai,Grand i10 ,Manual,"₹4,66,199","31,014 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-pune-1036960300/
+Pune,2016,Maruti,Baleno  ,Manual,"₹5,82,199","40,023 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-pune-1062864663/
+Pune,2019,Hyundai,Elite i20 ,Manual,"₹7,40,899","31,263 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-pune-1065540665/
+Pune,2018,Hyundai,NEW SANTRO ,Manual,"₹5,28,899","15,574 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-pune-1064265162/
+Pune,2017,Toyota,Corolla Altis ,Automatic,"₹13,20,399","39,147 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2017-cars-mumbai-1032402665/
+Pune,2016,Hyundai,Creta  ,Automatic,"₹10,66,899","88,181 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2016-cars-pune-10633991774/
+Pune,2017,Maruti,Vitara Brezza ,Manual,"₹8,94,399","30,537 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-mumbai-1030176468/
+Pune,2020,Honda,Jazz  ,Manual,"₹9,80,899","5,526 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2020-cars-pune-10674197790/
+Pune,2019,Ford,Ecosport  ,Manual,"₹8,48,299","18,388 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-pune-1063025463/
+Pune,2015,Hyundai,Elite i20 ,Manual,"₹5,62,999","63,547 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-pune-10631594778/
+Pune,2015,Maruti,Wagon R 1.0,Manual,"₹3,70,899","66,231 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-pune-1067613461/
+Pune,2017,Maruti,Alto 800 ,Manual,"₹3,33,699","18,663 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-mumbai-1034386966/
+Pune,2017,Jeep,Compass  ,Manual,"₹13,74,199","70,790 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-pune-1064095269/
+Pune,2017,Hyundai,Grand i10 ,Manual,"₹5,10,245","78,928 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-pune-10673398798/
+Pune,2021,Toyota,Glanza  ,Manual,"₹8,17,599","16,051 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-glanza-2021-cars-pune-10685593775/
+Pune,2020,Honda,City  ,Automatic,"₹15,85,399","11,301 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-mumbai-1035174762/
+Pune,2018,Maruti,IGNIS  ,Manual,"₹4,97,299","19,645 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-pune-1064571760/
+Pune,2019,Honda,Amaze  ,Automatic,"₹8,19,099","21,007 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2019-cars-mumbai-1030166463/
+Pune,2018,Maruti,S Cross ,Manual,"₹8,23,799","50,901 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-pune-1065424967/
+Pune,2016,Maruti,Baleno  ,Manual,"₹6,00,899","64,916 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-pune-1067620660/
+Pune,2015,Hyundai,Creta  ,Automatic,"₹8,65,699","99,149 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-pune-1033242503/
+Pune,2016,Maruti,Baleno  ,Manual,"₹5,96,499","45,783 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1036890465/
+Pune,2017,Maruti,Wagon R 1.0,Manual,"₹4,70,899","15,866 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-pune-1065614065/
+Pune,2017,Maruti,Vitara Brezza ,Manual,"₹8,87,599","59,832 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-pune-1062626963/
+Pune,2020,Maruti,Baleno  ,Manual,"₹7,30,999","9,113 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-pune-1065220762/
+Pune,2016,Maruti,Baleno  ,Manual,"₹5,87,599","52,955 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-pune-1069380067/
+Pune,2017,Maruti,Wagon R 1.0,Manual,"₹4,35,099","41,099 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-mumbai-1030172261/
+Pune,2017,Toyota,Corolla Altis ,Automatic,"₹12,52,999","34,938 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2017-cars-pune-1034318922/
+Pune,2019,Honda,Amaze  ,Automatic,"₹8,26,899","14,557 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2019-cars-mumbai-1033800060/
+Pune,2019,Hyundai,VENUE  ,Manual,"₹9,71,799","9,551 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-pune-1067714108/
+Pune,2017,Maruti,Baleno  ,Manual,"₹5,93,999","40,928 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-pune-1067482365/
+Pune,2018,Honda,City  ,Manual,"₹9,68,899","41,412 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-pune-10644995712/
+Pune,2017,Jeep,Compass  ,Manual,"₹11,97,999","41,229 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-pune-1035700428/
+Pune,2015,Hyundai,i20 Active ,Manual,"₹5,54,199","35,351 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2015-cars-pune-1064577268/
+Pune,2017,Hyundai,Grand i10 ,Automatic,"₹5,85,999","18,376 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-pune-1061864407/
+Pune,2018,Maruti,Baleno  ,Manual,"₹6,24,099","30,936 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-pune-1064483560/
+Pune,2018,Maruti,Dzire  ,Manual,"₹7,04,199","12,826 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1037410363/
+Pune,2018,Maruti,Baleno  ,Manual,"₹6,18,999","30,942 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-pune-1069314364/
+Pune,2019,Hyundai,GRAND I10 NIOS,Manual,"₹6,48,399","20,241 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2019-cars-pune-1067717163/
+Pune,2018,Honda,City  ,Automatic,"₹10,47,599","26,989 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-pune-1060638269/
+Pune,2018,Maruti,Alto 800 ,Manual,"₹3,47,499","33,032 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-pune-1065095961/
+Pune,2017,Hyundai,Creta  ,Automatic,"₹12,14,599","74,473 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-mumbai-1030364966/
+Pune,2017,Hyundai,Elite i20 ,Manual,"₹6,82,699","13,801 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1036654466/
+Pune,2019,Hyundai,VENUE  ,Automatic,"₹10,11,799","26,878 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-pune-1033972843/
+Pune,2018,Maruti,Baleno  ,Manual,"₹6,62,699","10,521 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-pune-1060263864/
+Pune,2018,Maruti,S Cross ,,"₹8,41,699","58,625 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-pune-1061647562/
+Pune,2019,MG,HECTOR  ,Automatic,"₹15,68,199","13,657 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-pune-1036543545/
+Pune,2017,Honda,City  ,Automatic,"₹10,22,599","48,998 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-pune-10659591790/
+Pune,2019,Ford,Ecosport  ,Automatic,"₹9,97,999","22,976 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-pune-1066808903/
+Pune,2018,Honda,City  ,Automatic,"₹10,92,099","23,136 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-pune-10642798792/
+Pune,2021,Maruti,S PRESSO ,Manual,"₹4,87,992","3,430 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-mumbai-1030210461/
+Pune,2017,Maruti,IGNIS  ,Manual,"₹5,28,499","15,950 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-pune-1065088062/
+Pune,2017,Hyundai,Creta  ,Automatic,"₹11,45,899","77,391 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-pune-1032227105/
+Pune,2020,Toyota,YARIS  ,Automatic,"₹10,45,199","11,802 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2020-cars-mumbai-1031476667/
+Pune,2018,Hyundai,Elite i20 ,Automatic,"₹7,92,499","11,976 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-pune-1067773161/
+Pune,2018,Maruti,S Cross ,Manual,"₹8,71,999","57,650 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-pune-1062405567/
+Pune,2019,Ford,Ecosport  ,Automatic,"₹9,95,489","51,813 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-pune-1065632960/
+Pune,2018,Hyundai,Verna  ,Automatic,"₹11,57,299","36,968 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-pune-1038120941/
+Pune,2017,Maruti,S Cross ,Manual,"₹9,97,699","60,029 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-pune-1069095964/
+Pune,2017,Maruti,S Cross ,Manual,"₹9,71,299","29,187 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-pune-1067615465/
+Pune,2018,Hyundai,Creta  ,Automatic,"₹13,01,673","69,862 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-pune-1061587860/
+Pune,2016,Maruti,Vitara Brezza ,Manual,"₹7,32,099","97,336 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-pune-1036437643/
+Pune,2018,Maruti,S Cross ,Manual,"₹8,75,199","62,801 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-pune-1060762665/
+Pune,2018,Hyundai,Creta  ,Automatic,"₹11,92,599","14,616 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-mumbai-1036550065/
+Pune,2017,Hyundai,Grand i10 ,Automatic,"₹6,06,599","25,550 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-pune-1064147160/
+Pune,2018,Toyota,YARIS  ,Automatic,"₹10,10,069","52,811 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-pune-10628592778/
+Pune,2019,Jeep,Compass  ,Automatic,"₹19,01,599","20,133 km",1st Owner,Petrol,https://www.cars24.com/buy-used-jeep-compass-2019-cars-pune-1035327664/
+Pune,2017,Maruti,S Cross ,Manual,"₹9,68,699","69,701 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-pune-1068635060/
+Pune,2018,Tata,Hexa  ,Automatic,"₹12,50,999","63,591 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2018-cars-pune-1064102729/
+Pune,2019,Mahindra,MARAZZO  ,Manual,"₹12,81,599","49,940 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-marazzo-2019-cars-mumbai-1032474963/
+Pune,2018,Ford,Ecosport  ,Manual,"₹8,79,389","17,171 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-pune-1032052108/
+Pune,2021,Toyota,Glanza  ,Automatic,"₹10,27,299","40,270 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-glanza-2021-cars-pune-10610595777/
+Pune,2018,Toyota,YARIS  ,Automatic,"₹10,67,599","20,413 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-pune-1033989906/
+Pune,2017,Maruti,S Cross ,Manual,"₹8,40,799","81,005 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-pune-1066916446/
+Pune,2017,Hyundai,Tucson New ,Automatic,"₹19,18,299","72,581 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-tucson-new-2017-cars-mumbai-1038644364/
+Pune,2015,Maruti,Alto 800 ,Manual,"₹2,99,899","8,643 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2015-cars-pune-10604195791/
+Pune,2014,Maruti,Swift Dzire ,Manual,"₹4,67,999","32,393 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-pune-1035986901/
+Pune,2010,Hyundai,i10  ,Manual,"₹2,43,199","60,839 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2010-cars-pune-1064762225/
+Pune,2014,Maruti,Swift Dzire ,Manual,"₹4,41,599","30,794 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-pune-1031259249/
+Pune,2021,Maruti,Ertiga  ,Manual,"₹10,98,099","2,237 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2021-cars-mumbai-1039946065/
+Pune,2014,Maruti,Swift Dzire ,Manual,"₹5,27,499","1,16,371 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-pune-1039307509/
+Pune,2015,Maruti,Ertiga  ,Manual,"₹6,81,499","30,046 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2015-cars-pune-1035022060/
+Pune,2015,Jaguar,XF  ,Automatic,"₹19,27,899","47,602 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jaguar-xf-2015-cars-pune-1037231906/
+Pune,2010,Toyota,Innova  ,Manual,"₹4,68,599","2,25,759 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2010-cars-pune-1061050120/
+Pune,2018,Volkswagen,Polo  ,Manual,"₹7,04,699","55,323 km",1st Owner,Diesel,https://www.cars24.com/buy-used-volkswagen-polo-2018-cars-pune-1062611367/
+Pune,2014,Maruti,Swift Dzire ,Manual,"₹5,21,799","70,126 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-pune-1063744468/
+Pune,2020,Tata,Harrier  ,Manual,"₹15,08,799","17,654 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-harrier-2020-cars-pune-1030306424/
+Pune,2015,Maruti,Celerio  ,Automatic,"₹3,81,999","47,341 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2015-cars-pune-1039761169/
+Pune,2012,Honda,City  ,Manual,"₹4,07,999","80,019 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2012-cars-pune-1039773443/
+Pune,2018,Volkswagen,Vento  ,Manual,"₹6,81,799","23,719 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2018-cars-pune-1061607044/
+Pune,2015,Tata,Nano  ,Manual,"₹2,03,599","36,486 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-nano-2015-cars-pune-1068271560/
+Pune,2019,Hyundai,Elite i20 ,Manual,"₹8,44,999","40,297 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-pune-1065157660/
+Pune,2018,Maruti,Swift  ,Automatic,"₹6,68,499","25,907 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-pune-1067211462/
+Pune,2014,Honda,City  ,Manual,"₹4,75,499","76,721 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2014-cars-pune-1038228742/
+Pune,2019,Renault,TRIBER  ,Manual,"₹6,66,899","15,847 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-pune-1066751767/
+Pune,2017,Jeep,Compass  ,Manual,"₹14,32,499","16,118 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-pune-1033297168/
+Pune,2013,Ford,Ecosport  ,Manual,"₹4,90,099","52,561 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2013-cars-pune-1036811101/
+Pune,2013,Maruti,Swift Dzire ,Manual,"₹4,50,999","75,005 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2013-cars-pune-1036811527/
+Pune,2017,Hyundai,Eon  ,Manual,"₹3,62,299","34,962 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-pune-1066628664/
+Pune,2016,Skoda,Rapid  ,Automatic,"₹5,96,099","91,979 km",1st Owner,Diesel,https://www.cars24.com/buy-used-skoda-rapid-2016-cars-pune-1032150249/
+Pune,2015,Ford,Figo Aspire ,Manual,"₹4,50,799","60,456 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-figo-aspire-2015-cars-pune-1037167049/
+Pune,2016,Maruti,Vitara Brezza ,Manual,"₹6,54,199","1,57,285 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-pune-1061065347/
+Pune,2013,Maruti,Swift Dzire ,Manual,"₹4,55,599","88,286 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2013-cars-pune-1034943140/
+Pune,2016,Hyundai,Creta  ,Manual,"₹7,69,599","48,656 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2016-cars-pune-1038386307/
+Pune,2015,Renault,Duster  ,Manual,"₹4,97,599","1,72,680 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2015-cars-pune-1030718723/
+Pune,2015,Volkswagen,Jetta  ,Automatic,"₹9,43,699","92,831 km",1st Owner,Diesel,https://www.cars24.com/buy-used-volkswagen-jetta-2015-cars-pune-1066021308/
+Pune,2018,Maruti,Vitara Brezza ,Manual,"₹9,42,399","73,930 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-pune-10686591777/

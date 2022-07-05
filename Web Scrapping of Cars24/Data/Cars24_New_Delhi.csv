@@ -1,0 +1,703 @@
+City,Year,Brand,Car Name,Car model,Car Price,KM,Owner,Car Type,Car link
+New_Delhi,2014,Mercedes,Benz C Class,Automatic,"₹21,33,299","36,806 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mercedes-benz-c-class-2014-cars-noida-1050064264/
+New_Delhi,2013,Mercedes,Benz E Class,Automatic,"₹14,55,599","42,881 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mercedes-benz-e-class-2013-cars-noida-1002046328/
+New_Delhi,2021,Renault,Kwid  ,Automatic,"₹5,33,299","3,689 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2021-cars-ghaziabad-11208998714/
+New_Delhi,2021,Renault,Kwid  ,Manual,"₹5,00,199","6,962 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2021-cars-new-delhi-10001590778/
+New_Delhi,2017,Jeep,Compass  ,Manual,"₹13,18,099","55,376 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-new-delhi-1006334663/
+New_Delhi,2016,Honda,Jazz  ,Manual,"₹4,76,799","30,237 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-gurgaon-10081592777/
+New_Delhi,2016,Maruti,Wagon R 1.0,Automatic,"₹4,33,799","21,261 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-noida-10018991779/
+New_Delhi,2020,Maruti,Baleno  ,Automatic,"₹7,38,299","16,815 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-new-delhi-10534091798/
+New_Delhi,2020,Honda,City  ,Automatic,"₹14,56,371","9,928 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-noida-1000483868/
+New_Delhi,2016,Ford,Ecosport  ,Manual,"₹6,49,099","46,533 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-new-delhi-1001862968/
+New_Delhi,2018,Honda,Amaze  ,Automatic,"₹7,06,199","29,226 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2018-cars-noida-10515899774/
+New_Delhi,2018,Hyundai,Elite i20 ,Manual,"₹6,69,299","30,545 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-noida-1127940067/
+New_Delhi,2012,Maruti,Swift  ,Manual,"₹3,83,499","95,779 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2012-cars-noida-1013052663/
+New_Delhi,2018,Hyundai,Elite i20 ,Manual,"₹5,62,119","44,805 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-gurgaon-10152697778/
+New_Delhi,2017,Renault,Kwid  ,Manual,"₹3,26,599","52,904 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-new-delhi-1008200565/
+New_Delhi,2013,Hyundai,i20  ,Manual,"₹3,54,299","78,468 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-noida-1122747361/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹7,95,499","28,648 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-noida-1125720867/
+New_Delhi,2020,Honda,City  ,Automatic,"₹12,62,499","31,686 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-ghaziabad-1126630364/
+New_Delhi,2020,Maruti,Baleno  ,Manual,"₹6,94,199","21,463 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-new-delhi-10027293717/
+New_Delhi,2014,Toyota,Fortuner  ,Manual,"₹12,11,899","1,75,407 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-fortuner-2014-cars-noida-1006895309/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,58,399","32,303 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-noida-1127650967/
+New_Delhi,2014,Audi,Q3  ,Manual,"₹11,36,799","93,819 km",1st Owner,Diesel,https://www.cars24.com/buy-used-audi-q3-2014-cars-noida-1000438024/
+New_Delhi,2019,Maruti,Alto K10 ,Manual,"₹4,10,899","13,274 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-noida-1050344669/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹7,12,399","36,642 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-noida-1001714969/
+New_Delhi,2020,Maruti,S PRESSO ,Manual,"₹4,56,099","11,396 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-noida-1126975367/
+New_Delhi,2015,Audi,A6  ,Automatic,"₹19,95,599","77,157 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-audi-a6-2015-cars-noida-1051344862/
+New_Delhi,2015,Audi,A6  ,Automatic,"₹19,01,999","39,292 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-audi-a6-2015-cars-noida-1053297861/
+New_Delhi,2017,Hyundai,Elite i20 ,Manual,"₹6,34,899","85,704 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-new-delhi-1008646465/
+New_Delhi,2014,Hyundai,Elite i20 ,Manual,"₹4,59,599","72,470 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-noida-1006254469/
+New_Delhi,2017,Ford,Ecosport  ,Manual,"₹6,43,199","78,596 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-gurgaon-1010092862/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,33,399","1,03,732 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-noida-1002127047/
+New_Delhi,2015,Toyota,Fortuner  ,Automatic,"₹15,77,799","90,086 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-fortuner-2015-cars-noida-1058882461/
+New_Delhi,2018,Honda,Jazz  ,Manual,"₹6,01,299","23,733 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2018-cars-noida-1126093064/
+New_Delhi,2019,Hyundai,Grand i10 ,Manual,"₹5,11,199","16,327 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-noida-10007395799/
+New_Delhi,2020,Maruti,Baleno  ,Manual,"₹5,58,599","35,669 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-noida-1056896765/
+New_Delhi,2014,Hyundai,i10  ,Manual,"₹3,40,499","32,525 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2014-cars-noida-1012206064/
+New_Delhi,2020,Mahindra,XUV500  ,Automatic,"₹17,41,699","19,362 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2020-cars-noida-1051866368/
+New_Delhi,2021,Maruti,Alto  ,Manual,"₹4,22,999","2,303 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-noida-11226192795/
+New_Delhi,2017,Hyundai,Elite i20 ,Manual,"₹6,10,399","35,255 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-noida-1125505064/
+New_Delhi,2015,Honda,Brio  ,Automatic,"₹4,58,999","25,981 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2015-cars-noida-1002146828/
+New_Delhi,2020,Mahindra,Scorpio  ,Manual,"₹15,73,999","25,596 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2020-cars-ghaziabad-11222390798/
+New_Delhi,2019,MG,HECTOR  ,Automatic,"₹16,93,899","25,758 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-noida-1003552064/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹4,01,299","61,754 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2014-cars-noida-1010420026/
+New_Delhi,2021,Maruti,Vitara Brezza ,Manual,"₹9,31,299","7,702 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2021-cars-noida-1015086861/
+New_Delhi,2017,Hyundai,Elite i20 ,Manual,"₹6,45,799","11,042 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-noida-1000366560/
+New_Delhi,2018,Hyundai,Creta  ,Manual,"₹8,24,999","65,694 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-noida-1010779164/
+New_Delhi,2018,Maruti,Baleno  ,Manual,"₹5,85,599","31,879 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-noida-1103086102/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹5,12,399","48,732 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-new-delhi-1004420168/
+New_Delhi,2017,Honda,City  ,Manual,"₹7,78,999","26,236 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-noida-1007061067/
+New_Delhi,2013,Hyundai,i20  ,Manual,"₹3,27,599","32,925 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-noida-1005491848/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹4,28,399","53,672 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-noida-1128650337/
+New_Delhi,2018,Maruti,Dzire  ,Manual,"₹6,42,499","19,063 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-noida-1003350362/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹7,93,399","30,594 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-noida-1018637466/
+New_Delhi,2017,Maruti,Alto K10 ,Manual,"₹3,50,499","47,808 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-noida-1006070062/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,35,899","99,646 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2013-cars-noida-1019746822/
+New_Delhi,2015,Hyundai,Creta  ,Manual,"₹7,53,299","51,726 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-new-delhi-1005294463/
+New_Delhi,2013,Hyundai,i20  ,Manual,"₹3,52,999","57,869 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-noida-1128830625/
+New_Delhi,2013,Hyundai,Verna  ,Manual,"₹4,28,699","75,057 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2013-cars-noida-1005933609/
+New_Delhi,2015,Ford,Ecosport  ,Manual,"₹4,51,299","79,521 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2015-cars-noida-1008425564/
+New_Delhi,2013,Toyota,Innova  ,Manual,"₹6,14,599","1,21,393 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2013-cars-noida-1012004420/
+New_Delhi,2014,Maruti,Swift Dzire ,Manual,"₹3,80,099","87,532 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-noida-1009223046/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,49,399","64,646 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-noida-1002692601/
+New_Delhi,2014,Toyota,Innova  ,Manual,"₹7,88,399","93,758 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2014-cars-noida-1005025041/
+New_Delhi,2017,Maruti,Celerio  ,Manual,"₹3,94,655","6,568 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-new-delhi-10089699714/
+New_Delhi,2019,Jeep,Compass  ,Manual,"₹19,62,799","46,400 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2019-cars-gurgaon-1010356062/
+New_Delhi,2017,Datsun,Redi Go ,Manual,"₹2,40,399","51,766 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2017-cars-new-delhi-1000540660/
+New_Delhi,2020,Honda,City  ,Manual,"₹11,34,099","3,627 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-new-delhi-10042597714/
+New_Delhi,2010,Honda,City  ,Manual,"₹4,17,399","39,307 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2010-cars-new-delhi-10063199773/
+New_Delhi,2018,Hyundai,Verna  ,Manual,"₹10,14,699","48,278 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-new-delhi-1005713464/
+New_Delhi,2021,Renault,Kwid  ,Manual,"₹4,77,099","6,382 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2021-cars-new-delhi-10061295716/
+New_Delhi,2021,Tata,Tiago  ,Automatic,"₹7,10,599","6,568 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2021-cars-new-delhi-10082091774/
+New_Delhi,2018,Honda,Jazz  ,Automatic,"₹6,91,299","45,945 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2018-cars-gurgaon-1015566060/
+New_Delhi,2016,Maruti,Celerio  ,Automatic,"₹3,86,999","65,871 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-new-delhi-10045398774/
+New_Delhi,2019,Maruti,Alto  ,Manual,"₹4,01,899","4,210 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-new-delhi-1005694868/
+New_Delhi,2013,Hyundai,i20  ,Manual,"₹3,36,499","64,789 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-new-delhi-1005662020/
+New_Delhi,2020,Hyundai,NEW SANTRO ,Manual,"₹5,28,599","3,544 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2020-cars-new-delhi-1005614860/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹4,14,999","29,335 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1127546762/
+New_Delhi,2015,Maruti,Celerio  ,Automatic,"₹3,65,799","1,22,112 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2015-cars-new-delhi-1016572904/
+New_Delhi,2017,Hyundai,Elite i20 ,Manual,"₹5,20,499","39,262 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-gurgaon-1013180066/
+New_Delhi,2017,Mahindra,XUV500  ,Manual,"₹9,82,599","83,356 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2017-cars-new-delhi-1008200169/
+New_Delhi,2016,Ford,Ecosport  ,Manual,"₹7,02,499","35,037 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-new-delhi-10041692770/
+New_Delhi,2019,Hyundai,NEW SANTRO ,Manual,"₹4,90,699","17,034 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-new-delhi-1488630224/
+New_Delhi,2018,Datsun,Redi Go ,,"₹3,02,999","24,994 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2018-cars-new-delhi-1007004466/
+New_Delhi,2018,Maruti,Alto K10 ,Manual,"₹3,61,499","19,270 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-new-delhi-1006241667/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹8,03,199","40,785 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-noida-1051207665/
+New_Delhi,2014,Audi,A3  ,Automatic,"₹12,91,799","51,934 km",1st Owner,Diesel,https://www.cars24.com/buy-used-audi-a3-2014-cars-new-delhi-1001382463/
+New_Delhi,2016,Maruti,Baleno  ,Manual,"₹5,87,799","52,334 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-new-delhi-1009280560/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹4,13,099","75,514 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1006084369/
+New_Delhi,2016,Mahindra,Scorpio  ,Manual,"₹11,64,599","43,452 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2016-cars-new-delhi-1005274764/
+New_Delhi,2018,Maruti,Vitara Brezza ,Manual,"₹7,49,399","49,555 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-new-delhi-1005726063/
+New_Delhi,2018,Maruti,Alto K10 ,Manual,"₹3,38,999","43,335 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-new-delhi-1000623561/
+New_Delhi,2015,Hyundai,Creta  ,Manual,"₹8,59,099","56,027 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-new-delhi-1001774862/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,80,399","36,693 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1005006964/
+New_Delhi,2017,Hyundai,Grand i10 ,Manual,"₹4,88,399","38,771 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-new-delhi-1003710868/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,94,199","39,714 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-1004024664/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹8,44,299","53,954 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-new-delhi-1006834766/
+New_Delhi,2015,Maruti,Baleno  ,Manual,"₹5,09,505","76,165 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2015-cars-new-delhi-1018157462/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,90,599","38,144 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-gurgaon-1014102668/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,85,299","31,295 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1001168765/
+New_Delhi,2013,Maruti,Ertiga  ,Manual,"₹4,65,899","1,61,023 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ertiga-2013-cars-new-delhi-1005178223/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹7,30,999","47,655 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-new-delhi-1004470268/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹7,24,999","55,327 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-new-delhi-1006284168/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹7,48,899","53,384 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-new-delhi-1009786964/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,12,499","82,898 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1005928408/
+New_Delhi,2014,Audi,Q5  ,Automatic,"₹19,48,299","32,976 km",1st Owner,Diesel,https://www.cars24.com/buy-used-audi-q5-2014-cars-new-delhi-1107341066/
+New_Delhi,2018,Maruti,Alto 800 ,Manual,"₹3,15,799","54,000 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-new-delhi-10043591790/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,96,999","42,160 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-gurgaon-1017140769/
+New_Delhi,2015,Maruti,S Cross ,Manual,"₹6,29,299","46,911 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2015-cars-ghaziabad-1127834168/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,52,199","50,020 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1008633769/
+New_Delhi,2013,Hyundai,Grand i10 ,Manual,"₹3,39,399","50,837 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-2013-cars-gurgaon-1019675463/
+New_Delhi,2014,Maruti,Swift Dzire ,Manual,"₹4,39,299","76,915 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-new-delhi-1006432464/
+New_Delhi,2016,Maruti,Ciaz  ,Manual,"₹5,54,399","88,082 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2016-cars-new-delhi-1006062566/
+New_Delhi,2015,Maruti,Ciaz  ,Manual,"₹5,64,599","76,733 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2015-cars-new-delhi-1005655562/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹4,61,099","93,680 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-gurgaon-1010992064/
+New_Delhi,2017,Ford,Ecosport  ,Manual,"₹7,59,899","46,960 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-new-delhi-1004884061/
+New_Delhi,2015,Hyundai,Grand i10 ,Manual,"₹3,97,599","73,886 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-new-delhi-1005265464/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,81,899","53,692 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-gurgaon-1016912968/
+New_Delhi,2014,Hyundai,i20  ,Manual,"₹3,63,999","72,830 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-2014-cars-new-delhi-1008887702/
+New_Delhi,2014,Honda,City  ,Manual,"₹4,74,099","86,299 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-city-2014-cars-new-delhi-1019222403/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹4,91,599","96,101 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-new-delhi-1120252263/
+New_Delhi,2014,Ford,Ecosport  ,Manual,"₹4,31,299","78,344 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-new-delhi-1006335661/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,86,599","57,582 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1000394367/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹6,67,988","67,111 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-new-delhi-1005740066/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,43,199","59,025 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1002880321/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹3,59,499","68,858 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1009116448/
+New_Delhi,2015,Nissan,Terrano  ,Manual,"₹4,95,599","57,003 km",1st Owner,Diesel,https://www.cars24.com/buy-used-nissan-terrano-2015-cars-new-delhi-1004404262/
+New_Delhi,2014,Ford,Ecosport  ,Manual,"₹4,48,399","50,969 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-new-delhi-1054357144/
+New_Delhi,2016,Maruti,Baleno  ,Manual,"₹5,36,399","55,639 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-new-delhi-1001538168/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,84,699","72,145 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1002742662/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,93,399","45,784 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1006023048/
+New_Delhi,2018,Maruti,Vitara Brezza ,Manual,"₹7,71,399","15,957 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-new-delhi-1004490161/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹3,84,599","92,528 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1006670328/
+New_Delhi,2017,Ford,Ecosport  ,Manual,"₹6,07,699","85,698 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-new-delhi-1002421266/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,36,699","86,812 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1006197045/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,36,199","83,576 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1001061764/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,93,499","92,143 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1057528422/
+New_Delhi,2017,Maruti,S Cross ,Manual,"₹7,77,099","96,675 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-new-delhi-1013512000/
+New_Delhi,2014,Toyota,Innova  ,Manual,"₹9,65,999","1,36,746 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2014-cars-new-delhi-1013797746/
+New_Delhi,2014,Toyota,Innova  ,Manual,"₹9,89,999","70,007 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2014-cars-new-delhi-1009072429/
+New_Delhi,2020,KIA,SELTOS  ,Manual,"₹11,55,299","12,981 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-new-delhi-1009104464/
+New_Delhi,2020,Maruti,New Wagon-R ,Manual,"₹4,53,999","11,731 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2020-cars-new-delhi-1101796649/
+New_Delhi,2013,Jaguar,XF  ,Automatic,"₹16,45,899","28,289 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-jaguar-xf-2013-cars-ghaziabad-1128366066/
+New_Delhi,2019,Hyundai,Elite i20 ,Manual,"₹6,17,899","22,638 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-new-delhi-1006526263/
+New_Delhi,2011,Hyundai,i10  ,Manual,"₹2,88,599","66,782 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2011-cars-gurgaon-1012820760/
+New_Delhi,2018,Renault,Kwid  ,Manual,"₹3,18,799","20,830 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-new-delhi-1001823969/
+New_Delhi,2016,Ford,Ecosport  ,Automatic,"₹6,84,299","41,253 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-new-delhi-1009212362/
+New_Delhi,2019,Mahindra,XUV500  ,Manual,"₹14,08,299","37,503 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2019-cars-new-delhi-1001932560/
+New_Delhi,2018,Maruti,Celerio  ,Manual,"₹4,88,499","12,225 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-new-delhi-1006532669/
+New_Delhi,2020,MG,HECTOR  ,Automatic,"₹16,83,899","8,868 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2020-cars-new-delhi-1153357165/
+New_Delhi,2020,Hyundai,Creta  ,Manual,"₹12,00,399","21,031 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-new-delhi-1104556365/
+New_Delhi,2017,Renault,Kwid  ,Manual,"₹3,41,099","30,876 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-new-delhi-1125680360/
+New_Delhi,2018,Honda,Amaze  ,Manual,"₹6,93,299","23,859 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2018-cars-new-delhi-1006930568/
+New_Delhi,2015,Hyundai,Grand i10 ,Manual,"₹4,08,499","54,106 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-new-delhi-1058346560/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹6,89,199","26,212 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-new-delhi-1003670464/
+New_Delhi,2017,Maruti,Dzire  ,Manual,"₹6,41,899","23,319 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-new-delhi-1006476665/
+New_Delhi,2015,Hyundai,Xcent  ,Manual,"₹2,97,799","69,491 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-xcent-2015-cars-noida-1051570167/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹6,35,899","75,389 km",2nd Owner,Petrol + CNG,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-10121795777/
+New_Delhi,2016,Ford,Ecosport  ,Manual,"₹6,84,999","8,351 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-new-delhi-1005674346/
+New_Delhi,2019,Ford,Ecosport  ,Manual,"₹8,60,999","11,114 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-new-delhi-1003604467/
+New_Delhi,2016,Hyundai,Grand i10 ,Manual,"₹4,73,199","45,605 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-new-delhi-1055417569/
+New_Delhi,2014,Mahindra,XUV500  ,Manual,"₹4,97,299","1,67,105 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2014-cars-new-delhi-1100824922/
+New_Delhi,2017,Hyundai,Creta  ,Manual,"₹7,83,399","85,928 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-new-delhi-1053704163/
+New_Delhi,2016,Maruti,Swift Dzire ,Manual,"₹5,01,899","79,688 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2016-cars-new-delhi-1480350123/
+New_Delhi,2014,Honda,City  ,Manual,"₹3,96,099","1,37,612 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-honda-city-2014-cars-new-delhi-1003752028/
+New_Delhi,2014,Hyundai,Elite i20 ,Manual,"₹4,40,299","39,101 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-new-delhi-1008039207/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,40,099","30,338 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1001313244/
+New_Delhi,2014,Maruti,Swift Dzire ,Manual,"₹4,70,199","25,744 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-new-delhi-1009104867/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,43,099","23,952 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1008317262/
+New_Delhi,2014,Ford,Ecosport  ,Manual,"₹3,89,799","1,02,593 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-new-delhi-1001462449/
+New_Delhi,2015,Maruti,Swift Dzire ,Manual,"₹3,92,799","75,826 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2015-cars-new-delhi-1001445667/
+New_Delhi,2015,Ford,Figo Aspire ,Manual,"₹3,78,899","95,302 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-figo-aspire-2015-cars-new-delhi-1005963600/
+New_Delhi,2015,Hyundai,Creta  ,Manual,"₹7,19,299","1,18,048 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-new-delhi-1001216726/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,53,899","24,700 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1052417645/
+New_Delhi,2015,Maruti,Wagon R 1.0,Automatic,"₹4,01,599","35,137 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-new-delhi-1001306863/
+New_Delhi,2020,Honda,City  ,Manual,"₹13,33,899","6,629 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-new-delhi-10022997716/
+New_Delhi,2021,Renault,TRIBER  ,Manual,"₹6,52,799","7,950 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2021-cars-new-delhi-10019396719/
+New_Delhi,2021,Tata,NEXON  ,Manual,"₹13,45,199","6,247 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-nexon-2021-cars-gurgaon-1051826667/
+New_Delhi,2010,Maruti,Wagon R 1.0,Manual,"₹2,60,799","41,971 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2010-cars-new-delhi-1006796866/
+New_Delhi,2021,Renault,Kiger  ,,"₹9,46,599","2,747 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kiger-2021-cars-new-delhi-10020698794/
+New_Delhi,2014,Audi,A3  ,Automatic,"₹14,09,299","34,088 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-audi-a3-2014-cars-new-delhi-1383744369/
+New_Delhi,2018,Maruti,S Cross ,Manual,"₹9,68,499","55,921 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-new-delhi-10020994777/
+New_Delhi,2021,Renault,Kwid  ,Automatic,"₹5,34,699","5,233 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2021-cars-new-delhi-10026191776/
+New_Delhi,2014,Toyota,Innova  ,Manual,"₹9,64,299","82,295 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2014-cars-new-delhi-1019413323/
+New_Delhi,2020,Hyundai,Grand i10 ,Manual,"₹5,92,299","13,223 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2020-cars-new-delhi-1001666666/
+New_Delhi,2018,Honda,City  ,Automatic,"₹9,26,599","32,309 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-new-delhi-1018440667/
+New_Delhi,2021,Maruti,Vitara Brezza ,Manual,"₹9,10,199","5,287 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2021-cars-new-delhi-10054590777/
+New_Delhi,2017,Maruti,Dzire  ,Manual,"₹6,31,299","18,579 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-gurgaon-10182191713/
+New_Delhi,2016,Honda,Brio  ,Manual,"₹4,32,699","23,791 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2016-cars-new-delhi-10070096794/
+New_Delhi,2021,Datsun,Redi Go ,Manual,"₹4,73,999","2,848 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2021-cars-new-delhi-10090493777/
+New_Delhi,2017,Renault,Kwid  ,Manual,"₹3,91,599","15,478 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-new-delhi-10084393779/
+New_Delhi,2014,Ford,Ecosport  ,Manual,"₹4,08,299","1,56,356 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-new-delhi-1000173927/
+New_Delhi,2019,MG,HECTOR  ,Automatic,"₹17,74,199","12,267 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-new-delhi-1003600166/
+New_Delhi,2016,Mahindra,Bolero  ,Manual,"₹5,87,399","83,798 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-bolero-2016-cars-new-delhi-1003796760/
+New_Delhi,2017,Jeep,Compass  ,Manual,"₹9,72,399","62,443 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-new-delhi-1006546065/
+New_Delhi,2017,Hyundai,Verna  ,Automatic,"₹10,24,699","49,358 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2017-cars-new-delhi-1007372360/
+New_Delhi,2017,Jeep,Compass  ,Manual,"₹11,85,099","76,959 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-new-delhi-1005862241/
+New_Delhi,2011,Maruti,Swift  ,Manual,"₹3,14,199","23,874 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2011-cars-gurgaon-1019506067/
+New_Delhi,2015,Ford,Ecosport  ,Automatic,"₹6,20,799","68,344 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2015-cars-new-delhi-10198696772/
+New_Delhi,2016,Maruti,Baleno  ,Automatic,"₹5,41,199","25,949 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-new-delhi-10007593791/
+New_Delhi,2016,Hyundai,Grand i10 ,Manual,"₹4,28,499","44,857 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-new-delhi-10052092795/
+New_Delhi,2014,Volkswagen,Polo  ,Manual,"₹4,24,899","39,308 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2014-cars-new-delhi-1005730667/
+New_Delhi,2019,Maruti,Alto K10 ,Manual,"₹4,15,699","7,166 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-new-delhi-1003192164/
+New_Delhi,2017,Renault,Kwid  ,Manual,"₹3,66,199","24,964 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-new-delhi-1009930363/
+New_Delhi,2014,Honda,Brio  ,Automatic,"₹4,41,099","18,551 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2014-cars-new-delhi-10080194797/
+New_Delhi,2019,Honda,Jazz  ,Automatic,"₹8,45,099","12,740 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2019-cars-new-delhi-1007090464/
+New_Delhi,2014,Toyota,Etios  ,Manual,"₹4,75,199","83,786 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-etios-2014-cars-gurgaon-10162797798/
+New_Delhi,2013,Toyota,Etios Liva ,Manual,"₹2,80,699","1,11,761 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-etios-liva-2013-cars-new-delhi-1009066827/
+New_Delhi,2020,Tata,ALTROZ  ,Manual,"₹8,22,499","10,325 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-new-delhi-1006060162/
+New_Delhi,2016,Hyundai,Elite i20 ,Manual,"₹4,49,699","97,997 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-new-delhi-1008856866/
+New_Delhi,2015,Maruti,Wagon R 1.0,Manual,"₹3,34,299","49,537 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-new-delhi-1006556067/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹6,68,199","25,920 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-ghaziabad-11210395796/
+New_Delhi,2017,Renault,Kwid  ,Manual,"₹3,53,499","32,153 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-new-delhi-1008596060/
+New_Delhi,2019,Hyundai,Creta  ,Manual,"₹9,76,499","71,000 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2019-cars-new-delhi-1013041066/
+New_Delhi,2020,Tata,ALTROZ  ,Manual,"₹8,30,799","25,150 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-new-delhi-10001992777/
+New_Delhi,2021,Tata,Tiago  ,Automatic,"₹6,84,299","12,299 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2021-cars-gurgaon-10140290773/
+New_Delhi,2013,Hyundai,i20  ,Manual,"₹3,48,599","1,21,395 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-new-delhi-1056017149/
+New_Delhi,2015,Hyundai,Eon  ,Manual,"₹3,19,399","51,358 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2015-cars-new-delhi-1006990166/
+New_Delhi,2017,Honda,WR-V  ,Manual,"₹6,95,899","17,884 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2017-cars-new-delhi-1004540362/
+New_Delhi,2019,MG,HECTOR  ,Automatic,"₹16,78,499","38,644 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-new-delhi-10097898795/
+New_Delhi,2019,Maruti,Celerio  ,Manual,"₹5,19,399","43,352 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-gurgaon-10149892796/
+New_Delhi,2018,Honda,Jazz  ,Manual,"₹5,79,499","50,246 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2018-cars-new-delhi-1109082861/
+New_Delhi,2019,Hyundai,VENUE  ,Manual,"₹9,03,399","34,107 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-new-delhi-10000293778/
+New_Delhi,2020,Maruti,Vitara Brezza ,Automatic,"₹10,63,999","17,557 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2020-cars-new-delhi-1008732165/
+New_Delhi,2020,Hyundai,Creta  ,Automatic,"₹17,26,699","41,453 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-new-delhi-10068198799/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹6,82,099","28,999 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-new-delhi-10001294792/
+New_Delhi,2019,Honda,City  ,Manual,"₹9,07,299","41,091 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2019-cars-new-delhi-1051198163/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹5,58,999","24,693 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-new-delhi-1001496060/
+New_Delhi,2015,Hyundai,Creta  ,Manual,"₹8,63,399","69,186 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-new-delhi-1002370264/
+New_Delhi,2018,Hyundai,Creta  ,Automatic,"₹11,95,799","28,711 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-new-delhi-1124740068/
+New_Delhi,2015,Hyundai,Creta  ,Manual,"₹8,61,599","49,566 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-new-delhi-1001184065/
+New_Delhi,2017,Maruti,Alto K10 ,Manual,"₹3,52,499","37,332 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-ghaziabad-11235296773/
+New_Delhi,2016,Hyundai,Grand i10 ,Manual,"₹4,20,799","80,447 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-new-delhi-1003400961/
+New_Delhi,2019,Maruti,Alto K10 ,Manual,"₹4,14,699","12,404 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-new-delhi-1002425166/
+New_Delhi,2021,Toyota,YARIS  ,Manual,"₹9,44,799","13,490 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2021-cars-new-delhi-1008797468/
+New_Delhi,2021,Maruti,S Cross ,Manual,"₹10,28,899","10,033 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-cross-2021-cars-new-delhi-10088393710/
+New_Delhi,2015,Hyundai,Creta  ,Manual,"₹8,39,379","71,301 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-new-delhi-1004980466/
+New_Delhi,2018,Renault,Kwid  ,Manual,"₹3,47,099","39,207 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-gurgaon-10137091793/
+New_Delhi,2018,Maruti,Baleno  ,Automatic,"₹7,19,899","29,117 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-new-delhi-1005976467/
+New_Delhi,2019,Maruti,XL6  ,Manual,"₹10,77,199","17,630 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-xl6-2019-cars-new-delhi-10083696774/
+New_Delhi,2021,Maruti,Alto  ,Manual,"₹4,29,299","5,116 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-new-delhi-1009810864/
+New_Delhi,2016,Honda,Jazz  ,Manual,"₹5,30,899","60,539 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-new-delhi-10142299770/
+New_Delhi,2016,Ford,Ecosport  ,Automatic,"₹6,27,299","51,657 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-new-delhi-1009798762/
+New_Delhi,2016,Hyundai,Grand i10 ,Manual,"₹4,46,699","46,995 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-new-delhi-1007494466/
+New_Delhi,2018,Maruti,Baleno  ,Manual,"₹6,27,399","21,569 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-noida-1053536962/
+New_Delhi,2014,Honda,Amaze  ,Manual,"₹4,06,199","85,083 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2014-cars-new-delhi-1008156462/
+New_Delhi,2019,Maruti,Alto  ,Manual,"₹3,79,499","23,209 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-new-delhi-1003499466/
+New_Delhi,2018,Hyundai,Elite i20 ,Manual,"₹6,51,799","37,734 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-new-delhi-10069199774/
+New_Delhi,2017,Mahindra,XUV500  ,Manual,"₹11,43,899","27,478 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2017-cars-new-delhi-1127355665/
+New_Delhi,2016,Hyundai,Grand i10 ,Manual,"₹4,44,299","66,712 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-new-delhi-10071898774/
+New_Delhi,2021,Maruti,S PRESSO ,Manual,"₹5,05,599","4,055 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-noida-1057776364/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹4,75,399","66,477 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-new-delhi-1001746767/
+New_Delhi,2018,Hyundai,Creta  ,Manual,"₹10,83,799","39,473 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-gurgaon-1018490564/
+New_Delhi,2018,Maruti,IGNIS  ,Automatic,"₹5,67,899","17,025 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-new-delhi-10075295717/
+New_Delhi,2020,Ford,Ecosport  ,Automatic,"₹10,90,869","11,741 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2020-cars-noida-1057916861/
+New_Delhi,2015,Audi,Q3  ,Automatic,"₹16,12,199","51,987 km",1st Owner,Diesel,https://www.cars24.com/buy-used-audi-q3-2015-cars-new-delhi-1004792269/
+New_Delhi,2016,Ford,Ecosport  ,Automatic,"₹6,72,699","76,874 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-gurgaon-1016210066/
+New_Delhi,2016,Audi,Q3  ,Automatic,"₹19,21,999","86,395 km",1st Owner,Diesel,https://www.cars24.com/buy-used-audi-q3-2016-cars-noida-1053974669/
+New_Delhi,2015,Hyundai,Creta  ,Manual,"₹7,71,099","84,649 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-new-delhi-1005729343/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,21,299","51,332 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-1007636568/
+New_Delhi,2019,Ford,Ecosport  ,Manual,"₹7,74,599","43,463 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-noida-1055066264/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹3,98,599","94,365 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-new-delhi-1000002463/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹7,09,899","33,972 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-faridabad-11082795793/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹7,99,899","24,501 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-new-delhi-1003464867/
+New_Delhi,2013,Mahindra,XUV500  ,Manual,"₹5,25,699","60,607 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2013-cars-new-delhi-1003155561/
+New_Delhi,2018,Maruti,Vitara Brezza ,Manual,"₹6,79,499","55,051 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-new-delhi-1006000026/
+New_Delhi,2017,Maruti,Ciaz  ,Manual,"₹6,52,499","59,411 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-new-delhi-1008753467/
+New_Delhi,2013,Maruti,Ertiga  ,Manual,"₹4,30,799","1,19,443 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-maruti-ertiga-2013-cars-new-delhi-1107737848/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹8,56,899","37,831 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-new-delhi-1008690767/
+New_Delhi,2014,Ford,Ecosport  ,Manual,"₹4,19,699","60,625 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-new-delhi-1007154809/
+New_Delhi,2017,Maruti,Baleno  ,Automatic,"₹6,13,699","90,438 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-new-delhi-1004794163/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹4,65,099","1,41,436 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-new-delhi-2339484643/
+New_Delhi,2013,Toyota,Fortuner  ,Automatic,"₹11,32,399","1,97,865 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-fortuner-2013-cars-new-delhi-1018053646/
+New_Delhi,2018,Maruti,Vitara Brezza ,Automatic,"₹8,83,499","55,470 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-new-delhi-1059680963/
+New_Delhi,2020,Maruti,S PRESSO ,Manual,"₹4,51,999","15,523 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-new-delhi-1009068168/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,16,399","38,694 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-1001698763/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹7,57,899","50,601 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-new-delhi-1009680146/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹7,40,399","22,775 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-1003656705/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,34,499","33,029 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-ghaziabad-1123510863/
+New_Delhi,2019,Hyundai,VENUE  ,Manual,"₹8,67,899","31,472 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-new-delhi-2998384401/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹7,15,799","26,769 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1008743069/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹4,91,599","45,710 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-new-delhi-1004313567/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹7,15,899","61,639 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-10035992796/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,96,099","37,191 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1016881366/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹7,55,099","35,898 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-1005638905/
+New_Delhi,2016,Hyundai,Creta  ,Manual,"₹7,92,799","85,153 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2016-cars-new-delhi-1006036047/
+New_Delhi,2015,Mahindra,XUV500  ,Manual,"₹6,24,799","64,575 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2015-cars-new-delhi-1001610266/
+New_Delhi,2015,Maruti,Ritz  ,Manual,"₹3,59,399","60,367 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ritz-2015-cars-new-delhi-1009232968/
+New_Delhi,2015,Ford,Ecosport  ,Manual,"₹5,22,599","41,648 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2015-cars-new-delhi-1005492060/
+New_Delhi,2016,Mahindra,Scorpio  ,Manual,"₹11,51,599","74,906 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2016-cars-new-delhi-1053260961/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹7,12,399","28,444 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-new-delhi-1003465565/
+New_Delhi,2015,Maruti,Ciaz  ,Manual,"₹4,87,199","1,22,636 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2015-cars-new-delhi-1004688509/
+New_Delhi,2014,Ford,Ecosport  ,Manual,"₹4,30,399","89,391 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-new-delhi-1004755869/
+New_Delhi,2019,Ford,Ecosport  ,Manual,"₹8,67,999","42,698 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-new-delhi-1004940964/
+New_Delhi,2015,Maruti,Ritz  ,Manual,"₹3,54,299","77,213 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ritz-2015-cars-new-delhi-1003256723/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹3,89,999","49,562 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1008593368/
+New_Delhi,2014,Hyundai,Elite i20 ,Manual,"₹4,65,899","49,579 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-new-delhi-10048394794/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹7,47,299","66,221 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-gurgaon-1014062063/
+New_Delhi,2014,Maruti,Swift Dzire ,Manual,"₹4,18,599","49,750 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-new-delhi-1006719048/
+New_Delhi,2016,Ford,Ecosport  ,Manual,"₹5,31,099","55,500 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-new-delhi-1000490268/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,97,799","27,613 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1002730568/
+New_Delhi,2014,Hyundai,Elite i20 ,Manual,"₹4,47,899","73,060 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-new-delhi-1008971969/
+New_Delhi,2016,Maruti,Ciaz  ,Manual,"₹6,05,099","75,956 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2016-cars-new-delhi-1002184368/
+New_Delhi,2013,Mercedes,Benz E Class,Automatic,"₹12,45,499","53,334 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mercedes-benz-e-class-2013-cars-new-delhi-1013183521/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,19,299","53,046 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-1007613360/
+New_Delhi,2017,Hyundai,Elite i20 ,Manual,"₹6,45,199","87,049 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-new-delhi-10004498797/
+New_Delhi,2015,Hyundai,Grand i10 ,Manual,"₹3,67,799","86,870 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-new-delhi-1002785164/
+New_Delhi,2019,Ford,Ecosport  ,Manual,"₹8,37,399","51,505 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-new-delhi-1009212065/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,56,799","77,325 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1100287647/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹3,96,899","64,492 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1000254862/
+New_Delhi,2013,Maruti,Swift Dzire ,Manual,"₹3,50,199","66,564 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2013-cars-new-delhi-1007895707/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,92,499","44,409 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-gurgaon-1017858362/
+New_Delhi,2017,Maruti,Swift  ,Manual,"₹5,62,899","47,065 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2017-cars-new-delhi-1000730165/
+New_Delhi,2014,Toyota,Innova  ,Manual,"₹6,98,699","2,38,600 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2014-cars-new-delhi-1008027747/
+New_Delhi,2016,Maruti,Swift  ,Manual,"₹4,26,699","1,06,422 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2016-cars-new-delhi-1006035909/
+New_Delhi,2013,Toyota,Fortuner  ,Manual,"₹11,43,599","1,17,699 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-fortuner-2013-cars-new-delhi-1008866546/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,40,299","30,766 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1006775967/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹3,95,599","46,556 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1009305761/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹7,00,199","63,355 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1005822364/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,69,899","63,661 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1001802362/
+New_Delhi,2015,Hyundai,i20 Active ,Manual,"₹5,27,199","58,072 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-active-2015-cars-new-delhi-1004722268/
+New_Delhi,2017,Maruti,Swift  ,Manual,"₹4,88,699","97,705 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2017-cars-new-delhi-1008333905/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,51,199","57,235 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1002403268/
+New_Delhi,2017,Maruti,Swift  ,Manual,"₹5,50,699","52,678 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2017-cars-new-delhi-1002885862/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,16,299","71,378 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1051759846/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹4,85,199","58,342 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-new-delhi-1001092631/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,18,499","47,397 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1000625728/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹7,49,099","82,799 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-new-delhi-1058565567/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,65,399","55,011 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1003519800/
+New_Delhi,2013,Ford,Ecosport  ,Manual,"₹3,96,999","85,513 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2013-cars-new-delhi-1009256303/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,39,099","56,690 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1006897741/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,49,099","54,880 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1006270323/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,32,499","69,864 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1002473143/
+New_Delhi,2017,Maruti,Swift  ,Manual,"₹4,86,599","97,684 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2017-cars-new-delhi-1000754960/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹6,68,499","66,066 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-new-delhi-1005985363/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,90,799","39,381 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1002085062/
+New_Delhi,2017,Maruti,S Cross ,Manual,"₹9,05,199","40,129 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-noida-1059270068/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,57,399","28,321 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1120935629/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,74,699","61,990 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1009621868/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,58,054","49,443 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1005789360/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,35,799","1,07,106 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1007283406/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,92,299","72,498 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1009933446/
+New_Delhi,2015,Maruti,S Cross ,Manual,"₹5,13,699","83,563 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2015-cars-new-delhi-1008465463/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,69,299","69,784 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1000595763/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,16,399","57,070 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1003576902/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,39,699","76,942 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1126839749/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹5,97,999","98,660 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1009519141/
+New_Delhi,2017,Maruti,Dzire  ,Manual,"₹5,16,699","90,789 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-new-delhi-1125954767/
+New_Delhi,2016,Maruti,S Cross ,Manual,"₹5,90,999","84,004 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2016-cars-new-delhi-1003064967/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,65,499","77,659 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1000417704/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,25,299","68,431 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1103786629/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,08,499","1,04,680 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1105476622/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,51,899","71,940 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1005119849/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹3,94,599","76,369 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1006579849/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,22,399","46,222 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1002093727/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,30,599","82,438 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1007203846/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,30,599","64,844 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1129325662/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,40,199","65,741 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1008643362/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹4,08,499","73,330 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1000440626/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,80,399","33,489 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-new-delhi-1007003169/
+New_Delhi,2014,Toyota,Innova  ,Manual,"₹9,47,799","84,262 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2014-cars-new-delhi-1007013822/
+New_Delhi,2011,Maruti,Wagon R 1.0,Manual,"₹2,66,099","54,723 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2011-cars-new-delhi-1005254262/
+New_Delhi,2021,Hyundai,VENUE  ,Manual,"₹12,13,499","2,213 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-venue-2021-cars-ghaziabad-1127576668/
+New_Delhi,2021,Toyota,URBAN CRUISER ,,"₹9,25,899","11,828 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-urban-cruiser-2021-cars-new-delhi-1013346464/
+New_Delhi,2014,Nissan,Micra  ,Manual,"₹2,75,299","63,433 km",1st Owner,Diesel,https://www.cars24.com/buy-used-nissan-micra-2014-cars-new-delhi-1007262761/
+New_Delhi,2010,Maruti,Wagon R 1.0,Manual,"₹2,44,099","48,915 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2010-cars-new-delhi-1003140569/
+New_Delhi,2017,Hyundai,Creta  ,Manual,"₹8,55,999","78,203 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-new-delhi-1002923767/
+New_Delhi,2010,Honda,City  ,Manual,"₹4,23,899","34,566 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2010-cars-new-delhi-1003386463/
+New_Delhi,2016,Tata,Tiago  ,Manual,"₹3,91,399","28,153 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2016-cars-new-delhi-1009946660/
+New_Delhi,2013,Hyundai,i20  ,Manual,"₹3,06,299","29,974 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-new-delhi-1000375969/
+New_Delhi,2020,Tata,NEXON  ,Automatic,"₹9,61,299","46,877 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2020-cars-new-delhi-1002156565/
+New_Delhi,2010,Hyundai,i10  ,Manual,"₹2,35,099","60,584 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2010-cars-new-delhi-1007724765/
+New_Delhi,2012,Hyundai,Santro Xing ,Manual,"₹2,21,999","94,113 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-santro-xing-2012-cars-new-delhi-10183191790/
+New_Delhi,2017,Hyundai,Grand i10 ,Manual,"₹4,86,499","35,853 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-new-delhi-1057668764/
+New_Delhi,2018,Jeep,Compass  ,Manual,"₹12,70,999","71,745 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2018-cars-sonipat-1156630268/
+New_Delhi,2016,Hyundai,Verna  ,Automatic,"₹7,22,399","37,607 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2016-cars-new-delhi-1009136267/
+New_Delhi,2018,Hyundai,Creta  ,Manual,"₹9,01,199","31,760 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-new-delhi-10007292795/
+New_Delhi,2016,Hyundai,Grand i10 ,Manual,"₹4,19,299","34,900 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-new-delhi-1000074267/
+New_Delhi,2018,Honda,Amaze  ,Automatic,"₹7,20,399","17,205 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2018-cars-new-delhi-10061194790/
+New_Delhi,2017,Tata,Tiago  ,Manual,"₹4,56,299","18,534 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2017-cars-new-delhi-1007022160/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹6,67,799","20,135 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-new-delhi-1009827301/
+New_Delhi,2019,Volkswagen,Polo  ,Manual,"₹5,62,599","32,756 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2019-cars-gurgaon-10146491772/
+New_Delhi,2020,Hyundai,GRAND I10 NIOS,Manual,"₹6,50,099","12,327 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2020-cars-new-delhi-10086090795/
+New_Delhi,2012,Maruti,Swift  ,Manual,"₹2,83,099","1,30,194 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2012-cars-new-delhi-1056126737/
+New_Delhi,2018,Maruti,Vitara Brezza ,Manual,"₹6,15,699","52,410 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-noida-1054430262/
+New_Delhi,2015,Maruti,Celerio  ,Automatic,"₹4,06,199","72,578 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2015-cars-new-delhi-1058994961/
+New_Delhi,2012,Hyundai,i20  ,Manual,"₹3,23,799","80,408 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2012-cars-gurgaon-1016172666/
+New_Delhi,2020,Volkswagen,Polo  ,Manual,"₹6,87,199","21,886 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2020-cars-new-delhi-1000326962/
+New_Delhi,2013,Hyundai,i20  ,Manual,"₹3,12,099","38,173 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-new-delhi-1015936920/
+New_Delhi,2019,Renault,TRIBER  ,Manual,"₹5,40,999","15,345 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-new-delhi-1011184966/
+New_Delhi,2019,Maruti,Celerio  ,Manual,"₹4,67,399","79,005 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-new-delhi-1008036768/
+New_Delhi,2015,Maruti,Baleno  ,Manual,"₹4,93,299","57,510 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2015-cars-new-delhi-1008948267/
+New_Delhi,2017,Hyundai,Grand i10 ,Manual,"₹4,60,599","33,881 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-noida-1054210963/
+New_Delhi,2014,Renault,Duster  ,Manual,"₹4,35,899","51,066 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-duster-2014-cars-new-delhi-1015344466/
+New_Delhi,2013,Hyundai,Verna  ,Manual,"₹4,77,499","33,302 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2013-cars-new-delhi-1003035467/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,19,499","59,692 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1004600968/
+New_Delhi,2017,Mahindra,Scorpio  ,Manual,"₹9,07,899","45,022 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2017-cars-new-delhi-1008858165/
+New_Delhi,2018,Hyundai,Grand i10 ,Manual,"₹4,99,999","36,183 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-new-delhi-1002155367/
+New_Delhi,2018,Maruti,Alto 800 ,Manual,"₹3,12,099","35,008 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-new-delhi-1120417360/
+New_Delhi,2020,Maruti,S PRESSO ,Manual,"₹4,36,999","13,665 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-new-delhi-1009249563/
+New_Delhi,2015,Maruti,Ertiga  ,Manual,"₹6,25,899","53,904 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ertiga-2015-cars-new-delhi-1008642441/
+New_Delhi,2017,Hyundai,Creta  ,Manual,"₹8,98,599","42,616 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-new-delhi-1009076968/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹2,83,099","1,67,631 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1001142748/
+New_Delhi,2013,Maruti,Swift Dzire ,Manual,"₹2,95,899","1,31,211 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2013-cars-new-delhi-1003189346/
+New_Delhi,2015,Honda,City  ,Manual,"₹4,75,699","1,95,015 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-honda-city-2015-cars-new-delhi-1018112304/
+New_Delhi,2016,Ford,Ecosport  ,Manual,"₹7,03,899","16,228 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-new-delhi-1003193662/
+New_Delhi,2009,Maruti,Zen Estilo ,Manual,"₹2,03,099","44,809 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-zen-estilo-2009-cars-new-delhi-1002666227/
+New_Delhi,2014,Toyota,Corolla Altis ,Manual,"₹6,41,699","1,05,711 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-corolla-altis-2014-cars-new-delhi-1006093126/
+New_Delhi,2014,Maruti,Ritz  ,Manual,"₹2,98,299","54,894 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ritz-2014-cars-new-delhi-1001062464/
+New_Delhi,2017,Maruti,Swift  ,Manual,"₹5,35,099","46,220 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2017-cars-new-delhi-1000029901/
+New_Delhi,2015,BMW,5 Series ,Automatic,"₹18,28,399","82,138 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-bmw-5-series-2015-cars-new-delhi-1103443448/
+New_Delhi,2017,Ford,Ecosport  ,Manual,"₹5,99,399","51,197 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-new-delhi-1058489966/
+New_Delhi,2013,Maruti,Ertiga  ,Manual,"₹5,28,899","49,273 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ertiga-2013-cars-new-delhi-1545147541/
+New_Delhi,2011,Toyota,Etios  ,Manual,"₹3,14,299","85,905 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-etios-2011-cars-new-delhi-1002347243/
+New_Delhi,2017,Maruti,Swift  ,Manual,"₹4,98,399","70,395 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-new-delhi-1008040761/
+New_Delhi,2020,Maruti,S PRESSO ,Manual,"₹4,45,499","6,879 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-new-delhi-1007507067/
+New_Delhi,2014,Renault,Duster  ,Manual,"₹4,14,499","84,717 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2014-cars-new-delhi-1018828426/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,15,099","66,981 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1000794229/
+New_Delhi,2019,Maruti,S PRESSO ,Manual,"₹3,69,399","44,522 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-new-delhi-1005492366/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,05,099","1,12,415 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-new-delhi-1008363748/
+New_Delhi,2020,Maruti,Alto  ,Manual,"₹3,81,899","8,513 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-new-delhi-1101412108/
+New_Delhi,2018,Maruti,Vitara Brezza ,Manual,"₹7,51,099","21,269 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-new-delhi-1004752449/
+New_Delhi,2015,Honda,City  ,Manual,"₹5,54,699","70,976 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-city-2015-cars-new-delhi-1009340761/
+New_Delhi,2016,Mahindra,Scorpio  ,Manual,"₹10,22,099","87,758 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2016-cars-new-delhi-1008895960/
+New_Delhi,2015,Maruti,Swift Dzire ,Manual,"₹4,48,899","51,483 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2015-cars-new-delhi-1010129260/
+New_Delhi,2013,Honda,Amaze  ,Manual,"₹3,07,499","48,118 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-amaze-2013-cars-new-delhi-1015239863/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,06,999","71,077 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1000746727/
+New_Delhi,2013,Toyota,Innova  ,Manual,"₹6,20,799","1,58,148 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2013-cars-new-delhi-1010944627/
+New_Delhi,2014,Nissan,Terrano  ,Manual,"₹4,53,899","51,904 km",1st Owner,Diesel,https://www.cars24.com/buy-used-nissan-terrano-2014-cars-new-delhi-1002042764/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹6,26,199","84,028 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-new-delhi-1002993040/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹3,95,699","1,12,079 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1008992641/
+New_Delhi,2015,Toyota,Etios  ,Manual,"₹4,28,499","64,363 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-etios-2015-cars-new-delhi-1108585221/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,05,799","61,862 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-new-delhi-1002284727/
+New_Delhi,2016,Maruti,Swift  ,Manual,"₹4,50,699","28,739 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2016-cars-new-delhi-10037099797/
+New_Delhi,2017,Hyundai,Tucson New ,Automatic,"₹14,39,799","88,273 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-tucson-new-2017-cars-new-delhi-10006390771/
+New_Delhi,2019,Honda,Civic  ,Automatic,"₹19,87,699","19,005 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-civic-2019-cars-gurgaon-10062091775/
+New_Delhi,2018,Maruti,Baleno  ,Manual,"₹5,30,899","23,315 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-new-delhi-1013333460/
+New_Delhi,2021,Hyundai,Creta  ,Manual,"₹13,38,999","3,468 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2021-cars-gurgaon-10118897710/
+New_Delhi,2020,Maruti,Baleno  ,Manual,"₹6,00,999","12,969 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-new-delhi-1106196360/
+New_Delhi,2021,Hyundai,VENUE  ,Manual,"₹9,90,499","29,645 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2021-cars-faridabad-11094795772/
+New_Delhi,2020,Tata,ALTROZ  ,Manual,"₹8,22,499","31,910 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-gurgaon-1018486066/
+New_Delhi,2018,Datsun,Redi Go ,Automatic,"₹3,86,699","4,555 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2018-cars-gurgaon-1005830760/
+New_Delhi,2021,Renault,Duster  ,Manual,"₹9,13,999","2,572 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-duster-2021-cars-new-delhi-1102436464/
+New_Delhi,2021,Toyota,Glanza  ,Automatic,"₹9,93,999","3,527 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-glanza-2021-cars-new-delhi-10099493713/
+New_Delhi,2017,Hyundai,Elite i20 ,Manual,"₹5,17,999","30,697 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-gurgaon-1004454468/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,32,499","46,245 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-gurgaon-1009658243/
+New_Delhi,2021,Honda,Jazz  ,Automatic,"₹10,38,399","6,910 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2021-cars-faridabad-11029692779/
+New_Delhi,2021,Renault,Kiger  ,,"₹9,30,699","7,661 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kiger-2021-cars-gurgaon-1019436663/
+New_Delhi,2020,Maruti,Alto  ,Manual,"₹3,94,399","9,578 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-gurgaon-10169998772/
+New_Delhi,2010,Honda,City  ,Manual,"₹3,98,199","67,428 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2010-cars-gurgaon-1012546163/
+New_Delhi,2021,Tata,Safari  ,Manual,"₹18,74,599","12,456 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-safari-2021-cars-gurgaon-10147399794/
+New_Delhi,2019,Renault,Kwid  ,Manual,"₹3,45,399","21,902 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-gurgaon-1001745063/
+New_Delhi,2019,Renault,Kwid  ,Manual,"₹3,71,399","16,641 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-gurgaon-1016930764/
+New_Delhi,2017,Toyota,Corolla Altis ,Manual,"₹12,74,699","58,639 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2017-cars-gurgaon-1007485167/
+New_Delhi,2017,Maruti,Baleno  ,Manual,"₹5,37,199","31,901 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-gurgaon-1005435567/
+New_Delhi,2021,Hyundai,NEW SANTRO ,Manual,"₹5,57,199","5,234 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2021-cars-new-delhi-10034598778/
+New_Delhi,2020,Skoda,Rapid  ,Manual,"₹10,24,799","16,041 km",1st Owner,Petrol,https://www.cars24.com/buy-used-skoda-rapid-2020-cars-new-delhi-10106190777/
+New_Delhi,2018,Maruti,Swift  ,Manual,"₹5,18,399","31,027 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-gurgaon-10190995775/
+New_Delhi,2016,Hyundai,Grand i10 ,Manual,"₹4,29,999","87,251 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-gurgaon-1051229046/
+New_Delhi,2021,Toyota,Glanza  ,Automatic,"₹9,86,099","7,965 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-glanza-2021-cars-gurgaon-10181695775/
+New_Delhi,2017,Mahindra,XUV500  ,Automatic,"₹11,90,899","90,501 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2017-cars-new-delhi-1012350563/
+New_Delhi,2019,Hyundai,Grand i10 ,Manual,"₹5,40,899","39,474 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-new-delhi-10089790717/
+New_Delhi,2017,Maruti,Baleno  ,Manual,"₹5,20,699","35,325 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-gurgaon-1003855864/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹6,43,399","31,598 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-gurgaon-10157598796/
+New_Delhi,2011,Toyota,Etios  ,Manual,"₹3,62,699","50,581 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-toyota-etios-2011-cars-gurgaon-1003686320/
+New_Delhi,2017,Honda,Amaze  ,Manual,"₹4,54,599","74,787 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2017-cars-gurgaon-1019510663/
+New_Delhi,2017,Hyundai,Creta  ,Manual,"₹8,61,299","68,509 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-new-delhi-1109446261/
+New_Delhi,2019,Maruti,New Wagon-R ,Manual,"₹5,15,199","38,553 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-new-delhi-1003300864/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹5,56,699","39,162 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-faridabad-1101356261/
+New_Delhi,2019,Mahindra,XUV 3OO ,Manual,"₹10,34,499","52,439 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv-3oo-2019-cars-gurgaon-1011476760/
+New_Delhi,2017,Maruti,Ciaz  ,Manual,"₹7,40,299","17,151 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-new-delhi-1006396864/
+New_Delhi,2019,Maruti,Vitara Brezza ,Automatic,"₹8,79,499","27,955 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-gurgaon-1010687004/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹7,75,599","44,672 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-new-delhi-1004352167/
+New_Delhi,2017,Hyundai,Grand i10 ,Manual,"₹4,75,199","37,117 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-gurgaon-1006808969/
+New_Delhi,2018,Maruti,Baleno  ,Manual,"₹5,47,599","56,569 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-gurgaon-1003234563/
+New_Delhi,2020,Maruti,S PRESSO ,Manual,"₹4,50,899","18,960 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-faridabad-1102246568/
+New_Delhi,2018,Maruti,Baleno  ,Manual,"₹5,44,199","79,506 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-gurgaon-1011640767/
+New_Delhi,2019,Mahindra,XUV 3OO ,Manual,"₹8,59,699","40,883 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv-3oo-2019-cars-new-delhi-1004444763/
+New_Delhi,2017,Hyundai,Creta  ,Automatic,"₹10,83,799","58,995 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-gurgaon-1004454666/
+New_Delhi,2018,Maruti,Alto 800 ,Manual,"₹3,26,899","36,637 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-new-delhi-1008936868/
+New_Delhi,2017,Maruti,Alto K10 ,Manual,"₹3,49,599","27,217 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-gurgaon-1011460167/
+New_Delhi,2019,Ford,Ecosport  ,Manual,"₹8,57,399","34,344 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-gurgaon-1012758161/
+New_Delhi,2014,Toyota,Corolla Altis ,Manual,"₹7,00,699","63,907 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-corolla-altis-2014-cars-gurgaon-1009198164/
+New_Delhi,2017,Maruti,Baleno  ,Manual,"₹6,72,999","23,054 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-gurgaon-1019623264/
+New_Delhi,2018,Maruti,Baleno  ,Manual,"₹5,76,799","37,259 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-faridabad-11036298799/
+New_Delhi,2014,Hyundai,Elite i20 ,Manual,"₹4,20,899","1,70,007 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-gurgaon-1000710624/
+New_Delhi,2017,Maruti,IGNIS  ,Manual,"₹5,03,499","35,452 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-gurgaon-1019242163/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹6,68,299","38,501 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-new-delhi-1009524965/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,30,899","59,390 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-gurgaon-1012214562/
+New_Delhi,2019,Hyundai,VENUE  ,Manual,"₹8,92,499","36,417 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-gurgaon-2967514408/
+New_Delhi,2017,Maruti,Baleno  ,Automatic,"₹6,45,199","72,192 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-new-delhi-1003680063/
+New_Delhi,2017,Maruti,Baleno  ,Automatic,"₹6,26,799","78,713 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-new-delhi-1007854663/
+New_Delhi,2016,Maruti,Ciaz  ,Manual,"₹5,41,799","77,777 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2016-cars-new-delhi-1006482260/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,21,399","14,723 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-1009324862/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,22,299","40,453 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-gurgaon-1016932162/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹7,82,799","24,937 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-gurgaon-1014709762/
+New_Delhi,2017,Maruti,Baleno  ,Manual,"₹5,37,199","50,045 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-gurgaon-1011554264/
+New_Delhi,2016,Maruti,Swift  ,Manual,"₹4,90,199","39,364 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2016-cars-gurgaon-1000912167/
+New_Delhi,2017,Maruti,Baleno  ,Automatic,"₹5,94,999","63,337 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-new-delhi-1001604369/
+New_Delhi,2012,Maruti,Swift Dzire ,Manual,"₹3,14,399","1,15,606 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2012-cars-gurgaon-1016464922/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,16,199","55,408 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-gurgaon-1019473563/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹7,54,799","43,375 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-1008754164/
+New_Delhi,2017,Ford,Ecosport  ,Manual,"₹7,26,199","42,240 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-gurgaon-1014492968/
+New_Delhi,2019,Ford,Ecosport  ,Manual,"₹8,34,399","50,122 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-new-delhi-1006964367/
+New_Delhi,2016,Maruti,Swift Dzire ,Manual,"₹4,63,199","58,329 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2016-cars-gurgaon-1010697340/
+New_Delhi,2017,Tata,Hexa  ,Manual,"₹7,85,199","84,559 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2017-cars-new-delhi-1008064266/
+New_Delhi,2014,Ford,Ecosport  ,Manual,"₹4,60,499","54,501 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-gurgaon-1018443266/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹5,83,499","79,409 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-gurgaon-1005591164/
+New_Delhi,2016,Maruti,Baleno  ,Manual,"₹5,06,599","63,927 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-gurgaon-1005952606/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,47,199","44,096 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-gurgaon-1104922403/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,27,499","68,967 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-gurgaon-1011466521/
+New_Delhi,2017,Ford,Ecosport  ,Manual,"₹7,87,299","26,890 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-gurgaon-1007394561/
+New_Delhi,2014,Renault,Duster  ,Manual,"₹4,70,599","65,090 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2014-cars-gurgaon-1007702463/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,12,899","66,181 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-gurgaon-1105212906/
+New_Delhi,2019,Hyundai,Verna  ,Manual,"₹9,81,699","80,631 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2019-cars-gurgaon-1018594465/
+New_Delhi,2009,Hyundai,i10  ,Manual,"₹2,04,199","44,319 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2009-cars-gurgaon-1007315463/
+New_Delhi,2010,Hyundai,i20  ,Manual,"₹2,98,999","60,774 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2010-cars-gurgaon-1019985361/
+New_Delhi,2015,Honda,CRV  ,Automatic,"₹12,68,899","73,937 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-crv-2015-cars-gurgaon-1002172648/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,46,599","28,998 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-new-delhi-1005426560/
+New_Delhi,2018,Hyundai,Elite i20 ,Manual,"₹5,46,899","27,693 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-gurgaon-10006692791/
+New_Delhi,2018,Hyundai,Verna  ,Automatic,"₹9,87,399","73,815 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-new-delhi-11097097776/
+New_Delhi,2016,Maruti,Swift  ,Manual,"₹4,31,799","41,926 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2016-cars-gurgaon-1015510161/
+New_Delhi,2018,Renault,Kwid  ,Manual,"₹3,54,799","19,738 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-new-delhi-1000260060/
+New_Delhi,2020,Maruti,Swift  ,Manual,"₹7,84,099","13,357 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2020-cars-gurgaon-10180491777/
+New_Delhi,2019,Toyota,Innova Crysta ,Automatic,"₹17,13,899","34,321 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-crysta-2019-cars-gurgaon-1012867040/
+New_Delhi,2015,Maruti,Wagon R 1.0,Manual,"₹3,51,899","27,822 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-gurgaon-10169598792/
+New_Delhi,2017,Renault,Kwid  ,Manual,"₹3,52,799","20,795 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-gurgaon-1017502809/
+New_Delhi,2016,Ford,Endeavour  ,Manual,"₹16,42,299","78,295 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-endeavour-2016-cars-gurgaon-1050131466/
+New_Delhi,2017,Mahindra,XUV500  ,Manual,"₹7,56,399","1,95,904 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2017-cars-gurgaon-1051841849/
+New_Delhi,2017,Maruti,Baleno  ,Manual,"₹5,90,199","11,517 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-new-delhi-1002642361/
+New_Delhi,2016,Mahindra,XUV500  ,Manual,"₹8,64,499","78,933 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2016-cars-gurgaon-1005345860/
+New_Delhi,2021,Maruti,Alto  ,Manual,"₹5,22,599","30,016 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-maruti-alto-2021-cars-new-delhi-10074695797/
+New_Delhi,2017,Maruti,Dzire  ,Manual,"₹5,96,999","56,664 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-new-delhi-1006976565/
+New_Delhi,2019,Maruti,Alto K10 ,Manual,"₹4,10,799","5,633 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-new-delhi-1000644262/
+New_Delhi,2011,Toyota,Corolla Altis ,Manual,"₹4,68,959","67,923 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2011-cars-gurgaon-1014658261/
+New_Delhi,2018,Mahindra,Scorpio  ,Manual,"₹11,83,799","23,043 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2018-cars-new-delhi-1006442368/
+New_Delhi,2017,Maruti,Baleno  ,Manual,"₹5,56,499","44,628 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-gurgaon-1004843240/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,21,399","39,392 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-1005022160/
+New_Delhi,2014,Mahindra,XUV500  ,Manual,"₹4,82,599","83,535 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2014-cars-gurgaon-1010965965/
+New_Delhi,2018,Maruti,IGNIS  ,Manual,"₹4,56,999","39,475 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-gurgaon-1001376000/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹8,75,299","30,704 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-gurgaon-1018946361/
+New_Delhi,2016,Ford,Ecosport  ,Manual,"₹6,93,999","16,529 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-gurgaon-1002869568/
+New_Delhi,2018,Hyundai,Creta  ,Automatic,"₹10,98,649","40,655 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-gurgaon-1014750365/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹3,99,099","45,298 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-gurgaon-1015373666/
+New_Delhi,2017,Maruti,Swift  ,Manual,"₹4,78,499","41,765 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2017-cars-new-delhi-1005750666/
+New_Delhi,2014,Ford,Ecosport  ,Manual,"₹4,46,399","38,501 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-gurgaon-1009431864/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹6,59,199","60,628 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-gurgaon-1105626267/
+New_Delhi,2017,Maruti,Ciaz  ,Manual,"₹6,10,899","1,08,210 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-gurgaon-1000909706/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹3,88,299","44,171 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-gurgaon-1002007860/
+New_Delhi,2014,Hyundai,Verna  ,Manual,"₹4,83,799","78,433 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2014-cars-new-delhi-1004955863/
+New_Delhi,2013,Toyota,Fortuner  ,Automatic,"₹12,26,199","75,620 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-fortuner-2013-cars-gurgaon-1009369740/
+New_Delhi,2020,KIA,SELTOS  ,Automatic,"₹14,29,999","21,784 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-new-delhi-10019992773/
+New_Delhi,2021,Renault,Kiger  ,Automatic,"₹8,21,699","6,344 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kiger-2021-cars-faridabad-10018193795/
+New_Delhi,2021,Maruti,Ciaz  ,Manual,"₹12,13,599","9,370 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2021-cars-faridabad-1056766560/
+New_Delhi,2021,Maruti,Ciaz  ,Manual,"₹11,84,499","4,536 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2021-cars-gurgaon-10143198777/
+New_Delhi,2019,Hyundai,Elite i20 ,Manual,"₹7,14,199","11,543 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-faridabad-1009346867/
+New_Delhi,2010,Hyundai,i20  ,Manual,"₹2,70,399","42,422 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2010-cars-faridabad-1005230460/
+New_Delhi,2019,MG,HECTOR  ,Automatic,"₹17,94,899","8,717 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-faridabad-10097491794/
+New_Delhi,2020,Honda,City  ,Manual,"₹12,97,699","7,212 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-new-delhi-10064199790/
+New_Delhi,2020,Tata,ALTROZ  ,Manual,"₹8,22,499","7,439 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-gurgaon-10183497792/
+New_Delhi,2018,Hyundai,Verna  ,Manual,"₹9,20,799","17,770 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-gurgaon-10160798771/
+New_Delhi,2021,Mahindra,XUV500  ,Automatic,"₹18,86,199","20,483 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2021-cars-noida-1058560765/
+New_Delhi,2017,Honda,Amaze  ,Manual,"₹5,55,899","11,067 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2017-cars-faridabad-11031898797/
+New_Delhi,2020,Honda,Jazz  ,Manual,"₹9,39,399","10,343 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2020-cars-new-delhi-1007366666/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹6,82,699","24,589 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-gurgaon-10117892777/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹5,69,499","45,293 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-new-delhi-1003974466/
+New_Delhi,2020,Honda,City  ,Automatic,"₹12,80,299","12,934 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-faridabad-1016731804/
+New_Delhi,2020,Honda,City  ,Automatic,"₹12,61,799","29,009 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-faridabad-1059713161/
+New_Delhi,2016,Maruti,Baleno  ,Manual,"₹5,51,799","18,853 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-faridabad-1010271903/
+New_Delhi,2020,Honda,City  ,Automatic,"₹12,77,299","11,365 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-faridabad-1004668800/
+New_Delhi,2017,Hyundai,Grand i10 ,Manual,"₹4,47,599","49,130 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-faridabad-1004082063/
+New_Delhi,2019,Ford,Ecosport  ,Automatic,"₹9,37,799","7,978 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-faridabad-1000900160/
+New_Delhi,2014,Audi,A3  ,Automatic,"₹14,02,899","91,557 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-audi-a3-2014-cars-faridabad-1050019044/
+New_Delhi,2020,Maruti,S PRESSO ,Manual,"₹4,31,599","26,182 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-faridabad-10037695773/
+New_Delhi,2015,Hyundai,Grand i10 ,Manual,"₹3,14,299","1,10,690 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-faridabad-1054005640/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,14,799","61,123 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2015-cars-faridabad-1018096567/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹8,08,499","37,721 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-faridabad-1001842560/
+New_Delhi,2017,Maruti,Swift  ,Manual,"₹5,83,399","50,835 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2017-cars-gurgaon-10134390776/
+New_Delhi,2018,Renault,Duster  ,Manual,"₹6,80,599","90,345 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2018-cars-ghaziabad-1123234669/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹8,03,199","23,879 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-faridabad-1009272462/
+New_Delhi,2021,Ford,Ecosport  ,Manual,"₹10,64,199","17,336 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2021-cars-gurgaon-10114199778/
+New_Delhi,2015,Hyundai,Creta  ,Manual,"₹8,62,599","53,468 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-faridabad-1017462468/
+New_Delhi,2019,Maruti,Vitara Brezza ,Manual,"₹7,86,499","20,960 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-new-delhi-1008173464/
+New_Delhi,2017,Maruti,Baleno  ,Automatic,"₹6,39,599","53,293 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-faridabad-1002544762/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹7,49,299","39,171 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-faridabad-1050493507/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,21,099","35,879 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-faridabad-1107493069/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹6,23,499","36,944 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-faridabad-1006392561/
+New_Delhi,2018,Hyundai,Creta  ,Automatic,"₹11,00,899","79,409 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-faridabad-1053059921/
+New_Delhi,2018,Maruti,Vitara Brezza ,Manual,"₹8,11,079","24,379 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-faridabad-1101288161/
+New_Delhi,2016,Mahindra,Scorpio  ,Manual,"₹10,39,599","66,530 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2016-cars-faridabad-1017923961/
+New_Delhi,2017,Maruti,Baleno  ,Manual,"₹5,19,399","48,434 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-gurgaon-1011825702/
+New_Delhi,2014,Maruti,Ritz  ,Manual,"₹3,51,699","80,189 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ritz-2014-cars-faridabad-2330369347/
+New_Delhi,2019,Ford,Ecosport  ,Manual,"₹8,58,099","53,689 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-faridabad-1007046568/
+New_Delhi,2013,Hyundai,Grand i10 ,Manual,"₹3,39,399","52,803 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-2013-cars-gurgaon-10196299795/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹8,10,499","74,039 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-faridabad-1107154360/
+New_Delhi,2014,Audi,Q3  ,Manual,"₹11,78,599","68,298 km",1st Owner,Diesel,https://www.cars24.com/buy-used-audi-q3-2014-cars-faridabad-1003134925/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,09,599","1,44,580 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-faridabad-1052262823/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,42,399","62,859 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-noida-1053282464/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹4,89,199","66,021 km",4th Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-faridabad-1488128043/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,29,499","45,699 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-faridabad-1002439647/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,37,099","47,537 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-faridabad-1004522602/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,66,399","83,615 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-faridabad-1014031260/
+New_Delhi,2015,Ford,Ecosport  ,Manual,"₹5,06,599","73,782 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2015-cars-new-delhi-1001432263/
+New_Delhi,2017,Ford,Ecosport  ,Manual,"₹7,65,499","8,433 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-gurgaon-1013920467/
+New_Delhi,2020,MG,HECTOR PLUS ,Manual,"₹18,37,899","2,775 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-plus-2020-cars-faridabad-1126856561/
+New_Delhi,2018,Renault,Kwid  ,Manual,"₹3,22,499","22,505 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-faridabad-1100120865/
+New_Delhi,2020,Skoda,Rapid  ,Manual,"₹7,83,699","11,399 km",1st Owner,Petrol,https://www.cars24.com/buy-used-skoda-rapid-2020-cars-faridabad-1128215561/
+New_Delhi,2011,Maruti,Alto K10 ,Manual,"₹2,35,499","26,475 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2011-cars-faridabad-1007957563/
+New_Delhi,2020,Maruti,Vitara Brezza ,Automatic,"₹11,04,299","18,191 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2020-cars-faridabad-1001663342/
+New_Delhi,2020,Maruti,Baleno  ,Manual,"₹6,98,499","7,512 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-faridabad-1007522864/
+New_Delhi,2014,Maruti,Swift Dzire ,Manual,"₹4,17,299","33,484 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-faridabad-1005894266/
+New_Delhi,2019,Maruti,XL6  ,Manual,"₹10,93,299","23,604 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-xl6-2019-cars-faridabad-1006520866/
+New_Delhi,2016,Maruti,Ciaz  ,Manual,"₹5,69,299","98,363 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2016-cars-faridabad-1053650264/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹3,90,899","46,790 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-gurgaon-1015462460/
+New_Delhi,2015,Audi,Q3  ,Manual,"₹13,58,299","28,309 km",1st Owner,Diesel,https://www.cars24.com/buy-used-audi-q3-2015-cars-faridabad-1015822666/
+New_Delhi,2013,Toyota,Fortuner  ,Manual,"₹11,68,899","77,604 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-fortuner-2013-cars-faridabad-1009538340/
+New_Delhi,2014,Toyota,Innova  ,Manual,"₹7,47,299","1,11,191 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2014-cars-faridabad-1101560125/
+New_Delhi,2017,Volkswagen,Polo  ,Manual,"₹4,24,499","33,336 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2017-cars-gurgaon-10088999797/
+New_Delhi,2011,Hyundai,i10  ,Manual,"₹2,80,499","29,049 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2011-cars-gurgaon-10137696718/
+New_Delhi,2013,Audi,A4  ,Automatic,"₹11,71,099","29,991 km",1st Owner,Diesel,https://www.cars24.com/buy-used-audi-a4-2013-cars-gurgaon-1003356766/
+New_Delhi,2014,Honda,City  ,Manual,"₹6,16,699","72,559 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2014-cars-gurgaon-1013413162/
+New_Delhi,2016,Honda,CRV  ,Automatic,"₹11,11,099","1,03,602 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-crv-2016-cars-gurgaon-1018371205/
+New_Delhi,2011,Maruti,Alto K10 ,Manual,"₹2,37,899","37,580 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2011-cars-gurgaon-1016550762/
+New_Delhi,2016,Honda,City  ,Manual,"₹7,30,099","14,040 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2016-cars-gurgaon-10002395771/
+New_Delhi,2016,Hyundai,Grand i10 ,Manual,"₹4,79,384","19,360 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-gurgaon-1019680063/
+New_Delhi,2018,Hyundai,Verna  ,Automatic,"₹10,39,099","39,931 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-gurgaon-10121992716/
+New_Delhi,2019,MG,HECTOR  ,Manual,"₹15,45,299","52,447 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-gurgaon-1011702363/
+New_Delhi,2021,Maruti,Alto  ,Manual,"₹4,45,199","4,642 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-gurgaon-1016546368/
+New_Delhi,2021,Tata,Harrier  ,Manual,"₹20,75,899","10,141 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-harrier-2021-cars-gurgaon-10096996794/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹4,04,999","31,263 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2014-cars-gurgaon-1004094768/
+New_Delhi,2019,Hyundai,Tucson New ,Automatic,"₹21,65,999","38,431 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-tucson-new-2019-cars-gurgaon-1054106465/
+New_Delhi,2018,Maruti,Baleno  ,Manual,"₹5,72,899","30,319 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-gurgaon-10169495797/
+New_Delhi,2020,Maruti,Baleno  ,Manual,"₹6,43,799","29,252 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2020-cars-gurgaon-1004436467/
+New_Delhi,2015,Mercedes,Benz CLA Class,Automatic,"₹16,52,399","50,401 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mercedes-benz-cla-class-2015-cars-gurgaon-1009433929/
+New_Delhi,2016,Maruti,Baleno  ,Manual,"₹5,51,299","38,092 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-gurgaon-1014296565/
+New_Delhi,2016,Ford,Ecosport  ,Manual,"₹7,10,399","52,555 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-gurgaon-10155898773/
+New_Delhi,2019,Maruti,Celerio  ,Manual,"₹4,70,699","33,669 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-new-delhi-10054294793/
+New_Delhi,2016,Hyundai,Tucson New ,Automatic,"₹11,63,699","74,800 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-tucson-new-2016-cars-gurgaon-1102072564/
+New_Delhi,2021,Maruti,S PRESSO ,Manual,"₹4,92,199","13,909 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-new-delhi-10073294718/
+New_Delhi,2019,Ford,Ecosport  ,Manual,"₹10,38,799","19,968 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-gurgaon-1055210464/
+New_Delhi,2016,Honda,City  ,Manual,"₹6,74,699","49,653 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-city-2016-cars-gurgaon-1003764163/
+New_Delhi,2018,Maruti,Alto K10 ,Manual,"₹3,80,299","17,923 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-gurgaon-1019719462/
+New_Delhi,2015,Mahindra,Scorpio  ,Manual,"₹10,53,299","43,543 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2015-cars-gurgaon-1006342163/
+New_Delhi,2018,Ford,Ecosport  ,Automatic,"₹8,17,599","53,881 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-new-delhi-10009191715/
+New_Delhi,2019,Maruti,XL6  ,Manual,"₹10,46,999","38,620 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-xl6-2019-cars-gurgaon-1003996062/
+New_Delhi,2015,Hyundai,Verna  ,Manual,"₹5,85,299","62,800 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2015-cars-gurgaon-1015647463/
+New_Delhi,2019,Maruti,S PRESSO ,Manual,"₹4,17,599","29,834 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-gurgaon-10103392792/
+New_Delhi,2017,Maruti,Ciaz  ,Manual,"₹6,51,599","68,249 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-new-delhi-11000998779/
+New_Delhi,2018,Maruti,Vitara Brezza ,Manual,"₹7,71,399","27,679 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-gurgaon-1003166266/
+New_Delhi,2019,Maruti,Alto K10 ,Manual,"₹3,87,499","38,083 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-gurgaon-1018370363/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹6,83,999","50,921 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-gurgaon-1011883662/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹7,18,399","57,654 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-gurgaon-1100955964/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹7,31,899","46,366 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-gurgaon-1107239163/
+New_Delhi,2020,Maruti,Alto  ,Manual,"₹4,74,299","38,710 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-maruti-alto-2020-cars-gurgaon-11534594798/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹6,71,703","71,234 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-gurgaon-10077495774/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹6,73,099","81,987 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-gurgaon-1007005165/
+New_Delhi,2017,Maruti,Baleno  ,Manual,"₹5,75,099","73,846 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-gurgaon-1009636763/
+New_Delhi,2013,BMW,5 Series ,Automatic,"₹15,05,599","82,670 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-bmw-5-series-2013-cars-gurgaon-1005521803/
+New_Delhi,2017,Ford,Ecosport  ,Manual,"₹5,95,099","1,13,124 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-gurgaon-1100172141/
+New_Delhi,2015,Mahindra,XUV500  ,Manual,"₹7,83,999","1,16,379 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2015-cars-gurgaon-1015934424/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹5,11,499","68,158 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-gurgaon-1008596260/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,45,399","42,154 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-gurgaon-1003893600/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,17,699","1,04,600 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-gurgaon-1015083742/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹6,61,799","88,060 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-gurgaon-1018000563/
+New_Delhi,2015,Maruti,Swift  ,Manual,"₹4,18,899","92,507 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-gurgaon-1051492562/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹7,74,999","90,628 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-gurgaon-1010664564/
+New_Delhi,2017,Maruti,S Cross ,Manual,"₹8,14,599","91,458 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-gurgaon-1002232400/
+New_Delhi,2016,Hyundai,Eon  ,Manual,"₹2,75,999","19,597 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-gurgaon-1002916065/
+New_Delhi,2021,Mahindra,Thar  ,Automatic,"₹18,02,499","3,120 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mahindra-thar-2021-cars-gurgaon-11030394796/
+New_Delhi,2013,Maruti,Swift  ,Manual,"₹3,13,999","1,15,007 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2013-cars-gurgaon-1001623644/
+New_Delhi,2014,Renault,Duster  ,Manual,"₹3,91,399","50,839 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2014-cars-gurgaon-1005694567/
+New_Delhi,2019,Hyundai,Creta  ,Manual,"₹12,20,099","21,929 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2019-cars-new-delhi-10072194773/
+New_Delhi,2014,Maruti,Ciaz  ,Manual,"₹4,83,599","94,009 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2014-cars-rohtak-1010193341/
+New_Delhi,2015,Maruti,Wagon R 1.0,Manual,"₹3,58,999","62,113 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-rohtak-1001640966/
+New_Delhi,2014,Maruti,Swift Dzire ,Manual,"₹4,39,499","89,100 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-rohtak-1012942866/
+New_Delhi,2017,Maruti,Swift  ,Manual,"₹4,29,299","70,490 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-rohtak-11092895778/
+New_Delhi,2013,Honda,Amaze  ,Manual,"₹2,92,599","73,241 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-amaze-2013-cars-rohtak-1003678909/
+New_Delhi,2017,Hyundai,Grand i10 ,Manual,"₹4,91,399","38,202 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-panipat-1018734365/
+New_Delhi,2018,Hyundai,Grand i10 ,Manual,"₹4,74,799","30,741 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-panipat-1102770964/
+New_Delhi,2016,Skoda,Octavia  ,Automatic,"₹11,48,099","95,282 km",1st Owner,Diesel,https://www.cars24.com/buy-used-skoda-octavia-2016-cars-panipat-1014334160/
+New_Delhi,2015,Hyundai,Elite i20 ,Manual,"₹5,24,099","63,245 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-panipat-1000165268/
+New_Delhi,2012,Maruti,Swift  ,Manual,"₹3,04,299","1,09,227 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2012-cars-panipat-1013473743/
+New_Delhi,2016,Maruti,S Cross ,Manual,"₹5,99,699","73,865 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2016-cars-panipat-1008950368/
+New_Delhi,2011,Maruti,Alto K10 ,Manual,"₹2,21,199","23,277 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2011-cars-panipat-1001524462/
+New_Delhi,2020,Renault,Kwid  ,Manual,"₹3,48,299","19,767 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2020-cars-panipat-1003513962/
+New_Delhi,2016,Maruti,Baleno  ,Manual,"₹4,92,399","87,555 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-panipat-1010932661/
+New_Delhi,2014,Toyota,Innova  ,Manual,"₹6,71,999","1,19,551 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2014-cars-panipat-1127241138/
+New_Delhi,2019,Maruti,Baleno  ,Manual,"₹6,72,299","22,380 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-gurgaon-1011939779/
+New_Delhi,2016,Maruti,Baleno  ,Manual,"₹5,55,799","42,263 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-gurgaon-1019026867/
+New_Delhi,2018,Maruti,Alto K10 ,Manual,"₹3,63,699","18,150 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-gurgaon-1010075760/
+New_Delhi,2016,Maruti,Baleno  ,Manual,"₹5,07,499","72,644 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-gurgaon-1013645261/
+New_Delhi,2017,Maruti,Ciaz  ,Manual,"₹6,07,199","67,255 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-gurgaon-1013834062/
+New_Delhi,2018,Maruti,Alto K10 ,Manual,"₹3,82,899","23,103 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-gurgaon-1010696469/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹7,08,399","59,082 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-gurgaon-1002964565/
+New_Delhi,2018,Ford,Ecosport  ,Manual,"₹7,60,799","79,063 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-gurgaon-1015084266/
+New_Delhi,2013,Ford,Ecosport  ,Manual,"₹4,42,699","76,136 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2013-cars-gurgaon-1001779503/
+New_Delhi,2013,Ford,Ecosport  ,Manual,"₹4,24,699","81,167 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2013-cars-gurgaon-1009982149/
+New_Delhi,2014,Maruti,Swift  ,Manual,"₹3,89,899","64,127 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2014-cars-gurgaon-1016871760/
+New_Delhi,2017,Maruti,Vitara Brezza ,Manual,"₹7,57,399","22,037 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-gurgaon-1001712068/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,13,399","1,02,161 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-gurgaon-1018362121/
+New_Delhi,2016,Maruti,Vitara Brezza ,Manual,"₹6,85,599","90,318 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-gurgaon-1481579246/
+New_Delhi,2016,Hyundai,Elite i20 ,Manual,"₹5,80,899","61,115 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-gurgaon-1012376564/
+New_Delhi,2017,Maruti,Baleno  ,Manual,"₹5,36,499","64,101 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-gurgaon-1013944669/

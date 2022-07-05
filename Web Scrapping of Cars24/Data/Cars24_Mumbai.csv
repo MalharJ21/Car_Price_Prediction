@@ -1,0 +1,617 @@
+City,Year,Brand,Car Name,Car model,Car Price,KM,Owner,Car Type,Car link
+Mumbai,2014,Maruti,Wagon R 1.0,Manual,"₹3,58,899","13,712 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-mumbai-1032390163/
+Mumbai,2018,Maruti,Swift  ,Automatic,"₹6,88,999","53,119 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2018-cars-mumbai-10334496792/
+Mumbai,2019,Renault,TRIBER  ,Manual,"₹7,26,499","7,440 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-mumbai-10321597791/
+Mumbai,2020,Maruti,Celerio X ,Automatic,"₹6,57,599","4,613 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-x-2020-cars-mumbai-10310992775/
+Mumbai,2016,Maruti,Celerio  ,Automatic,"₹4,22,999","9,836 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-mumbai-1031262068/
+Mumbai,2012,Maruti,Swift Dzire ,Manual,"₹4,61,299","1,34,186 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2012-cars-mumbai-1039689947/
+Mumbai,2014,Maruti,Ritz  ,Manual,"₹4,07,299","58,849 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ritz-2014-cars-mumbai-1032814060/
+Mumbai,2019,Mahindra,XUV500  ,Automatic,"₹16,83,899","29,100 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2019-cars-mumbai-1036496465/
+Mumbai,2020,KIA,SONET  ,,"₹15,08,299","10,769 km",1st Owner,Diesel,https://www.cars24.com/buy-used-kia-sonet-2020-cars-mumbai-1031512266/
+Mumbai,2020,Honda,Amaze  ,Manual,"₹6,42,299","11,596 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2020-cars-mumbai-1038637569/
+Mumbai,2017,Maruti,Swift  ,Manual,"₹5,29,299","33,801 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-mumbai-1030420061/
+Mumbai,2014,Maruti,Wagon R 1.0,Manual,"₹3,51,099","23,640 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-mumbai-10383692778/
+Mumbai,2021,Renault,Kwid  ,Automatic,"₹5,95,599",810 km,1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2021-cars-mumbai-10395292794/
+Mumbai,2017,Tata,Tiago  ,Automatic,"₹5,17,599","3,678 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2017-cars-mumbai-1033390068/
+Mumbai,2016,Maruti,Alto 800 ,Manual,"₹2,91,999","23,578 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-mumbai-10335893719/
+Mumbai,2016,Maruti,Swift Dzire ,Manual,"₹6,37,299","47,547 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2016-cars-mumbai-1035056665/
+Mumbai,2020,Tata,NEXON  ,Manual,"₹10,49,599","5,327 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2020-cars-mumbai-1030146265/
+Mumbai,2015,Hyundai,Elite i20 ,Manual,"₹5,02,999","32,964 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-mumbai-1030486040/
+Mumbai,2012,Maruti,Swift Dzire ,Manual,"₹4,23,099",94 km,2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2012-cars-mumbai-1032130529/
+Mumbai,2015,Maruti,Swift  ,Manual,"₹4,99,899","24,045 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2015-cars-mumbai-1033454466/
+Mumbai,2020,Toyota,URBAN CRUISER ,,"₹12,12,499","15,580 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-toyota-urban-cruiser-2020-cars-mumbai-10367692771/
+Mumbai,2019,MG,HECTOR  ,Manual,"₹17,36,799","29,347 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1038669668/
+Mumbai,2020,Maruti,New Wagon-R ,Automatic,"₹6,52,899","11,907 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2020-cars-mumbai-1034084666/
+Mumbai,2015,Maruti,Swift Dzire ,Manual,"₹4,74,299","53,090 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2015-cars-mumbai-10302295773/
+Mumbai,2015,Maruti,Ciaz  ,Automatic,"₹6,15,699","42,011 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2015-cars-mumbai-10379199712/
+Mumbai,2019,Renault,Kwid  ,Automatic,"₹4,71,499","3,615 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-mumbai-1030155467/
+Mumbai,2016,Honda,BR-V  ,Automatic,"₹7,00,299","84,427 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-br-v-2016-cars-mumbai-1034700068/
+Mumbai,2019,Honda,Civic  ,Manual,"₹14,98,199","80,920 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-civic-2019-cars-mumbai-1038262168/
+Mumbai,2019,Tata,Harrier  ,Manual,"₹15,97,099","49,744 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-harrier-2019-cars-mumbai-1033810864/
+Mumbai,2020,Hyundai,AURA  ,Manual,"₹6,17,099","12,810 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-aura-2020-cars-mumbai-10360994798/
+Mumbai,2014,Hyundai,Xcent  ,Manual,"₹5,04,499","61,977 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2014-cars-mumbai-1032410266/
+Mumbai,2019,Maruti,New Wagon-R ,Manual,"₹5,40,999","30,741 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-mumbai-1032093166/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,37,999","25,895 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1033484561/
+Mumbai,2015,Honda,City  ,Manual,"₹6,76,799","57,339 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2015-cars-mumbai-1039304068/
+Mumbai,2018,Hyundai,Grand i10 ,Manual,"₹5,32,999","16,868 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-mumbai-1036944466/
+Mumbai,2017,Maruti,Ciaz  ,Automatic,"₹8,30,099","30,492 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-mumbai-10392390794/
+Mumbai,2018,Toyota,Etios  ,Manual,"₹6,17,199","19,949 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-toyota-etios-2018-cars-mumbai-10395698777/
+Mumbai,2015,Volkswagen,Polo  ,Automatic,"₹5,38,399","70,639 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2015-cars-mumbai-10323191777/
+Mumbai,2015,Hyundai,Elite i20 ,Manual,"₹4,76,349","52,222 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-mumbai-1031568860/
+Mumbai,2019,Renault,Kwid  ,Automatic,"₹4,41,999","13,513 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-mumbai-1034965269/
+Mumbai,2017,Maruti,Celerio  ,Manual,"₹4,52,099","16,313 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-mumbai-10332493776/
+Mumbai,2014,Toyota,Corolla Altis ,Manual,"₹7,41,099","53,337 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2014-cars-mumbai-1033712468/
+Mumbai,2016,Honda,Jazz  ,Manual,"₹5,29,099","34,633 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-mumbai-1039821267/
+Mumbai,2015,Hyundai,Creta  ,Manual,"₹9,52,399","31,255 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-mumbai-10350699778/
+Mumbai,2018,Hyundai,Eon  ,Manual,"₹3,69,299","25,031 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2018-cars-mumbai-1031464964/
+Mumbai,2016,Hyundai,Grand i10 ,Manual,"₹4,56,799","21,815 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1038769360/
+Mumbai,2018,Honda,Amaze  ,Manual,"₹5,55,699","65,631 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2018-cars-mumbai-1036403462/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,61,499","15,692 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1038324260/
+Mumbai,2015,Hyundai,Creta  ,Manual,"₹9,56,199","41,887 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-mumbai-1032932166/
+Mumbai,2019,Hyundai,Creta  ,Manual,"₹13,48,999","18,549 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2019-cars-mumbai-10357398719/
+Mumbai,2019,Mahindra,XUV 3OO ,Manual,"₹11,67,699","39,391 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv-3oo-2019-cars-mumbai-1033416962/
+Mumbai,2017,Ford,Ecosport  ,Automatic,"₹8,44,999",471 km,1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1031898409/
+Mumbai,2019,Honda,Jazz  ,Automatic,"₹8,57,399","12,037 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2019-cars-mumbai-10380399773/
+Mumbai,2014,Honda,City  ,Manual,"₹5,50,199","91,203 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-honda-city-2014-cars-mumbai-1037470263/
+Mumbai,2019,Honda,Amaze  ,Manual,"₹6,36,599","9,076 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2019-cars-mumbai-1039825468/
+Mumbai,2019,Maruti,Dzire  ,Automatic,"₹6,98,999","31,248 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-mumbai-1037664368/
+Mumbai,2016,Maruti,Ciaz  ,Manual,"₹6,33,549","32,503 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2016-cars-mumbai-1031520769/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,98,799","24,678 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1035147966/
+Mumbai,2016,Honda,Jazz  ,Manual,"₹5,62,899","32,071 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-mumbai-1036283865/
+Mumbai,2018,Hyundai,Elite i20 ,Manual,"₹5,86,069","42,012 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-mumbai-1036584165/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹4,95,099","1,30,064 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1030454009/
+Mumbai,2018,Renault,Kwid  ,Automatic,"₹4,14,399","20,036 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-mumbai-1031082461/
+Mumbai,2016,Maruti,Wagon R 1.0,Manual,"₹4,04,799","18,537 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-mumbai-1032566367/
+Mumbai,2016,Maruti,Wagon R 1.0,Automatic,"₹4,30,499","9,073 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-mumbai-10319895777/
+Mumbai,2014,Hyundai,Grand i10 ,Manual,"₹4,02,799","38,225 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-mumbai-1036454268/
+Mumbai,2016,Honda,City  ,Manual,"₹6,78,399","85,211 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2016-cars-mumbai-1036795964/
+Mumbai,2019,KIA,SELTOS  ,Manual,"₹16,13,699","12,408 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2019-cars-mumbai-1036724540/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,80,699","32,556 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1031102264/
+Mumbai,2015,Honda,Jazz  ,Manual,"₹5,21,399","16,566 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2015-cars-mumbai-1031073362/
+Mumbai,2014,Hyundai,Grand i10 ,Manual,"₹3,87,999","43,624 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-mumbai-1031084029/
+Mumbai,2016,Hyundai,Grand i10 ,Manual,"₹4,32,399","59,839 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1031522902/
+Mumbai,2013,Honda,Amaze  ,Manual,"₹4,11,999","39,409 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2013-cars-mumbai-1035404667/
+Mumbai,2020,Hyundai,Creta  ,Automatic,"₹19,42,699","25,706 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-mumbai-1039278467/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,70,199","43,278 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1038015364/
+Mumbai,2020,Hyundai,Creta  ,Manual,"₹15,08,299","13,708 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-mumbai-1036870263/
+Mumbai,2018,Hyundai,NEW SANTRO ,Manual,"₹4,85,799","43,734 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-mumbai-10319494797/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹6,33,199","65,377 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1039582166/
+Mumbai,2018,Maruti,Baleno  ,Manual,"₹6,50,499","16,093 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1037680762/
+Mumbai,2021,Datsun,Redi Go ,Manual,"₹4,72,299",291 km,1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2021-cars-mumbai-1033045068/
+Mumbai,2016,Volkswagen,Vento  ,Automatic,"₹7,13,349","81,316 km",1st Owner,Diesel,https://www.cars24.com/buy-used-volkswagen-vento-2016-cars-mumbai-1034182067/
+Mumbai,2017,Ford,Ecosport  ,Manual,"₹6,95,399","43,284 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1038909060/
+Mumbai,2019,Ford,Ecosport  ,Manual,"₹8,14,099","19,840 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-mumbai-1034410667/
+Mumbai,2014,Hyundai,i20  ,Manual,"₹4,52,099","40,495 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2014-cars-mumbai-1030587669/
+Mumbai,2014,Hyundai,Grand i10 ,Manual,"₹4,01,199","58,292 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-mumbai-1035021168/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹6,76,799","15,053 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1030591462/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹6,76,799","21,363 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-1037609465/
+Mumbai,2019,Mahindra,XUV 3OO ,,"₹11,36,457","15,913 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mahindra-xuv-3oo-2019-cars-mumbai-10333193796/
+Mumbai,2014,Hyundai,Grand i10 ,Manual,"₹4,04,599","57,325 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-mumbai-1035915467/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹6,46,899","52,858 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1032722363/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹5,82,699","12,186 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1037161160/
+Mumbai,2016,Hyundai,Grand i10 ,Manual,"₹4,75,699","28,987 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1036928162/
+Mumbai,2015,Hyundai,Grand i10 ,Manual,"₹4,50,699","66,495 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-mumbai-1033690060/
+Mumbai,2018,Hyundai,Eon  ,Manual,"₹3,61,299","27,167 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2018-cars-mumbai-1035162069/
+Mumbai,2019,Maruti,Vitara Brezza ,Manual,"₹9,69,799","49,685 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-mumbai-1032628764/
+Mumbai,2021,Honda,Amaze  ,Automatic,"₹9,64,299","11,312 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2021-cars-mumbai-10329596791/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹6,49,499","40,489 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1032517661/
+Mumbai,2016,Maruti,Wagon R 1.0,Manual,"₹4,20,799","23,055 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-mumbai-10379098776/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹7,04,199","19,132 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1033235262/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹5,76,659","23,954 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1037094360/
+Mumbai,2017,Maruti,Wagon R 1.0,Manual,"₹4,45,899","25,038 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-mumbai-1069795403/
+Mumbai,2016,Ford,Ecosport  ,Automatic,"₹6,69,399","66,563 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-mumbai-1034793261/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹6,43,499","35,165 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1031702128/
+Mumbai,2018,Honda,Jazz  ,Automatic,"₹6,91,399","53,415 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2018-cars-mumbai-1033901864/
+Mumbai,2017,Maruti,Alto 800 ,Manual,"₹3,05,599","20,050 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-mumbai-1030499868/
+Mumbai,2017,Volkswagen,Polo  ,Automatic,"₹7,92,566","48,562 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2017-cars-mumbai-10304796795/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹7,62,599","30,362 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1033681663/
+Mumbai,2020,Tata,ALTROZ  ,Manual,"₹8,26,099","17,689 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-mumbai-1038728468/
+Mumbai,2018,Maruti,Dzire  ,Automatic,"₹7,19,799","53,333 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1030435568/
+Mumbai,2017,Hyundai,Verna  ,Manual,"₹7,38,199","43,088 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2017-cars-mumbai-1032665962/
+Mumbai,2017,Honda,City  ,Manual,"₹7,38,639","19,415 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-mumbai-1039382567/
+Mumbai,2017,Jeep,Compass  ,Manual,"₹14,19,999","78,451 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-mumbai-1034715463/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,58,499","51,684 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1037768769/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹6,94,299","44,408 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-1035650163/
+Mumbai,2019,MG,HECTOR  ,Manual,"₹16,70,899","49,110 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1038961160/
+Mumbai,2020,Tata,ALTROZ  ,Manual,"₹8,05,399","16,667 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-mumbai-1032948265/
+Mumbai,2021,Skoda,Rapid  ,Automatic,"₹13,59,999","3,357 km",1st Owner,Petrol,https://www.cars24.com/buy-used-skoda-rapid-2021-cars-mumbai-1039266269/
+Mumbai,2016,Ford,Ecosport  ,Manual,"₹7,56,699",71 km,1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-mumbai-1034841806/
+Mumbai,2020,Tata,ALTROZ  ,Manual,"₹8,32,199","20,736 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-mumbai-1039210364/
+Mumbai,2018,Maruti,S Cross ,Manual,"₹8,72,199","47,301 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2018-cars-mumbai-1035526868/
+Mumbai,2017,Hyundai,Creta  ,Manual,"₹9,24,099","32,930 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-mumbai-10376498792/
+Mumbai,2018,Maruti,Baleno  ,Manual,"₹6,19,199","21,197 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1037768465/
+Mumbai,2019,MG,HECTOR  ,Manual,"₹16,63,099","38,726 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1037916123/
+Mumbai,2018,Maruti,Baleno  ,Manual,"₹6,59,399","17,514 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1033912660/
+Mumbai,2017,Jeep,Compass  ,Manual,"₹12,93,399","62,919 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-mumbai-1034201365/
+Mumbai,2016,Maruti,Vitara Brezza ,Manual,"₹7,17,999","53,131 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-mumbai-1030349464/
+Mumbai,2017,Hyundai,Grand i10 ,Manual,"₹6,52,399","13,313 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-mumbai-1037768005/
+Mumbai,2019,MG,HECTOR  ,Manual,"₹16,94,005","73,681 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1036096565/
+Mumbai,2015,Maruti,Alto K10 ,Manual,"₹3,19,299","44,178 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-mumbai-10375792790/
+Mumbai,2019,Maruti,S Cross ,Manual,"₹11,19,499","20,768 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2019-cars-mumbai-1031418763/
+Mumbai,2020,Tata,TIGOR  ,Manual,"₹7,16,099","12,618 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tigor-2020-cars-mumbai-1031944164/
+Mumbai,2017,Honda,City  ,Manual,"₹9,18,699","25,701 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-mumbai-1038792264/
+Mumbai,2019,MG,HECTOR  ,,"₹15,93,763","28,867 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1030457861/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹7,50,799","12,212 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-1037283366/
+Mumbai,2020,Tata,ALTROZ  ,Manual,"₹7,91,949","10,543 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-mumbai-1036174767/
+Mumbai,2017,Mahindra,TUV300  ,Manual,"₹8,23,099","47,726 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-tuv300-2017-cars-mumbai-1033254963/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹6,16,199","37,322 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1031454469/
+Mumbai,2019,Maruti,Alto  ,Manual,"₹3,98,155","14,577 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-mumbai-1033950667/
+Mumbai,2020,Maruti,S PRESSO ,Manual,"₹4,70,855","13,332 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-mumbai-1034130469/
+Mumbai,2017,Honda,City  ,Automatic,"₹9,78,999","19,400 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-mumbai-1034466306/
+Mumbai,2018,Maruti,Baleno  ,Manual,"₹6,60,699","33,893 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1036694360/
+Mumbai,2017,Ford,Ecosport  ,Automatic,"₹7,33,499","34,647 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1032843362/
+Mumbai,2021,Maruti,S PRESSO ,Manual,"₹4,84,199","5,952 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-mumbai-1033761362/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹6,24,599","46,880 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1035830062/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹6,58,499","47,830 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1030128968/
+Mumbai,2020,Maruti,S PRESSO ,Automatic,"₹5,35,799","8,355 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-mumbai-10342298791/
+Mumbai,2019,Maruti,Alto  ,Manual,"₹3,92,799","13,333 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-mumbai-1034966668/
+Mumbai,2016,Volkswagen,Ameo  ,Manual,"₹5,01,799","30,635 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-ameo-2016-cars-mumbai-1037737468/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹6,43,999","29,328 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1033040565/
+Mumbai,2020,Maruti,S PRESSO ,Automatic,"₹4,91,099","5,746 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-mumbai-1031100761/
+Mumbai,2019,Ford,Ecosport  ,Automatic,"₹8,40,799","7,380 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-mumbai-1031816065/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹6,48,199","39,028 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1034832264/
+Mumbai,2018,Maruti,Ciaz  ,Manual,"₹8,35,699","27,292 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2018-cars-mumbai-10337096777/
+Mumbai,2015,Hyundai,Creta  ,Manual,"₹8,41,899","1,10,666 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-mumbai-1033573544/
+Mumbai,2015,Hyundai,i20 Active ,Manual,"₹6,09,599","71,869 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-active-2015-cars-mumbai-1035558763/
+Mumbai,2015,Hyundai,i20 Active ,Manual,"₹5,81,299","1,43,492 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-active-2015-cars-mumbai-1033367605/
+Mumbai,2017,Maruti,Dzire  ,Manual,"₹6,62,199","1,07,368 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-1038791005/
+Mumbai,2018,Hyundai,Creta  ,Automatic,"₹13,17,599","57,341 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-mumbai-1039810064/
+Mumbai,2019,Honda,Civic  ,Automatic,"₹16,69,699","30,026 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-civic-2019-cars-mumbai-1233206549/
+Mumbai,2018,Maruti,Alto K10 ,Manual,"₹4,20,399","12,709 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-mumbai-1033216664/
+Mumbai,2018,Honda,WR-V  ,Manual,"₹8,61,699","15,414 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2018-cars-mumbai-1031536067/
+Mumbai,2018,Ford,Ecosport  ,Manual,"₹8,47,599","69,796 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-mumbai-1031498365/
+Mumbai,2017,Ford,Ecosport  ,Automatic,"₹7,40,499","53,135 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1039592368/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹8,10,999","8,544 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-10350192791/
+Mumbai,2018,Toyota,YARIS  ,Automatic,"₹10,36,599","79,209 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-mumbai-1036554268/
+Mumbai,2017,Hyundai,i20 Active ,Manual,"₹7,11,499","21,416 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2017-cars-mumbai-1031394064/
+Mumbai,2018,Hyundai,Verna  ,Automatic,"₹10,99,199","15,953 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-mumbai-1034676701/
+Mumbai,2020,KIA,SELTOS  ,Automatic,"₹19,11,499","11,207 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-mumbai-1031332961/
+Mumbai,2018,Tata,Hexa  ,Manual,"₹10,71,299","91,825 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2018-cars-mumbai-1035345007/
+Mumbai,2018,Ford,Ecosport  ,Automatic,"₹7,92,199","40,807 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-mumbai-1036976603/
+Mumbai,2020,KIA,SELTOS  ,Automatic,"₹18,92,599","26,650 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-mumbai-1030583264/
+Mumbai,2017,Ford,Ecosport  ,Automatic,"₹9,01,699","32,505 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1030075763/
+Mumbai,2018,Hyundai,Verna  ,Automatic,"₹10,13,199","60,463 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-mumbai-1035882306/
+Mumbai,2018,Hyundai,Verna  ,Automatic,"₹11,44,899","8,856 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-mumbai-1032118964/
+Mumbai,2019,Toyota,Glanza  ,Automatic,"₹7,36,249","44,394 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-glanza-2019-cars-mumbai-1039818369/
+Mumbai,2019,Toyota,Glanza  ,Automatic,"₹8,16,499","32,985 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-glanza-2019-cars-mumbai-1039893666/
+Mumbai,2018,Maruti,Baleno  ,Manual,"₹7,28,999","23,793 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-10370198799/
+Mumbai,2019,Jeep,Compass  ,Automatic,"₹16,81,399","30,583 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-jeep-compass-2019-cars-mumbai-1038405967/
+Mumbai,2017,Maruti,IGNIS  ,Automatic,"₹5,00,999","31,920 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-mumbai-1032816203/
+Mumbai,2018,Honda,WR-V  ,Manual,"₹8,89,299","66,878 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-wr-v-2018-cars-mumbai-1030460940/
+Mumbai,2015,Maruti,Celerio  ,Manual,"₹3,59,999","22,939 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2015-cars-mumbai-10387095795/
+Mumbai,2013,Hyundai,i20  ,Manual,"₹3,79,199","34,587 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-mumbai-1034419868/
+Mumbai,2012,Hyundai,i20  ,Manual,"₹3,90,399","38,910 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2012-cars-mumbai-1033279143/
+Mumbai,2015,Volkswagen,Polo  ,Automatic,"₹5,18,299","94,384 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2015-cars-mumbai-1037172902/
+Mumbai,2013,Hyundai,i20  ,Manual,"₹3,96,099","41,342 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-mumbai-1031288941/
+Mumbai,2018,Toyota,Innova Crysta ,Automatic,"₹21,57,799","37,590 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-crysta-2018-cars-mumbai-1036737665/
+Mumbai,2017,Volkswagen,Polo  ,Automatic,"₹7,01,399","30,224 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2017-cars-mumbai-1038077363/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹5,26,299","41,211 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1034213301/
+Mumbai,2018,Renault,Kwid  ,Automatic,"₹4,40,899","5,862 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-mumbai-1033133068/
+Mumbai,2019,Hyundai,Grand i10 ,Manual,"₹6,04,099","44,274 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-mumbai-1030030262/
+Mumbai,2015,Maruti,Baleno  ,Manual,"₹5,36,999","25,316 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2015-cars-mumbai-1033613302/
+Mumbai,2017,Renault,Kwid  ,Automatic,"₹3,87,099","44,697 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-mumbai-1035974060/
+Mumbai,2019,Maruti,Vitara Brezza ,Manual,"₹8,38,929","44,471 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-mumbai-1032042649/
+Mumbai,2016,Maruti,Wagon R 1.0,Manual,"₹4,49,999","41,834 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-mumbai-10392292797/
+Mumbai,2013,Hyundai,Eon  ,Manual,"₹2,52,599","12,171 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2013-cars-mumbai-1032776760/
+Mumbai,2013,Toyota,Fortuner  ,Automatic,"₹13,48,299","81,829 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-toyota-fortuner-2013-cars-mumbai-1030694367/
+Mumbai,2015,Maruti,Alto 800 ,Manual,"₹2,97,099","11,184 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2015-cars-mumbai-1038166867/
+Mumbai,2013,Maruti,Ritz  ,Manual,"₹3,84,399","13,858 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ritz-2013-cars-mumbai-10365596777/
+Mumbai,2018,Hyundai,Grand i10 ,Manual,"₹4,71,099","17,176 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-mumbai-10303898799/
+Mumbai,2014,Volkswagen,Polo  ,Manual,"₹4,26,499","56,987 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2014-cars-mumbai-1031882727/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,11,899","58,181 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1063104609/
+Mumbai,2011,Hyundai,i20  ,Manual,"₹3,09,299","56,248 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2011-cars-mumbai-1060306235/
+Mumbai,2019,Maruti,New Wagon-R ,Manual,"₹5,49,999","14,787 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-mumbai-1032738368/
+Mumbai,2018,Tata,Tiago  ,Manual,"₹4,36,299","10,207 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-mumbai-1039120066/
+Mumbai,2018,Maruti,Swift  ,Automatic,"₹5,94,099","34,148 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-mumbai-1030364260/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹4,51,799","68,040 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1032400800/
+Mumbai,2015,Maruti,Swift  ,Manual,"₹4,18,499","55,941 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2015-cars-mumbai-1038041761/
+Mumbai,2012,Toyota,Innova  ,Manual,"₹7,36,099","1,70,530 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2012-cars-mumbai-1034822640/
+Mumbai,2019,Tata,Harrier  ,Manual,"₹13,57,699","45,268 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-harrier-2019-cars-mumbai-1038625864/
+Mumbai,2014,Skoda,Rapid  ,Manual,"₹4,16,099","54,004 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-skoda-rapid-2014-cars-mumbai-1032266569/
+Mumbai,2019,Renault,TRIBER  ,Manual,"₹6,84,499","14,251 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-mumbai-1036184464/
+Mumbai,2014,Hyundai,Xcent  ,Manual,"₹4,37,499","27,745 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2014-cars-mumbai-10374591794/
+Mumbai,2015,Honda,City  ,Manual,"₹5,41,399","57,365 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2015-cars-mumbai-1037366167/
+Mumbai,2017,Jeep,Compass  ,Manual,"₹12,29,699","52,627 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-mumbai-1037644268/
+Mumbai,2015,Hyundai,Grand i10 ,Manual,"₹4,54,499","22,793 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-mumbai-1038496461/
+Mumbai,2019,KIA,SELTOS  ,Automatic,"₹18,06,599","19,876 km",1st Owner,Diesel,https://www.cars24.com/buy-used-kia-seltos-2019-cars-mumbai-1032713260/
+Mumbai,2017,Honda,Jazz  ,Manual,"₹5,36,799","27,159 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2017-cars-mumbai-1038313765/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,48,699","33,200 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1031928960/
+Mumbai,2016,Toyota,Corolla Altis ,Automatic,"₹9,25,099","91,007 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2016-cars-mumbai-1034353023/
+Mumbai,2020,Maruti,S PRESSO ,Manual,"₹4,80,599","37,837 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-mumbai-1038376066/
+Mumbai,2015,Maruti,Ciaz  ,Manual,"₹6,25,899","83,527 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2015-cars-mumbai-10342694773/
+Mumbai,2020,Mahindra,XUV500  ,Manual,"₹17,07,999","36,317 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2020-cars-mumbai-1034116569/
+Mumbai,2015,Toyota,Corolla Altis ,Automatic,"₹9,16,899","60,049 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2015-cars-mumbai-1035922245/
+Mumbai,2016,Maruti,Wagon R 1.0,Automatic,"₹4,30,099","9,459 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-mumbai-1509260862/
+Mumbai,2017,Maruti,Swift  ,Manual,"₹5,98,099","6,620 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-mumbai-1036582962/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,78,099","27,730 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1035565166/
+Mumbai,2020,Maruti,Dzire  ,Automatic,"₹8,04,559","9,800 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2020-cars-mumbai-10356192790/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,63,919","59,022 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1032993366/
+Mumbai,2016,Maruti,Vitara Brezza ,Manual,"₹7,34,599","22,495 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-mumbai-1036696301/
+Mumbai,2014,Honda,Brio  ,Automatic,"₹4,16,399","75,652 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2014-cars-mumbai-1065861043/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,61,449","32,994 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1039715563/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,40,199","19,504 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1033862006/
+Mumbai,2020,Toyota,Glanza  ,Manual,"₹7,48,299",291 km,1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-glanza-2020-cars-mumbai-1035866367/
+Mumbai,2016,Honda,Jazz  ,Automatic,"₹5,30,299","87,935 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-mumbai-1033444923/
+Mumbai,2014,Ford,Ecosport  ,Manual,"₹6,07,799","67,225 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-mumbai-1038094068/
+Mumbai,2018,Maruti,Alto 800 ,Manual,"₹3,45,288","10,596 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-mumbai-1039235260/
+Mumbai,2018,Volkswagen,Ameo  ,Manual,"₹6,57,499","82,907 km",1st Owner,Diesel,https://www.cars24.com/buy-used-volkswagen-ameo-2018-cars-mumbai-1030316667/
+Mumbai,2016,Maruti,Ciaz  ,Manual,"₹7,23,699","74,509 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2016-cars-mumbai-1032674160/
+Mumbai,2016,Hyundai,Creta  ,Manual,"₹9,88,499","79,111 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2016-cars-mumbai-1034345163/
+Mumbai,2019,Hyundai,VENUE  ,Manual,"₹9,64,299","20,903 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-mumbai-1037895260/
+Mumbai,2018,Honda,WR-V  ,Manual,"₹7,25,599","29,828 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2018-cars-mumbai-1033988848/
+Mumbai,2019,Hyundai,Elite i20 ,Manual,"₹7,40,899","7,742 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-mumbai-1035171860/
+Mumbai,2016,Maruti,Wagon R 1.0,Automatic,"₹4,37,099","10,258 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-mumbai-10319992775/
+Mumbai,2020,Maruti,Vitara Brezza ,Manual,"₹10,62,799","2,735 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2020-cars-mumbai-1030278664/
+Mumbai,2015,Hyundai,Grand i10 ,Automatic,"₹5,10,499","39,623 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-mumbai-10331292715/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹7,03,399","22,695 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-1037079563/
+Mumbai,2014,Maruti,Swift Dzire ,Manual,"₹4,91,899","1,08,347 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-mumbai-1036080226/
+Mumbai,2015,Hyundai,Creta  ,Manual,"₹7,03,599","84,686 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-mumbai-10353590776/
+Mumbai,2019,MG,HECTOR  ,Automatic,"₹18,17,799","14,267 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1035300460/
+Mumbai,2016,Maruti,Vitara Brezza ,Manual,"₹7,22,999","39,224 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-mumbai-1030032303/
+Mumbai,2018,Honda,City  ,Manual,"₹8,81,399","18,432 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-mumbai-1038776243/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹5,94,499","16,734 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1033071069/
+Mumbai,2019,Hyundai,Verna  ,Automatic,"₹11,05,699","25,130 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2019-cars-mumbai-1034993006/
+Mumbai,2017,Maruti,Dzire  ,Manual,"₹6,54,299","1,61,435 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-1034132747/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹7,16,299","23,801 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-10395995776/
+Mumbai,2015,Maruti,Baleno  ,Manual,"₹5,42,699","46,926 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2015-cars-mumbai-1038569660/
+Mumbai,2019,Maruti,Baleno  ,,"₹7,85,099","7,561 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-10384291798/
+Mumbai,2017,Hyundai,Creta  ,Automatic,"₹12,14,599","86,684 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-mumbai-1037514965/
+Mumbai,2017,Honda,City  ,Manual,"₹8,98,299","36,187 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-mumbai-10367991770/
+Mumbai,2020,Honda,City  ,Automatic,"₹13,38,299","9,353 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-mumbai-1039895103/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹7,48,299","21,407 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-10313698793/
+Mumbai,2017,Maruti,Vitara Brezza ,Manual,"₹7,61,599","43,004 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-mumbai-1037718307/
+Mumbai,2017,Honda,City  ,Automatic,"₹9,14,799","55,625 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-mumbai-1032530260/
+Mumbai,2020,KIA,SELTOS  ,Automatic,"₹18,14,999","35,041 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-mumbai-1037271263/
+Mumbai,2018,Ford,Ecosport  ,Automatic,"₹7,81,299","48,102 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-mumbai-1034274961/
+Mumbai,2018,Hyundai,Verna  ,Automatic,"₹11,12,999","40,429 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-mumbai-1033229766/
+Mumbai,2018,Honda,WR-V  ,Manual,"₹7,87,299","50,303 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-honda-wr-v-2018-cars-mumbai-1034129860/
+Mumbai,2018,Hyundai,Verna  ,Automatic,"₹10,15,099","16,957 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-mumbai-1036294405/
+Mumbai,2018,Hyundai,Verna  ,Automatic,"₹10,73,399","24,359 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-mumbai-1030273442/
+Mumbai,2019,Maruti,Ertiga  ,Automatic,"₹11,04,999","27,724 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2019-cars-mumbai-1033230160/
+Mumbai,2019,Renault,TRIBER  ,Manual,"₹6,59,699","5,248 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-mumbai-1037976061/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹6,10,099","5,305 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1030656645/
+Mumbai,2016,Maruti,Swift Dzire ,Manual,"₹6,08,199","76,913 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2016-cars-mumbai-1036361162/
+Mumbai,2015,Maruti,Celerio  ,Automatic,"₹4,03,899","44,439 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2015-cars-mumbai-1031838169/
+Mumbai,2015,Toyota,Innova  ,Manual,"₹9,21,999","1,28,958 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2015-cars-mumbai-1039931445/
+Mumbai,2014,Hyundai,Elite i20 ,Manual,"₹4,69,799","99,247 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-mumbai-1062466020/
+Mumbai,2020,Hyundai,Creta  ,Automatic,"₹17,80,399","38,423 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-mumbai-1063211969/
+Mumbai,2013,Maruti,Swift Dzire ,Manual,"₹4,43,099","1,61,934 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2013-cars-mumbai-1033946428/
+Mumbai,2019,Honda,Amaze  ,Manual,"₹6,57,199","4,603 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2019-cars-mumbai-1033084209/
+Mumbai,2020,Renault,TRIBER  ,Automatic,"₹6,61,199","19,677 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2020-cars-mumbai-10326099770/
+Mumbai,2021,Renault,TRIBER  ,Manual,"₹7,21,799","4,772 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2021-cars-mumbai-10333991712/
+Mumbai,2016,Hyundai,Grand i10 ,Manual,"₹4,03,999","23,846 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1032391860/
+Mumbai,2014,Maruti,Swift Dzire ,Manual,"₹4,47,599","40,877 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2014-cars-mumbai-1036097060/
+Mumbai,2021,Tata,Tiago  ,Manual,"₹6,94,699","2,897 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2021-cars-mumbai-10340697795/
+Mumbai,2017,Tata,NEXON  ,Manual,"₹7,68,199","19,863 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2017-cars-mumbai-1030364460/
+Mumbai,2013,Maruti,Alto 800 ,Manual,"₹2,56,499","40,509 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2013-cars-mumbai-1039973966/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹5,58,399","16,381 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1034866463/
+Mumbai,2016,Volkswagen,Vento  ,Manual,"₹6,10,499","20,393 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2016-cars-mumbai-10383993779/
+Mumbai,2017,Renault,Kwid  ,Manual,"₹3,66,399","9,512 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-mumbai-10331698718/
+Mumbai,2014,Volkswagen,Vento  ,Manual,"₹4,29,999","68,983 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2014-cars-mumbai-1030834766/
+Mumbai,2020,Hyundai,Creta  ,Manual,"₹12,86,799","11,301 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-mumbai-10362495774/
+Mumbai,2019,KIA,SELTOS  ,Manual,"₹16,01,199","5,914 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2019-cars-mumbai-1037366924/
+Mumbai,2016,Hyundai,Grand i10 ,Manual,"₹4,36,199","40,124 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1037510441/
+Mumbai,2018,Hyundai,Grand i10 ,Manual,"₹5,07,299","22,796 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-mumbai-1039845264/
+Mumbai,2017,Maruti,Wagon R 1.0,Manual,"₹3,93,999","11,435 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-mumbai-1067708148/
+Mumbai,2014,Maruti,Swift  ,Manual,"₹4,11,099","58,873 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2014-cars-mumbai-1039894369/
+Mumbai,2019,Renault,Kwid  ,Automatic,"₹4,60,099","7,765 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-mumbai-1063536409/
+Mumbai,2014,Hyundai,Grand i10 ,Manual,"₹4,17,699","26,735 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-mumbai-1037754160/
+Mumbai,2014,Toyota,Corolla Altis ,Manual,"₹6,93,699","55,578 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2014-cars-mumbai-1032051368/
+Mumbai,2014,Hyundai,Grand i10 ,Manual,"₹4,33,899","26,983 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-mumbai-1032434969/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹5,40,499","22,549 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1030615404/
+Mumbai,2017,Volkswagen,Polo  ,Automatic,"₹6,72,499","40,279 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2017-cars-mumbai-1039249963/
+Mumbai,2018,Maruti,Celerio  ,Manual,"₹4,77,099","18,389 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-mumbai-1037180564/
+Mumbai,2017,Maruti,Celerio  ,Manual,"₹4,52,099","36,763 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-mumbai-1035263969/
+Mumbai,2018,Maruti,Celerio  ,Manual,"₹5,30,299","6,305 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-mumbai-1030801366/
+Mumbai,2019,KIA,SELTOS  ,Manual,"₹15,67,899","14,370 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2019-cars-mumbai-1030717805/
+Mumbai,2016,Volkswagen,Ameo  ,Manual,"₹4,50,699","38,046 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-ameo-2016-cars-mumbai-10348698776/
+Mumbai,2018,Honda,City  ,Manual,"₹7,63,299","15,132 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-mumbai-1030720108/
+Mumbai,2018,Tata,Tiago  ,Automatic,"₹5,34,199","48,987 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-mumbai-10311296773/
+Mumbai,2016,Honda,Jazz  ,Manual,"₹5,08,899","53,879 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-mumbai-1037272266/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,35,999","25,082 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1037031369/
+Mumbai,2020,Maruti,Ciaz  ,Manual,"₹9,03,199","14,444 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2020-cars-mumbai-1034576865/
+Mumbai,2016,Volkswagen,Vento  ,Automatic,"₹6,19,099","76,689 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2016-cars-mumbai-1038512469/
+Mumbai,2016,Hyundai,Grand i10 ,Manual,"₹4,49,899","26,979 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1038162905/
+Mumbai,2013,Hyundai,Grand i10 ,Manual,"₹3,92,999","29,411 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2013-cars-mumbai-1039988165/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹5,98,599","6,954 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1032129468/
+Mumbai,2019,Maruti,Vitara Brezza ,Manual,"₹8,38,699","30,236 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-mumbai-1030848863/
+Mumbai,2019,Hyundai,VENUE  ,Manual,"₹9,75,099","73,561 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-mumbai-1035420965/
+Mumbai,2016,Maruti,Wagon R 1.0,Manual,"₹4,33,799","20,771 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-mumbai-10347196771/
+Mumbai,2019,Tata,Harrier  ,Manual,"₹14,50,099","55,447 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-tata-harrier-2019-cars-mumbai-1036496962/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹5,59,399","10,022 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1039072305/
+Mumbai,2017,Ford,Ecosport  ,Manual,"₹6,17,899","21,407 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1031385169/
+Mumbai,2020,Maruti,S PRESSO ,Manual,"₹5,62,599","29,918 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-mumbai-10307792716/
+Mumbai,2018,Ford,Ecosport  ,Manual,"₹7,65,799","28,127 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-mumbai-1035166864/
+Mumbai,2018,Hyundai,Creta  ,Automatic,"₹13,53,899","21,203 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-mumbai-1037514767/
+Mumbai,2019,Honda,Amaze  ,Automatic,"₹8,06,399","6,341 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2019-cars-mumbai-1034542168/
+Mumbai,2018,Honda,Jazz  ,Manual,"₹6,90,699","26,796 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2018-cars-mumbai-1033086065/
+Mumbai,2017,Toyota,Etios  ,Manual,"₹5,91,399","73,896 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-etios-2017-cars-mumbai-1031810560/
+Mumbai,2015,Hyundai,Elite i20 ,Manual,"₹5,95,699","79,569 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-mumbai-1030120063/
+Mumbai,2019,MG,HECTOR  ,Manual,"₹17,17,699","12,937 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1033508660/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,67,599","9,363 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1033816800/
+Mumbai,2019,Hyundai,Elite i20 ,Manual,"₹7,58,999","34,853 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-mumbai-1036410767/
+Mumbai,2019,Maruti,Vitara Brezza ,Manual,"₹9,04,599","27,166 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-mumbai-1034043760/
+Mumbai,2014,Toyota,Corolla Altis ,Manual,"₹6,64,499","22,434 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2014-cars-mumbai-1036508308/
+Mumbai,2020,Maruti,Dzire  ,Automatic,"₹7,73,899","17,083 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2020-cars-mumbai-1039900666/
+Mumbai,2015,Hyundai,Creta  ,Manual,"₹8,51,999","60,227 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2015-cars-mumbai-1036492762/
+Mumbai,2019,Maruti,Alto K10 ,Manual,"₹3,90,299","9,370 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-mumbai-1037776444/
+Mumbai,2019,Hyundai,Elite i20 ,Manual,"₹7,61,099",422 km,1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-mumbai-1039361767/
+Mumbai,2017,Ford,Ecosport  ,Manual,"₹7,31,699","20,082 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1037942966/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,70,399","67,248 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1037980467/
+Mumbai,2017,Maruti,Dzire  ,Manual,"₹6,99,499","38,393 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-1033406569/
+Mumbai,2017,Maruti,Dzire  ,Automatic,"₹6,58,399","67,154 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-1036910303/
+Mumbai,2019,Hyundai,Elite i20 ,Automatic,"₹8,85,199","16,358 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-mumbai-1038823364/
+Mumbai,2015,Hyundai,Elite i20 ,Manual,"₹4,99,099","63,961 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-mumbai-1039461064/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹5,81,499","28,197 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1037718869/
+Mumbai,2020,Hyundai,VENUE  ,Manual,"₹10,11,099","18,221 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-mumbai-1067808509/
+Mumbai,2021,Maruti,S PRESSO ,Manual,"₹4,48,499","3,654 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-mumbai-1033035866/
+Mumbai,2020,Hyundai,NEW SANTRO ,Automatic,"₹6,42,618","12,875 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2020-cars-mumbai-10386992771/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹6,24,099","45,380 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1032492303/
+Mumbai,2019,Honda,Amaze  ,Automatic,"₹7,77,699","24,978 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-honda-amaze-2019-cars-mumbai-1030167400/
+Mumbai,2020,Maruti,Dzire  ,Manual,"₹7,53,099","8,384 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2020-cars-mumbai-1038424361/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹6,50,599","71,772 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1032113261/
+Mumbai,2019,Maruti,Vitara Brezza ,Manual,"₹8,62,699","57,702 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-mumbai-1030566443/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹6,80,199","41,034 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1036778567/
+Mumbai,2018,Maruti,Baleno  ,Manual,"₹6,00,599","26,382 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1033350100/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,28,899","83,600 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1038982701/
+Mumbai,2018,Maruti,Ciaz  ,Manual,"₹7,35,099","44,452 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2018-cars-mumbai-1037444863/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹5,61,999","69,421 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1030073006/
+Mumbai,2017,Maruti,Dzire  ,Automatic,"₹6,04,799","57,977 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-1037057560/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹6,82,099","19,673 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1036690662/
+Mumbai,2017,Jeep,Compass  ,Manual,"₹13,93,539","24,588 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-mumbai-1032894663/
+Mumbai,2019,MG,HECTOR  ,Automatic,"₹18,17,799","18,570 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-10336696771/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,40,999","40,361 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1030460903/
+Mumbai,2019,Volkswagen,Ameo  ,Manual,"₹5,70,499","7,127 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-ameo-2019-cars-mumbai-1039576606/
+Mumbai,2019,Hyundai,VENUE  ,Manual,"₹9,03,399","22,716 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-mumbai-1039832560/
+Mumbai,2014,Honda,CRV  ,Automatic,"₹10,60,699","1,03,411 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-crv-2014-cars-mumbai-1060605145/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹5,69,999","63,277 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1030346149/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,48,299","76,366 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1030495664/
+Mumbai,2018,Maruti,Ciaz  ,Manual,"₹7,12,999","51,725 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2018-cars-mumbai-1036464063/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,78,399","76,773 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1032093860/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹7,41,999","47,158 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1038590369/
+Mumbai,2018,Honda,WR-V  ,Manual,"₹7,43,299","14,930 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2018-cars-mumbai-1034192741/
+Mumbai,2017,Ford,Figo Aspire ,Manual,"₹4,65,699","1,41,022 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-figo-aspire-2017-cars-mumbai-1032569104/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹7,04,199","6,829 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1031758164/
+Mumbai,2020,Maruti,S PRESSO ,Automatic,"₹5,34,699","2,799 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-mumbai-1036820062/
+Mumbai,2017,Hyundai,Verna  ,Manual,"₹11,20,099","53,640 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2017-cars-mumbai-1030526864/
+Mumbai,2020,Honda,Jazz  ,Automatic,"₹10,61,999","11,909 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2020-cars-mumbai-10353893772/
+Mumbai,2016,Hyundai,i20 Active ,Manual,"₹5,46,499","47,707 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2016-cars-mumbai-1032979969/
+Mumbai,2021,Skoda,Rapid  ,Automatic,"₹12,06,099","4,245 km",1st Owner,Petrol,https://www.cars24.com/buy-used-skoda-rapid-2021-cars-mumbai-1038784365/
+Mumbai,2018,Skoda,Octavia  ,Automatic,"₹17,59,499","26,809 km",1st Owner,Petrol,https://www.cars24.com/buy-used-skoda-octavia-2018-cars-mumbai-1033980863/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹6,19,499","29,794 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1036472743/
+Mumbai,2016,Maruti,Baleno  ,Manual,"₹5,86,699","47,421 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1033519004/
+Mumbai,2017,Honda,WR-V  ,Manual,"₹7,44,399","7,006 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2017-cars-mumbai-1034724660/
+Mumbai,2017,Maruti,Vitara Brezza ,Manual,"₹7,55,699","78,266 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-mumbai-1030585943/
+Mumbai,2017,Maruti,Wagon R 1.0,Automatic,"₹4,46,799","47,072 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-mumbai-10366192771/
+Mumbai,2019,Honda,Amaze  ,Automatic,"₹8,14,099","13,164 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2019-cars-mumbai-1038338063/
+Mumbai,2019,Maruti,S PRESSO ,Manual,"₹4,27,299","61,555 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-mumbai-1031668063/
+Mumbai,2017,Honda,WR-V  ,Manual,"₹7,44,399","46,201 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2017-cars-mumbai-10324898772/
+Mumbai,2019,MG,HECTOR  ,Automatic,"₹16,14,999","7,231 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1036409442/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹7,88,099","10,356 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-1030690565/
+Mumbai,2017,Ford,Ecosport  ,Manual,"₹7,26,999","30,575 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1039646104/
+Mumbai,2016,Hyundai,Grand i10 ,Automatic,"₹5,10,599","71,122 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1038610060/
+Mumbai,2018,Honda,WR-V  ,Manual,"₹7,67,599","25,660 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2018-cars-mumbai-1034492747/
+Mumbai,2018,Honda,City  ,Automatic,"₹10,51,799","33,613 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-mumbai-1037937008/
+Mumbai,2021,Maruti,Alto  ,Manual,"₹4,49,699","3,401 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-mumbai-1030518367/
+Mumbai,2018,Maruti,Ciaz  ,Manual,"₹9,09,499","56,836 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2018-cars-mumbai-1032924765/
+Mumbai,2018,Ford,Figo Aspire ,Manual,"₹5,67,399","48,494 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-figo-aspire-2018-cars-mumbai-1032772023/
+Mumbai,2018,Honda,City  ,Automatic,"₹11,30,299","10,411 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2018-cars-mumbai-1035894462/
+Mumbai,2016,Nissan,Terrano  ,Manual,"₹6,23,599","1,34,109 km",1st Owner,Diesel,https://www.cars24.com/buy-used-nissan-terrano-2016-cars-mumbai-1031075102/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹6,46,699","40,567 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1031120068/
+Mumbai,2018,Hyundai,Creta  ,Automatic,"₹13,30,299","42,659 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-mumbai-1035810347/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹8,02,299","8,782 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-1030476568/
+Mumbai,2019,Hyundai,VENUE  ,Manual,"₹9,59,199","26,191 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-mumbai-1032337267/
+Mumbai,2017,Maruti,S Cross ,Manual,"₹7,63,199","58,498 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-mumbai-1034071569/
+Mumbai,2018,Tata,NEXON  ,Manual,"₹8,26,099","38,171 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2018-cars-mumbai-1030616667/
+Mumbai,2019,Maruti,S Cross ,Manual,"₹10,79,999","24,639 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2019-cars-mumbai-1031991160/
+Mumbai,2017,Maruti,S Cross ,Manual,"₹7,39,299","86,627 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-mumbai-1037710262/
+Mumbai,2020,KIA,SELTOS  ,Automatic,"₹16,82,799","13,868 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-mumbai-1037264765/
+Mumbai,2018,Hyundai,Verna  ,Automatic,"₹11,12,599","47,186 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-mumbai-1039493740/
+Mumbai,2017,Maruti,IGNIS  ,Manual,"₹4,95,799","21,057 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-mumbai-1039734564/
+Mumbai,2017,Ford,Ecosport  ,Automatic,"₹7,66,499","30,212 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1034681600/
+Mumbai,2018,Jeep,Compass  ,Automatic,"₹14,57,899","25,897 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-jeep-compass-2018-cars-mumbai-1034320221/
+Mumbai,2017,Maruti,IGNIS  ,Manual,"₹4,53,099","40,312 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-mumbai-1035674040/
+Mumbai,2020,KIA,SELTOS  ,Automatic,"₹18,92,957","12,331 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-mumbai-1039212765/
+Mumbai,2017,Maruti,Vitara Brezza ,Manual,"₹7,88,499","1,14,807 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-mumbai-1037323643/
+Mumbai,2018,Hyundai,Verna  ,Automatic,"₹10,72,799","23,043 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-mumbai-1038773503/
+Mumbai,2018,Honda,WR-V  ,Manual,"₹7,86,599","42,503 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2018-cars-mumbai-1039926048/
+Mumbai,2019,Maruti,Ertiga  ,Automatic,"₹10,50,799","18,762 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2019-cars-mumbai-1034185868/
+Mumbai,2012,Maruti,Swift Dzire ,Manual,"₹4,41,299","50,487 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2012-cars-mumbai-1036659643/
+Mumbai,2014,Maruti,Swift  ,Manual,"₹3,88,599","56,830 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2014-cars-mumbai-1034812443/
+Mumbai,2012,Maruti,Swift Dzire ,Manual,"₹4,01,499","1,62,410 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2012-cars-mumbai-1035399044/
+Mumbai,2013,Maruti,Alto 800 ,Manual,"₹2,53,199","45,886 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2013-cars-mumbai-1033083860/
+Mumbai,2016,Toyota,Innova Crysta ,Automatic,"₹14,86,559","74,162 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-crysta-2016-cars-mumbai-1034520365/
+Mumbai,2017,Mahindra,Scorpio  ,Manual,"₹12,46,499","52,077 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2017-cars-mumbai-1032978462/
+Mumbai,2011,Hyundai,i20  ,Manual,"₹3,06,499","94,323 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2011-cars-mumbai-1065037845/
+Mumbai,2018,Toyota,Innova Crysta ,Manual,"₹18,14,599","38,559 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-crysta-2018-cars-mumbai-1030029769/
+Mumbai,2016,Maruti,Ertiga  ,Manual,"₹7,79,999","67,194 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-ertiga-2016-cars-mumbai-1034955061/
+Mumbai,2015,Maruti,Wagon R 1.0,Manual,"₹3,46,099","44,433 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-mumbai-1037907960/
+Mumbai,2016,Maruti,Ertiga  ,Manual,"₹8,46,699","58,181 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ertiga-2016-cars-mumbai-1037029760/
+Mumbai,2015,Maruti,Swift  ,Manual,"₹4,71,299","1,42,995 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2015-cars-mumbai-1037585841/
+Mumbai,2019,Maruti,Swift  ,Manual,"₹6,61,799","21,299 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2019-cars-mumbai-10321293779/
+Mumbai,2016,Hyundai,Grand i10 ,Manual,"₹4,75,199","6,972 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1065826720/
+Mumbai,2011,Hyundai,i20  ,Manual,"₹3,19,899","40,485 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2011-cars-mumbai-10394798771/
+Mumbai,2015,Toyota,Corolla Altis ,Manual,"₹6,94,899","77,971 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2015-cars-mumbai-1033082263/
+Mumbai,2020,Tata,Tiago  ,Automatic,"₹6,03,499","87,351 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2020-cars-mumbai-10371595795/
+Mumbai,2020,Renault,TRIBER  ,Automatic,"₹6,89,999","17,396 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2020-cars-mumbai-10335892791/
+Mumbai,2016,Volkswagen,Polo  ,Manual,"₹4,79,099","62,629 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2016-cars-mumbai-1030350164/
+Mumbai,2016,Toyota,Innova Crysta ,Automatic,"₹19,03,099","53,914 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-crysta-2016-cars-mumbai-1035630362/
+Mumbai,2015,Maruti,Ritz  ,Manual,"₹3,23,699","51,486 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ritz-2015-cars-mumbai-1033444969/
+Mumbai,2019,Renault,TRIBER  ,Manual,"₹7,09,299","16,767 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-mumbai-10321991776/
+Mumbai,2015,Maruti,Swift  ,Manual,"₹4,22,999","39,404 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2015-cars-mumbai-1033662569/
+Mumbai,2016,Toyota,Corolla Altis ,Manual,"₹8,31,099","77,968 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2016-cars-mumbai-1036835662/
+Mumbai,2018,Tata,Tiago  ,Manual,"₹4,93,235","12,199 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-mumbai-1030844261/
+Mumbai,2016,Honda,Brio  ,Manual,"₹3,67,099","59,581 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2016-cars-mumbai-1039424369/
+Mumbai,2013,Hyundai,Sonata  ,Automatic,"₹5,90,499","61,811 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-sonata-2013-cars-mumbai-1030574967/
+Mumbai,2020,Maruti,New Wagon-R ,Manual,"₹6,52,899","11,696 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2020-cars-mumbai-10305690717/
+Mumbai,2015,Maruti,Wagon R 1.0,Manual,"₹3,62,199","5,738 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-mumbai-1032943768/
+Mumbai,2019,Mahindra,XUV500  ,Manual,"₹17,32,099","47,670 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2019-cars-mumbai-1033413266/
+Mumbai,2015,Hyundai,Elite i20 ,Manual,"₹5,48,899","24,819 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-mumbai-10325494774/
+Mumbai,2014,Mercedes,Benz C Class,Automatic,"₹15,55,399","61,251 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mercedes-benz-c-class-2014-cars-mumbai-1031242765/
+Mumbai,2021,Mahindra,XUV 3OO ,,"₹10,88,799","9,583 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mahindra-xuv-3oo-2021-cars-mumbai-10365694775/
+Mumbai,2018,Maruti,Swift  ,Manual,"₹6,86,499","30,280 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-mumbai-10365798775/
+Mumbai,2020,Toyota,URBAN CRUISER ,,"₹12,35,599","9,859 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-urban-cruiser-2020-cars-mumbai-1037266369/
+Mumbai,2021,Hyundai,NEW SANTRO ,Manual,"₹5,78,099","2,371 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2021-cars-mumbai-1035456765/
+Mumbai,2019,Ford,Ecosport  ,Manual,"₹7,83,599","30,786 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-mumbai-1033273323/
+Mumbai,2014,Honda,Brio  ,Manual,"₹3,83,199","37,492 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2014-cars-mumbai-1038945360/
+Mumbai,2014,Maruti,Wagon R 1.0,Manual,"₹3,56,199","32,401 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-mumbai-1033227360/
+Mumbai,2015,Honda,City  ,Manual,"₹6,60,799","54,831 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2015-cars-mumbai-1035750564/
+Mumbai,2014,Maruti,Celerio  ,Automatic,"₹3,96,899","17,629 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2014-cars-mumbai-1037586068/
+Mumbai,2019,Renault,TRIBER  ,Manual,"₹7,09,399","13,577 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-mumbai-1036016768/
+Mumbai,2015,Maruti,Alto K10 ,Manual,"₹2,95,699","43,901 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-mumbai-1036378768/
+Mumbai,2020,Maruti,Vitara Brezza ,Manual,"₹9,09,599","19,798 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2020-cars-mumbai-1038466840/
+Mumbai,2013,Honda,Amaze  ,Manual,"₹4,08,099","32,058 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2013-cars-mumbai-1037370069/
+Mumbai,2013,Honda,Amaze  ,Manual,"₹4,20,399","12,742 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2013-cars-mumbai-1036498667/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,95,059","32,735 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1032654560/
+Mumbai,2019,MG,HECTOR  ,Automatic,"₹16,66,699","3,455 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1037996441/
+Mumbai,2020,Honda,City  ,Manual,"₹10,53,299","14,609 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-mumbai-1031561566/
+Mumbai,2018,Hyundai,Grand i10 ,Manual,"₹6,17,699","8,472 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-mumbai-1039513261/
+Mumbai,2018,Hyundai,Elite i20 ,Manual,"₹5,86,699","29,445 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-mumbai-1037862062/
+Mumbai,2021,Maruti,Vitara Brezza ,Manual,"₹9,99,799","2,361 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2021-cars-mumbai-1031355966/
+Mumbai,2018,Tata,Hexa  ,Manual,"₹11,27,499","90,026 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2018-cars-mumbai-1031458064/
+Mumbai,2017,Maruti,Celerio  ,Manual,"₹4,52,599","24,459 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-mumbai-1030180069/
+Mumbai,2015,Hyundai,Elite i20 ,Manual,"₹4,86,099","57,231 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-mumbai-1039448465/
+Mumbai,2017,Hyundai,Grand i10 ,Manual,"₹4,99,699","7,430 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-mumbai-1033029266/
+Mumbai,2016,Honda,Brio  ,Automatic,"₹5,35,399","42,877 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2016-cars-mumbai-1034521760/
+Mumbai,2018,Hyundai,Grand i10 ,Manual,"₹5,60,082","17,350 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-mumbai-1037766462/
+Mumbai,2015,Hyundai,Eon  ,Manual,"₹3,22,599","33,019 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2015-cars-mumbai-1033638064/
+Mumbai,2015,Hyundai,Elite i20 ,Manual,"₹5,64,799","23,283 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-mumbai-1034543364/
+Mumbai,2015,Maruti,Ciaz  ,Manual,"₹5,49,617","67,695 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2015-cars-mumbai-10325490778/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,48,699","21,655 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1031146260/
+Mumbai,2016,Maruti,Baleno  ,Automatic,"₹6,67,899","69,468 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-mumbai-1034418064/
+Mumbai,2021,Honda,Jazz  ,Automatic,"₹10,09,399","4,550 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2021-cars-mumbai-10349294773/
+Mumbai,2019,Honda,Amaze  ,Manual,"₹6,57,199","13,789 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2019-cars-mumbai-1033730860/
+Mumbai,2018,Ford,Figo Aspire ,Manual,"₹5,81,099","31,896 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-figo-aspire-2018-cars-mumbai-1037698009/
+Mumbai,2019,Maruti,Alto K10 ,Manual,"₹3,87,199","15,223 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-mumbai-1034430908/
+Mumbai,2013,Hyundai,Grand i10 ,Manual,"₹3,96,899","34,270 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2013-cars-mumbai-1037584864/
+Mumbai,2021,Maruti,S PRESSO ,Manual,"₹5,27,999",698 km,1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-mumbai-1039362866/
+Mumbai,2016,Maruti,Ciaz  ,Manual,"₹6,23,499","73,308 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2016-cars-mumbai-1036430167/
+Mumbai,2014,Hyundai,i20  ,Manual,"₹5,06,799","47,834 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2014-cars-mumbai-1036413866/
+Mumbai,2016,Hyundai,Grand i10 ,Manual,"₹4,63,799","18,210 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1031322001/
+Mumbai,2019,Honda,Amaze  ,Manual,"₹6,57,199","28,915 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2019-cars-mumbai-1036678962/
+Mumbai,2017,Ford,Ecosport  ,Manual,"₹7,27,999","62,466 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1039542066/
+Mumbai,2017,Datsun,Redi Go ,Manual,"₹2,94,099","27,207 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2017-cars-mumbai-1037836660/
+Mumbai,2013,Hyundai,i10  ,Automatic,"₹3,66,199","47,815 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2013-cars-mumbai-1032696165/
+Mumbai,2018,Mahindra,XUV500  ,Automatic,"₹15,90,699","61,096 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2018-cars-mumbai-1034218260/
+Mumbai,2019,Maruti,Dzire  ,Automatic,"₹6,86,599","12,949 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2019-cars-mumbai-10321796712/
+Mumbai,2016,Maruti,Vitara Brezza ,Manual,"₹8,11,499","37,091 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-mumbai-1035316663/
+Mumbai,2020,Tata,Harrier  ,Manual,"₹21,34,699","13,596 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-harrier-2020-cars-mumbai-1038110665/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹6,09,999","29,433 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1039692969/
+Mumbai,2019,Hyundai,Creta  ,Automatic,"₹14,32,699","17,464 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2019-cars-mumbai-1034597568/
+Mumbai,2019,Hyundai,Verna  ,Automatic,"₹12,97,799","35,135 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-verna-2019-cars-mumbai-1034575066/
+Mumbai,2015,Hyundai,Grand i10 ,Manual,"₹4,38,499","14,861 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-mumbai-1038318267/
+Mumbai,2016,Hyundai,Creta  ,Automatic,"₹10,06,999","29,349 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2016-cars-mumbai-1031006765/
+Mumbai,2019,Volkswagen,Vento  ,Automatic,"₹9,62,999","37,905 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2019-cars-mumbai-1031111864/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹6,69,899","30,420 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1032908669/
+Mumbai,2018,Renault,Kwid  ,Automatic,"₹4,53,399","7,228 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-mumbai-1034114068/
+Mumbai,2018,Hyundai,Eon  ,Manual,"₹3,62,299","36,057 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2018-cars-mumbai-1037676867/
+Mumbai,2019,Honda,Civic  ,,"₹18,27,999","13,817 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-civic-2019-cars-mumbai-1030781761/
+Mumbai,2017,Maruti,Dzire  ,Manual,"₹6,73,999","49,684 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-1030521466/
+Mumbai,2021,Volkswagen,Vento  ,Manual,"₹14,79,999","8,548 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2021-cars-mumbai-10347690711/
+Mumbai,2016,Honda,Jazz  ,Automatic,"₹5,93,599","66,112 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-mumbai-1038287309/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹5,74,501","28,006 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1039621463/
+Mumbai,2017,Maruti,Dzire  ,Manual,"₹6,54,899","28,971 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-10332594778/
+Mumbai,2016,Hyundai,Grand i10 ,Manual,"₹5,12,099","24,517 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1035970267/
+Mumbai,2018,Maruti,Dzire  ,Automatic,"₹8,11,799","23,504 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-pune-10660393777/
+Mumbai,2018,Maruti,Baleno  ,Automatic,"₹6,78,699","13,825 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1034634667/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹7,58,999",498 km,1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-1035673360/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹5,97,593","31,169 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1037790266/
+Mumbai,2019,Maruti,Vitara Brezza ,Manual,"₹8,38,699","49,323 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-mumbai-1034100260/
+Mumbai,2017,Maruti,Ciaz  ,Manual,"₹6,91,599","62,783 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-mumbai-1034296364/
+Mumbai,2018,Maruti,Dzire  ,Automatic,"₹7,40,499","24,068 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1032315168/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹7,01,899","53,823 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1032786362/
+Mumbai,2019,Honda,City  ,Automatic,"₹10,24,499","40,797 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2019-cars-mumbai-1032320061/
+Mumbai,2015,Maruti,Wagon R 1.0,Manual,"₹3,79,099","38,491 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-mumbai-1039520664/
+Mumbai,2018,Tata,TIGOR  ,Automatic,"₹5,27,899","51,703 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tigor-2018-cars-mumbai-10337394717/
+Mumbai,2017,Maruti,Dzire  ,Manual,"₹5,12,699","53,754 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-1036376461/
+Mumbai,2017,Volkswagen,Vento  ,Automatic,"₹7,61,044","45,176 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2017-cars-mumbai-1033452363/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹7,04,199","36,463 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1032734660/
+Mumbai,2016,Hyundai,Elite i20 ,Manual,"₹5,48,699","61,279 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-mumbai-1039932760/
+Mumbai,2017,Maruti,Dzire  ,Manual,"₹6,76,013","24,887 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-1033715866/
+Mumbai,2014,Hyundai,Grand i10 ,Manual,"₹3,95,299","68,292 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-mumbai-1035120069/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹5,74,499","25,369 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1030048966/
+Mumbai,2017,Hyundai,Grand i10 ,Manual,"₹4,80,899","13,771 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-mumbai-1030968865/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹6,59,799","22,331 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1031605869/
+Mumbai,2016,Volkswagen,Ameo  ,Manual,"₹5,01,799","51,558 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-ameo-2016-cars-mumbai-1036112268/
+Mumbai,2017,Maruti,Dzire  ,Automatic,"₹6,21,699","20,264 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-mumbai-1039581940/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹6,55,099","38,537 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1038590168/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹6,32,499","50,910 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1033436804/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹6,48,299","19,703 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1038061809/
+Mumbai,2019,MG,HECTOR  ,Manual,"₹16,92,699","42,021 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1036478965/
+Mumbai,2017,Jeep,Compass  ,Manual,"₹12,99,349","29,159 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-mumbai-1036197769/
+Mumbai,2018,Maruti,Dzire  ,Manual,"₹7,04,199","28,567 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-mumbai-1037544866/
+Mumbai,2019,Hyundai,Grand i10 ,Manual,"₹5,56,099","26,161 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-mumbai-1039007763/
+Mumbai,2019,MG,HECTOR  ,Manual,"₹16,06,211","19,802 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2019-cars-mumbai-1037226068/
+Mumbai,2017,Jeep,Compass  ,Manual,"₹13,06,099","26,404 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-mumbai-1034403623/
+Mumbai,2019,Hyundai,Elite i20 ,Automatic,"₹8,44,999","25,349 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-mumbai-1034368963/
+Mumbai,2020,Maruti,S PRESSO ,Manual,"₹4,81,999","2,676 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-mumbai-1033284962/
+Mumbai,2017,Hyundai,Elite i20 ,Manual,"₹5,91,899","51,545 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-mumbai-1037385566/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹5,61,699","81,903 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1039670267/
+Mumbai,2017,Jeep,Compass  ,Manual,"₹12,51,899","68,172 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-mumbai-1038664163/
+Mumbai,2016,Hyundai,Grand i10 ,Manual,"₹5,23,899","40,669 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-mumbai-1037343504/
+Mumbai,2019,Ford,Ecosport  ,Manual,"₹8,75,099","17,655 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-mumbai-1032695806/
+Mumbai,2018,Maruti,Ciaz  ,Manual,"₹7,26,199","42,488 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2018-cars-mumbai-1033684967/
+Mumbai,2017,Honda,Jazz  ,Automatic,"₹6,30,299","57,606 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2017-cars-mumbai-1033012562/
+Mumbai,2017,Jeep,Compass  ,Manual,"₹12,53,899","50,485 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-mumbai-1035398065/
+Mumbai,2019,Tata,NEXON  ,Automatic,"₹9,44,999","14,768 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2019-cars-mumbai-1033864163/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹7,14,999","31,471 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-1038642067/
+Mumbai,2016,Skoda,Superb  ,Automatic,"₹19,58,799","46,514 km",1st Owner,Diesel,https://www.cars24.com/buy-used-skoda-superb-2016-cars-mumbai-1031493628/
+Mumbai,2018,Mahindra,MARAZZO  ,,"₹11,28,499","7,365 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-marazzo-2018-cars-mumbai-1030567263/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹6,35,499","18,632 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1035629862/
+Mumbai,2018,Tata,NEXON  ,Manual,"₹7,40,199","37,918 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2018-cars-mumbai-1038398266/
+Mumbai,2018,Hyundai,Creta  ,Automatic,"₹12,10,199","33,823 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-mumbai-1033846166/
+Mumbai,2021,Hyundai,VENUE  ,Automatic,"₹13,33,899","3,028 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2021-cars-mumbai-10377395777/
+Mumbai,2018,Maruti,Alto 800 ,Manual,"₹3,23,199","41,470 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-mumbai-1039975560/
+Mumbai,2016,Maruti,Vitara Brezza ,Manual,"₹7,34,599","66,275 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-mumbai-1038200667/
+Mumbai,2020,MG,HECTOR PLUS ,,"₹18,27,199","17,984 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-plus-2020-cars-mumbai-1032958564/
+Mumbai,2015,Hyundai,Elite i20 ,Manual,"₹5,59,699","51,788 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-mumbai-10312691771/
+Mumbai,2019,Hyundai,VENUE  ,Manual,"₹10,35,499","7,846 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-mumbai-1033601908/
+Mumbai,2017,Honda,WR-V  ,Manual,"₹7,70,499","14,909 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2017-cars-mumbai-1032464045/
+Mumbai,2017,Maruti,Baleno  ,Manual,"₹6,11,899","40,618 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1038290462/
+Mumbai,2021,Maruti,Alto  ,Manual,"₹4,39,689","9,706 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-mumbai-1034760660/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹7,20,399","42,287 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-1030513161/
+Mumbai,2021,Hyundai,VENUE  ,Manual,"₹10,80,399","25,426 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2021-cars-mumbai-1037436468/
+Mumbai,2019,Maruti,Vitara Brezza ,Manual,"₹9,04,599","74,105 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2019-cars-mumbai-1034170867/
+Mumbai,2018,Hyundai,NEW SANTRO ,Manual,"₹4,48,099","9,395 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-mumbai-1034008366/
+Mumbai,2019,Hyundai,VENUE  ,Manual,"₹9,29,399","96,000 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-mumbai-1032509400/
+Mumbai,2018,Maruti,Baleno  ,Manual,"₹6,32,399","37,219 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1037380668/
+Mumbai,2018,Maruti,Baleno  ,Manual,"₹6,22,399","42,213 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1038095265/
+Mumbai,2017,Honda,City  ,Automatic,"₹8,61,599","69,376 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-mumbai-1037996367/
+Mumbai,2018,Ford,Ecosport  ,Manual,"₹8,26,899","17,181 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-mumbai-1039883763/
+Mumbai,2017,Honda,City  ,Manual,"₹8,92,099","27,432 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-mumbai-1031366469/
+Mumbai,2019,Maruti,Baleno  ,Manual,"₹7,54,799","9,633 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-mumbai-1030477766/
+Mumbai,2015,Maruti,Baleno  ,Manual,"₹5,42,799","61,347 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2015-cars-mumbai-1031957764/
+Mumbai,2018,Maruti,Ciaz  ,Manual,"₹8,53,249","15,002 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2018-cars-mumbai-1039730468/
+Mumbai,2019,Maruti,IGNIS  ,Manual,"₹5,89,331","8,375 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2019-cars-mumbai-1037550762/
+Mumbai,2017,Maruti,Vitara Brezza ,Manual,"₹8,60,299","75,388 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-mumbai-1031766365/
+Mumbai,2017,Maruti,Baleno  ,Automatic,"₹6,57,899","31,739 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-mumbai-1037876862/
+Mumbai,2017,Maruti,S Cross ,Manual,"₹7,51,599","43,945 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-mumbai-1037970505/
+Mumbai,2018,Hyundai,Creta  ,Manual,"₹11,52,799","69,182 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-mumbai-1036905260/
+Mumbai,2018,Hyundai,Creta  ,Automatic,"₹12,30,099","57,613 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-mumbai-10383190776/
+Mumbai,2017,Ford,Ecosport  ,Automatic,"₹7,16,099","41,579 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-mumbai-1037101708/
+Mumbai,2018,Maruti,Baleno  ,Manual,"₹7,52,991","47,492 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-mumbai-1031188662/
+Mumbai,2020,MG,HECTOR  ,Automatic,"₹18,10,499","39,123 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2020-cars-mumbai-1037470662/
+Mumbai,2020,MG,HECTOR  ,Automatic,"₹17,47,175","58,143 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2020-cars-mumbai-1033200769/
+Mumbai,2017,Honda,City  ,Automatic,"₹8,76,899","49,517 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-mumbai-1039539168/
+Mumbai,2018,Toyota,YARIS  ,,"₹11,52,799","21,126 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-mumbai-1034177969/
+Mumbai,2018,Honda,WR-V  ,Manual,"₹8,11,999","57,875 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2018-cars-mumbai-1033777369/
+Mumbai,2019,Maruti,IGNIS  ,Automatic,"₹6,51,299","25,444 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2019-cars-mumbai-10311893775/
+Mumbai,2017,Maruti,IGNIS  ,Manual,"₹4,67,799","8,225 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-mumbai-1032546860/
+Mumbai,2018,Honda,Amaze  ,,"₹7,54,199","14,696 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2018-cars-mumbai-1035100106/
+Mumbai,2018,Mahindra,MARAZZO  ,,"₹10,44,899","37,674 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-marazzo-2018-cars-mumbai-1034847965/
+Mumbai,2019,Jeep,Compass  ,Automatic,"₹20,25,399","25,453 km",1st Owner,Petrol,https://www.cars24.com/buy-used-jeep-compass-2019-cars-mumbai-1035266061/
+Mumbai,2017,Maruti,IGNIS  ,Manual,"₹4,99,699","28,680 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-mumbai-1039355064/
+Mumbai,2015,Maruti,S Cross ,Manual,"₹5,64,599","1,21,185 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2015-cars-mumbai-1031037143/
+Mumbai,2018,Ford,Ecosport  ,Manual,"₹8,10,799","40,270 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-mumbai-1035888607/
+Mumbai,2020,KIA,SELTOS  ,Automatic,"₹18,92,599","6,434 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-mumbai-1035274566/
+Mumbai,2021,MG,HECTOR  ,Automatic,"₹20,11,599","8,077 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2021-cars-mumbai-1036353469/
+Mumbai,2018,Hyundai,Tucson New ,Automatic,"₹21,62,199","11,114 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-tucson-new-2018-cars-mumbai-10396994770/
+Mumbai,2018,Hyundai,Verna  ,Automatic,"₹11,16,299","29,261 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-mumbai-1030302045/
+Mumbai,2018,Toyota,YARIS  ,Manual,"₹7,22,299","29,324 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-mumbai-1032663007/
+Mumbai,2013,Maruti,Wagon R 1.0,Manual,"₹2,96,099","21,902 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2013-cars-mumbai-1036536600/
+Mumbai,2017,Maruti,Alto 800 ,Manual,"₹2,91,099","20,824 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-mumbai-1033880040/
+Mumbai,2014,Hyundai,i20  ,Manual,"₹3,93,149","40,860 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2014-cars-mumbai-1034190143/
+Mumbai,2014,Ford,Ecosport  ,Manual,"₹4,79,499","25,976 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-mumbai-1032560320/
+Mumbai,2017,Maruti,Ertiga  ,Manual,"₹8,69,499","26,214 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-ertiga-2017-cars-mumbai-1032256902/
+Mumbai,2016,Hyundai,Creta  ,Manual,"₹7,93,099","23,212 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2016-cars-mumbai-1030494561/
+Mumbai,2020,Maruti,S PRESSO ,Manual,"₹5,41,299","16,517 km",1st Owner,Petrol + CNG,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-mumbai-1037412165/
