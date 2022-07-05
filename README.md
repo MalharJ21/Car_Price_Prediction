@@ -14,9 +14,13 @@ As the title suggests this is an end-to-end project, let me explain how and whic
 
 ### 1:- Collecting Data:-
 
-This involves the process of collecting data from different sources such as any car selling website such as [Cars24](https://www.cars24.com/) , which has records of various cars available. For this I've used Web Scraping i.e I have extracted car's data from the website. Once you write the code you can use it repeatedly after specific intervals for updated data, it makes the the data collection part hassle free. The tools I've used are **Beautiful Soup** & **Selenium**. You can find The code and data for the same here [Web Scrapping of Cars24](https://github.com/MalharJ21/Car_Price_Prediction/tree/main/Web%20Scrapping%20of%20Cars24)
+This involves the process of collecting data from different sources such as any car selling website such as [Cars24](https://www.cars24.com/) , which has records of various cars available. For this I've used Web Scrapping i.e I have extracted car's data from the website. Once you write the code you can use it repeatedly after specific intervals for updated data, it makes the the data collection part hassle free. The tools I've used are **Beautiful Soup** & **Selenium**. You can find The code and data for the same here [Web Scrapping of Cars24](https://github.com/MalharJ21/Car_Price_Prediction/tree/main/Web%20Scrapping%20of%20Cars24)
 
 ### 2:- EDA & Modeling:-
 
 
   
+
+
+
+Feel free to connect with me on LinkedIn(https://www.linkedin.com/in/malhar-jadhav-b2a421213/) for any feedback you have.
